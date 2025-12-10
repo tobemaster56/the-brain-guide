@@ -14,8 +14,278 @@ TheBrain Technologies LP. Other trademarks or service marks appearing herein are
 
 **Table of Contents**
 
+Table of Contents
 
-**Introduction**
+**Introduction ....................................................................................................................... 1**
+
+Thoughts are Information........................................................................................ 1 
+TheBrain’s Dynamic Graphical Interface ................................................................ 2 
+Cross Platform Accessibility ................................................................................... 2 
+About this Guide ..................................................................................................... 2 
+Note to macOS Users ............................................................................................. 3 
+Brain Terminologies ................................................................................................ 3 
+Installing TheBrain and Creating a Brain Account ................................................. 9 
+Opening Older Brains ........................................................................................... 12 
+Suggestions for Transitioning to Your New Brain ................................................ 14
+
+**Understanding Thought Relationships ........................................................................ 15**
+
+Families of Thoughts............................................................................................. 18
+
+**Navigating Your Brain .................................................................................................... 19**
+
+Opening a Brain .................................................................................................... 20 
+Opening a Brain that Doesn’t Appear as a Tab ................................................... 21 
+Managing Brains Using the Tabs ......................................................................... 22 
+Brain Tab Properties ........................................................................................23 
+Windows Menu.................................................................................................24 
+Managing Brains Using the Context Menu ........................................................... 24 
+Favorite Brains .................................................................................................25 
+Opening Content Associated with a Thought ....................................................... 26 
+Showing Thought Content on Hover .................................................................... 26 
+Previewing Thought Content ................................................................................ 26 
+Editing Additional Notes........................................................................................ 28 
+Pins ....................................................................................................................... 28 
+Activating Recent Thoughts: The Past Thought List ............................................ 29 
+Searching a Brain ................................................................................................. 31 
+Instant Activation..............................................................................................31 
+Cross-Brain Search..........................................................................................33 
+Searching within Attachments .........................................................................34 
+Using the Search Box to Search the Web .......................................................34 
+Additional Search Functionality ............................................................................ 36
+
+**Customizing Your Brain’s Environment ...................................................................... 38**
+
+TheBrain’s Default Settings .................................................................................. 38 
+Using Smart-Splitter to Arrange TheBrain Window .............................................. 38 
+Moving Thoughts in the Plex ................................................................................ 39 
+Resizing Thoughts in the Plex .............................................................................. 40
+Customizing a Brain’s Appearance ...................................................................... 42 
+Selecting a Theme ...........................................................................................42 
+Customizing a Theme’s Colors........................................................................44 
+Defining and Selecting Additional Colors ........................................................45 
+Selecting a Custom Image for the Plex ...........................................................46 
+Changing the Default Font in the Plex.............................................................48 
+Changing the Content Area’s Default Attributes .............................................49 
+Viewing and Selecting Prebuilt Styles .............................................................54 
+Copying, Pasting, Importing, and Exporting Styles .........................................55 
+Saving Changes ...............................................................................................56 
+Reverting to the Theme’s Default Settings ......................................................56 
+Saving Themes ................................................................................................56 
+Renaming a Theme .........................................................................................58 
+Deleting a Theme.............................................................................................58 
+Importing and Exporting Themes ....................................................................59 
+Dark Mode............................................................................................................. 60 
+Setting Other Preferences .................................................................................... 61 
+Look & Feel Preferences .................................................................................62 
+Behavior Preferences ......................................................................................64 
+Notes Editor Preferences.................................................................................67 
+System Preferences.........................................................................................71 
+Keyboard Preferences .....................................................................................72 
+Experimental Preferences ...............................................................................80
+
+**Creating Thoughts .......................................................................................................... 81**
+
+Creating a Single Thought .................................................................................... 81 
+Displaying Thought Properties and Details .......................................................... 83 
+Creating Multiple Thoughts at Once ..................................................................... 83 
+Creating Context-Sensitive Thought Names Using Commas .............................. 84 
+Using Parentheses to Assist with Thought Sorting .............................................. 85 
+Creating Thoughts with Artificial Intelligence ....................................................... 86 
+Creating Orphan Thoughts ................................................................................... 87 
+Create Thoughts from Search, Notes or Events .................................................. 88 
+Changing the Order of thoughts in the Plex ......................................................... 90 
+Copying Thoughts Within and Between Brains .................................................... 91 
+Merging Thoughts ................................................................................................. 94 
+Undoing and Redoing Actions .............................................................................. 95
+
+**Editing Thoughts and Links .......................................................................................... 96**
+
+Renaming Thoughts.............................................................................................. 96 
+Selecting Multiple Thoughts.................................................................................. 97 
+Other Selection Uses .......................................................................................99
+Forgetting and Deleting Thoughts ...................................................................... 100 
+Unlinking Thoughts ............................................................................................. 104
+Linking Thoughts................................................................................................. 105 
+Link to a Thought Visible in the Plex ............................................................ 105 
+Link by Dragging to a Pin.............................................................................. 105 
+Link by Dragging to the Past Thoughts’ List ................................................. 106 
+Link by Selecting a Thought in the Existing Thoughts List .......................... 106 
+Link by Using the Selection Panel ................................................................ 107 
+Cancel Creation of a Link ............................................................................. 108
+Changing Relationships Using Drag and Drop .................................................. 108
+
+**Customizing Thought and Link Properties................................................................ 110**
+Changing the Properties of a Thought ............................................................... 110
+Changing the Colors of a Thought................................................................ 111 
+Adding a Label to a Thought......................................................................... 112 
+Swapping a Thought’s Name with its Label ................................................. 113 
+Adding an Image to a Thought ..................................................................... 114 
+Displaying Inherited Properties..................................................................... 120 
+Making Thoughts Private .............................................................................. 120 
+Using Thought URLs..................................................................................... 121
+Thought Types and Tags .................................................................................... 123 
+Creating a Thought Type .............................................................................. 124 
+Super Types .................................................................................................. 128 
+Dynamic Wallpaper ....................................................................................... 128 
+Using Thought Tags...................................................................................... 129 
+Assigning and Removing Tags ..................................................................... 131 
+Assigning Tags to Multiple Thoughts at One Time ...................................... 131 
+Deleting a Tag ............................................................................................... 131 
+Renaming and Adding Attributes to a Tag ................................................... 133 
+Displaying Thoughts Based on Their Tags .................................................. 134 
+Tag Abbreviations ......................................................................................... 134 
+Additional Thought Type and Tag Features ....................................................... 135 
+Visible Thought Types and Tags .................................................................. 135 
+Hiding Visible Thought Types ....................................................................... 136 
+Converting Thoughts to Type or Tag ............................................................ 136 
+Clickable Tags............................................................................................... 137 
+Replacing a Tag ............................................................................................ 137 
+Nested Tags .................................................................................................. 137 
+Changing the Properties of a Link ...................................................................... 138 
+Link Types ..................................................................................................... 141 
+Deleting Link Types ...................................................................................... 142 
+Showing Link Direction ................................................................................. 143
+Using One-Way Links ................................................................................... 144
+
+**Advanced Navigation and Alternative Views ............................................................ 147**
+
+Changing Your View of Thoughts ....................................................................... 147 
+Using Outline View.............................................................................................. 150 
+Using Mind Map View ......................................................................................... 151 
+Expanding and Collapsing Generations ............................................................. 152
+Presentation Mode .............................................................................................. 155
+
+**The Content Area .......................................................................................................... 156**
+
+Content Area Overview ....................................................................................... 156
+Note Viewing Options ......................................................................................... 159 
+Creating and Formatting Notes .......................................................................... 159
+The Content Area Toolbar ............................................................................ 160 
+Toolbar Buttons ............................................................................................. 161 
+Markdown Editor ........................................................................................... 162 
+Markdown Variations .................................................................................... 163 
+Viewing Multi-Column Notes......................................................................... 163 
+Entering Notes .............................................................................................. 164 
+Artificial Intelligence Writing Assistance ............................................................. 165 
+Generating New Notes with AI ..................................................................... 166 
+Modifying Existing Notes with AI .................................................................. 167 
+Using Drag and Drop within Notes ............................................................... 170 
+Tab Key Functionality in the Notes Editor .................................................... 170 
+Collapsing and Expanding Notes Sections .................................................. 171 
+Choosing a Notes Style ................................................................................ 171 
+Changing Text Size in Notes ........................................................................ 174 
+Paragraph Alignment .................................................................................... 174 
+Custom Font Family for Selected Text ......................................................... 174 
+Adding Tables ............................................................................................... 175 
+Table Controls ............................................................................................... 177 
+Table Theme Editor ...................................................................................... 178 
+Inserting a Table of Contents........................................................................ 179 
+Spell Checking .............................................................................................. 180 
+Inserting Horizontal Rules............................................................................. 181 
+Creating Check Box Lists ............................................................................. 182 
+Linking to Thoughts in Notes ........................................................................ 184 
+Creating Web Links....................................................................................... 184 
+Fast Linking and Creating Thoughts from Notes.......................................... 186 
+Capturing and Inserting Images in the Content Area ................................... 187 
+Mathematical Expressions ............................................................................ 188 
+Details on Images in Notes ........................................................................... 188 
+Find and Replace in Notes ........................................................................... 189
+Printing Notes................................................................................................ 189 
+Exporting Notes ............................................................................................ 190 
+Additional Note Features .............................................................................. 191 
+Adding and Viewing Thought Attachments ........................................................ 192 
+Attaching Files............................................................................................... 193 
+Action Menu for Files .................................................................................... 195 
+Attaching Web Pages ................................................................................... 196 
+Attaching Video and Sound Files ................................................................. 198 
+Action Menu for URLs ................................................................................... 199 
+Viewing Attachments as a Slideshow........................................................... 201 
+Working with Multiple Attachments............................................................... 202 
+Keyboard Commands for Selected Attachments ......................................... 203 
+Cut/Copy Attachments Within a Brain .......................................................... 203 
+Creating an Event as an Attachment ............................................................ 203 
+Adding a Template File to Your Brain .......................................................... 203 
+Pasting an Image as an Attachment ............................................................ 205 
+Using the “Save As” Command .................................................................... 205 
+Viewing Related Thoughts in the Content Area ................................................. 205 
+Thought Mentions ......................................................................................... 206 
+Using Related Thought Links........................................................................ 207 
+Hiding or Showing Related Thoughts ........................................................... 208 
+Collapsing and Expanding Related Thought Sections ................................. 209
+Aggregating Content ........................................................................................... 210
+
+**BrainBox ........................................................................................................................ 212**
+
+Accessing BrainBox ............................................................................................ 213 
+The BrainBox Button ..................................................................................... 213 
+The BrainBox Tab ......................................................................................... 214 
+Sending Web Pages to BrainBox ....................................................................... 216 
+Sending Files to BrainBox .................................................................................. 216
+Windows File Explorer *Send to* Integration .................................................. 216 
+macOS Dock Drag and Drop ........................................................................ 217
+
+**Producing Reports........................................................................................................ 218**
+
+Selecting Report Criteria..................................................................................... 218 
+By Types/Tags .............................................................................................. 219 
+Forgotten Thoughts....................................................................................... 220 
+Parentless Thoughts ..................................................................................... 221 
+Orphan Thoughts .......................................................................................... 222 
+Duplicate Names........................................................................................... 223 
+By Attachments ............................................................................................. 223 
+Filtering by Modification or Creation Date .................................................... 224 
+Sorting Report Results ........................................................................................ 225
+Refreshing or Resetting Report Results ............................................................. 225 
+Adding Report Results to the Selection Panel ................................................... 226 
+Saving and Accessing Reports........................................................................... 227 
+Viewing a List of Recent Changes...................................................................... 228
+
+**Find and Replace .......................................................................................................... 229**
+
+**Statistics ........................................................................................................................ 230**
+
+**Managing Events .......................................................................................................... 231**
+
+Creating an Event ............................................................................................... 231 
+Creating an Event from the Content Area .................................................... 231 
+Creating an Event from the Timeline ............................................................ 232 
+Responding to Event Reminders .................................................................. 233 
+Editing and Deleting Events.......................................................................... 234 
+Navigating in Timeline View................................................................................ 235
+
+**TheBrain Icons .............................................................................................................. 236**
+
+**Online Menu Options .................................................................................................... 239**
+
+**Using Mobile Versions of TheBrain ............................................................................ 240**
+
+**Share, Synchronize, and Back Up Your Brains......................................................... 242**
+
+Synchronizing Your Brain ................................................................................... 243 
+Editing Your Online Brain ................................................................................... 245 
+Sharing Your Online Brain .................................................................................. 246 
+Creating a Brain Archive to Send Your Brain to Others ..................................... 247 
+Copying Thoughts into Other Applications as an Outline .................................. 248 
+Copying Outlines with Notes......................................................................... 249 
+Pasting a Text Outline as New Thoughts ..................................................... 250
+
+**Importing Information into Your Brain ....................................................................... 251**
+
+Importing Folders and Mind Maps ...................................................................... 251 
+Importing TheBrain 8 XMLs ................................................................................ 252 
+Merging Brains .................................................................................................... 252
+
+**Encrypting Individual File Attachments ..................................................................... 253**
+
+**Exporting ....................................................................................................................... 255**
+
+**TheBrain API.................................................................................................................. 257**
+
+**Glossary ......................................................................................................................... 258**
+
+
+## **Introduction**
 
 Welcome to TheBrain™, your ultimate digital memory and no limits mind mapping software. Intelligence comes from the mind’s ability to think associatively—that is, to leap from thought to thought, building webs of greater and greater complexity, until new ideas are built. Associations are our inspirations. TheBrain allows you to organize your information in the same way, without limiting you to a pre-
 
@@ -32,6 +302,8 @@ Thoughts contain relevant notes, web pages, and files. Brains can be synced for 
 **Thoughts are Information**
 
 TheBrain thoughts can represent just about any type of information, including concepts, people, documents, spreadsheets, images, videos, shortcuts, and web
+
+
 
 pages. By letting you create links and associations between thoughts, TheBrain expands to become a visual interface that reflects the way you think.
 
@@ -64,6 +336,7 @@ This icon is used to identify notes.
 This icon is used to flag tips and suggestions.
 
 TheBrain is offered in two editions—Free and Pro. Icons are used throughout the guide to flag features that are specific to the Pro edition. Features that are available in **both** editions are not designated with a special icon.
+
 
 
 ![](TheBrain14-User-Guide-v01/image5.png)
@@ -117,6 +390,7 @@ TheBrain supports Native Apple Silicon.
 A collection of associated thoughts, each of which can have content. You can create multiple brains.
 
 Here is a list of working definitions for the basic terms used throughout TheBrain.
+
 
 
 **Thought** The topics that you link together in your brain are called thoughts and are the basic unit of a brain. A thought can represent anything you want it to. It can include an icon, notes, and one or more attachments (such as files and web sites) or it can have no content at all and simply act as a subject heading or organizer. Minimally, a thought has a name.
@@ -372,21 +646,23 @@ from the
 menu in TheBrain toolbar.
 
 
-**Understanding Thought Relationships**
+
+## **Understanding Thought Relationships**
 
 There are no rules governing the relationships between thoughts—whatever makes sense to *you* is the way your brain ought to be organized. The three primary relationship types―child, parent, and jump―can be used to express different types of relationships. Sibling is a relationship that is derived from child/parent relationships.
 
 The examples in this section can help you understand the variety of relationships and how they are used. The core concepts behind each type of relationship are as follows:
 
-- **Children**: Child thoughts are usually used to link more specific information or information that represents a sub-category.
+▪ **Children**: Child thoughts are usually used to link more specific information or information that represents a sub-category.
 
-- **Parents:** Thoughts linked as Parents are usually used to link more general information. Parents can also be thought of as higher-level categories to classify groups of information. They serve to indirectly connect their child thoughts as siblings.
+▪ **Parents:** Thoughts linked as Parents are usually used to link more general information. Parents can also be thought of as higher-level categories to classify groups of information. They serve to indirectly connect their child thoughts as siblings.
 
-- **Jumps:** Jump thoughts are usually used to link two pieces of information that are exclusively related, meaning that the two items are related to each other but neither represents a group that the other is a part of.
+▪ **Jumps:** Jump thoughts are usually used to link two pieces of information that are exclusively related, meaning that the two items are related to each other but neither represents a group that the other is a part of.
 
 Let’s move on to an example to explore these relationship types. Imagine that you are the owner of a company and you are reviewing personnel files. Each employee has a file. You decide it makes sense to organize your employees by department. Your brain is called My Brain. From My Brain, you create a child thought called My Company (see Figure 15). My Brain is now My Company’s parent thought. You create four child thoughts from My Company—
 
 Manufacturing, Sales, Service, and Billing. These departments are sibling thoughts of each other.
+
 
 
 ![](TheBrain14-User-Guide-v01/image23.png)
@@ -402,6 +678,7 @@ departments, you can make him a child thought of both departments—he’ll appe
 **Figure 16. Child Thought with Two Parents**
 
 If you own more than one company, but have one accountant for all of them, you might want to create a thought called Accountant and link it as a jump thought to each company, as shown below.
+
 
 
 ![](TheBrain14-User-Guide-v01/image25.png)
@@ -421,6 +698,7 @@ Because Joe wants to avoid a conflict of interest, the acquired company (My Othe
 As you use TheBrain, you will develop a sense of the types of relationships you wish to make between thoughts. It is always easy to change relationships by adding and removing links (see Changing Relationships Using Drag and Drop on
 
 page 108).
+
 
 
 **Families of Thoughts**
@@ -448,7 +726,8 @@ Notice that when Philosophy and Plato are in Aristotle’s parent *zone*, their 
 Clearly, TheBrain is a powerful method of organizing ideas and information. No hierarchical file structure can provide as much cross-referenced information at a glance. And our example is pretty basic—a fully developed brain can hold many more relationships and much more information.
 
 
-**Navigating Your Brain**
+
+## **Navigating Your Brain**
 
 All thoughts can be connected—directly or indirectly—even thoughts that may seem to have nothing to do with each other can be related through a chain of links.
 
@@ -528,17 +807,17 @@ open a brain it will appear in a separate tab. Switch from brain to brain instan
 
 Tabs can be manipulated in several ways:
 
-- **Float tabs** into their own dedicated window by dragging a tab out of TheBrain application window. This creates a new Brain application window with just a
+▪ **Float tabs** into their own dedicated window by dragging a tab out of TheBrain application window. This creates a new Brain application window with just a
 
 single tab.
 
-- **Merge tabs** into one window by dragging and dropping. Click the tab of one Brain window and drag the tab to another open brain, hovering over the tab
+▪ **Merge tabs** into one window by dragging and dropping. Click the tab of one Brain window and drag the tab to another open brain, hovering over the tab
 
 area. Then release the mouse button.
 
-- **Open the same brain in multiple tabs** to view and edit multiple areas at a time. This lets you view different areas of your brain at the same time, and, if you like, use a different layout in each tab. Note that tabs are simply views into the same brain data and changes made in one tab affect all other tabs of that brain.
+▪ **Open the same brain in multiple tabs** to view and edit multiple areas at a time. This lets you view different areas of your brain at the same time, and, if you like, use a different layout in each tab. Note that tabs are simply views into the same brain data and changes made in one tab affect all other tabs of that brain.
 
-- **Duplicate tabs**. Right-click on a brain tab to duplicate it, showing the same
+▪ **Duplicate tabs**. Right-click on a brain tab to duplicate it, showing the same
 
 content in a new Brain tab.
 
@@ -610,11 +889,11 @@ click on a brain in the brains list. Select **Favorite Brain**.
 
 As you navigate through your brain, the content associated with the active thought is displayed in the content area. Notes associated with the thought are displayed automatically. There are several ways to open an attached file or web page:
 
-- Click on the link for the attachment in the content area.
+▪ Click on the link for the attachment in the content area.
 
-- Click on the attachment icon to the left of the thought’s name in the plex.
+▪ Click on the attachment icon to the left of the thought’s name in the plex.
 
-- Right-click on the thought, click **Open Attachment** on the context menu, then click the attachment of your choice.
+▪ Right-click on the thought, click **Open Attachment** on the context menu, then click the attachment of your choice.
 
 **Showing Thought Content on Hover**
 
@@ -632,17 +911,17 @@ You can view multi-page PDFs, web pages, and images as a slide show within
 
 the content area.
 
-- Click the link for an attachment to open a preview of it in the content area.
+▪ Click the link for an attachment to open a preview of it in the content area.
 
-- Click the **Next** or **Previous** arrow in the top-right corner of the attachment to
+▪ Click the **Next** or **Previous** arrow in the top-right corner of the attachment to
 
 move back and forth between attachments (or back to the notes in the
 
 content area).
 
-- Click the **Close** button (**X**) to end the preview and return to the notes.
+▪ Click the **Close** button (**X**) to end the preview and return to the notes.
 
-- Click the **Open** button to open the file outside of TheBrain.
+▪ Click the **Open** button to open the file outside of TheBrain.
 
 ![](TheBrain14-User-Guide-v01/image42.png)
 
@@ -650,15 +929,15 @@ content area).
 
 The PDF preview features:
 
-- Supported rendering for each OS
+▪ Supported rendering for each OS
 
-- Support for very large, multi-page PDFs
+▪ Support for very large, multi-page PDFs
 
 
 
-- Thumbnails of each page, zoom, rotation, search, and printing
+▪ Thumbnails of each page, zoom, rotation, search, and printing
 
-- All PDF commands can be mapped to a custom keyboard shortcut
+▪ All PDF commands can be mapped to a custom keyboard shortcut
 
 **Editing Additional Notes**
 
@@ -674,7 +953,7 @@ Pins are shortcuts to thoughts to which you want quick access. They appear at th
 
 **To create a pin:**
 
-- Use the **Toggle Pin** button in the main toolbar to create a pin for the Active Thought or right-click the thought for which you want to create a pin, then click **Create Pin** on the context menu
+▪ Use the **Toggle Pin** button in the main toolbar to create a pin for the Active Thought or right-click the thought for which you want to create a pin, then click **Create Pin** on the context menu
 
 ![](TheBrain14-User-Guide-v01/image44.png)
 
@@ -684,7 +963,7 @@ Pins are shortcuts to thoughts to which you want quick access. They appear at th
 
 **To remove a pin:**
 
-- Use the **Toggle Pin** button in the main toolbar to remove the pin for the Active Thought or right-click the pin or on a thought that has a pin, then click **Remove Pin** on the context menu
+▪ Use the **Toggle Pin** button in the main toolbar to remove the pin for the Active Thought or right-click the pin or on a thought that has a pin, then click **Remove Pin** on the context menu
 
 ![](TheBrain14-User-Guide-v01/image19.png)
 
@@ -692,9 +971,9 @@ Removing a pin does not remove or delete the associated thought; it deletes only
 
 **To use a pin to link thoughts:**
 
-- Drag from one of the thought gates to the pin, or
+▪ Drag from one of the thought gates to the pin, or
 
-- Move your mouse pointer over a pinned thought and gates will appear; drag from one of these gates to the thought you want to link
+▪ Move your mouse pointer over a pinned thought and gates will appear; drag from one of these gates to the thought you want to link
 
 **Activating Recent Thoughts: The Past Thought List**
 
@@ -712,9 +991,9 @@ The most recently activated thought (the currently active thought) appears at th
 
 **To use a thought in the Past Thought List to link thoughts:**
 
-- Drag from one of the thought gates to one of the thoughts in the Past Thought List, or
+▪ Drag from one of the thought gates to one of the thoughts in the Past Thought List, or
 
-- Move your mouse pointer over a thought in the Past Thought List and gates will appear; drag from one of these gates to the thought you want to link
+▪ Move your mouse pointer over a thought in the Past Thought List and gates will appear; drag from one of these gates to the thought you want to link
 
 
 
@@ -730,7 +1009,7 @@ to Airline Rewards in the Past Thought List.
 
 **Using the Back and Forward Buttons:**
 
-- In addition to the Past Thought List, you can also use the **Back** and **Forward**
+▪ In addition to the Past Thought List, you can also use the **Back** and **Forward**
 
 buttons, located near the top of the Window, to quickly retrace your steps;
 
@@ -740,9 +1019,9 @@ these buttons work just like they do in a web browser
 
 **Figure 35. The Back and Forward Buttons**
 
-- Click the **Back** button to go back to the last active thought
+▪ Click the **Back** button to go back to the last active thought
 
-- Once you have clicked the **Back** button, the **Forward** button can be used to
+▪ Once you have clicked the **Back** button, the **Forward** button can be used to
 
 re-activate the thought you came from
 
@@ -822,13 +1101,13 @@ Attachments and note search matches are identified with a yellow piece of paper 
 
 When you do a search, the results are sorted with results that match thought names first, then notes, then attachments. Within the thought name matches, they are ranked in groups:
 
-- **Exact Matches**—where the entire name of the thought matches the entire query
+▪ **Exact Matches**—where the entire name of the thought matches the entire query
 
-- **Starting Matches**—where the entire query occurs at the start of the thought name
+▪ **Starting Matches**—where the entire query occurs at the start of the thought name
 
-- **Continuous Matches**—where the entire query occurs anywhere in the thought name
+▪ **Continuous Matches**—where the entire query occurs anywhere in the thought name
 
-- **Matches**—where every term in the query occurs somewhere in the thought name
+▪ **Matches**—where every term in the query occurs somewhere in the thought name
 
 Within each group, thoughts that have been activated in the last 30 days will be shown first, ordered with the most recently activated first. Thoughts that have not been activated within 30 days are sorted alphabetically.
 
@@ -866,13 +1145,13 @@ you’re on a neighborhood committee and you’ve volunteered to look into an is
 
 **Figure 41. Search-Engine Choices**
 
-- Click the drop-down arrow if you want to select a different search engine,
+▪ Click the drop-down arrow if you want to select a different search engine,
 
 then click the **Search** button to begin searching the web based on what
 
 you’ve typed.
 
-- When you find a site you like, you can add it to any thought in the usual way.
+▪ When you find a site you like, you can add it to any thought in the usual way.
 
 The **Web Search** box will close automatically after you click the **Search**
 
@@ -880,7 +1159,7 @@ button.
 
 **To modify, add, or reset search-engines:**
 
-- Click the **Edit** button in the **Web Search** box.
+▪ Click the **Edit** button in the **Web Search** box.
 
 
 
@@ -890,11 +1169,11 @@ button.
 
 **To customize the search-engine choices:**
 
-- Click and edit any URL string to customize it, or
+▪ Click and edit any URL string to customize it, or
 
-- Click the **Add New** button to enter a name that isn’t already in the list, or
+▪ Click the **Add New** button to enter a name that isn’t already in the list, or
 
-- Click the **Reset** button to return to TheBrain’s default choices
+▪ Click the **Reset** button to return to TheBrain’s default choices
 
 Click the **OK** button to save your customizations or click the **Cancel** button to
 
@@ -906,7 +1185,7 @@ open, still showing the text you were searching for.
 
 Search has several additional capabilities that are automatically enabled.
 
-- You can find and execute commands from the Search box. To begin, type a
+▪ You can find and execute commands from the Search box. To begin, type a
 
 forward slash (/) in the Search box. An alphabetical list will appear. The list
 
@@ -920,19 +1199,19 @@ from the **Search Commands and Preferences** option under the **Help** menu.
 
 **Figure 43. Executing a Command from the Search Box**
 
-- External attachments are included in search results
+▪ External attachments are included in search results
 
-- Search using acronyms (ex. find "New York Stock Exchange" by typing "nyse")
+▪ Search using acronyms (ex. find "New York Stock Exchange" by typing "nyse")
 
-- Search for thoughts starting with punctuation. You may use this as a shortcut to provide fast access to thoughts that you always start with a certain type of punctuation. For example, you could use this for people (@Mike, @Sally, @Debbie, etc.) or projects (#Ridgeline, #Palmdale, #Westly, etc.)
+▪ Search for thoughts starting with punctuation. You may use this as a shortcut to provide fast access to thoughts that you always start with a certain type of punctuation. For example, you could use this for people (@Mike, @Sally, @Debbie, etc.) or projects (#Ridgeline, #Palmdale, #Westly, etc.)
 
 ![](TheBrain14-User-Guide-v01/image57.png)
 
-**Figure 44. Search Results for Both Internal and External Attachments** - Below the search box is an option for searching Childward only. Selecting this option will limit the search results to 3 generations below the current active thought.
+**Figure 44. Search Results for Both Internal and External Attachments** ▪ Below the search box is an option for searching Childward only. Selecting this option will limit the search results to 3 generations below the current active thought.
 
 
 
-**Customizing Your Brain’s Environment**
+## **Customizing Your Brain’s Environment**
 
 You may choose to use your brain just as it’s offered “out of the box” or you may choose to change some of the environmental settings to suit your personal preferences.
 
@@ -940,11 +1219,11 @@ You may choose to use your brain just as it’s offered “out of the box” or 
 
 Without making any changes, here’s what your brain looks like:
 
-- The area where your thoughts appear (the plex) will be the color and design of one of TheBrain’s “Themes.” The initial theme is randomly selected and you can change it at any time.
+▪ The area where your thoughts appear (the plex) will be the color and design of one of TheBrain’s “Themes.” The initial theme is randomly selected and you can change it at any time.
 
-- The left half of TheBrain window will display your thoughts and the right half of the window will display the “Content Area” which holds notes and any other items you will attach to your thoughts—files, web pages, Events, etc.
+▪ The left half of TheBrain window will display your thoughts and the right half of the window will display the “Content Area” which holds notes and any other items you will attach to your thoughts—files, web pages, Events, etc.
 
-- Your thoughts will be displayed in “Normal” view, meaning that you will see only the direct parents, children, jumps, and siblings of the active thought.
+▪ Your thoughts will be displayed in “Normal” view, meaning that you will see only the direct parents, children, jumps, and siblings of the active thought.
 
 ![](TheBrain14-User-Guide-v01/image58.png)
 
@@ -960,13 +1239,13 @@ The smart-splitter controls let you manage where the plex and content area displ
 
 **Figure 46. Smart-Splitter**
 
-- Click the individual left- and right-arrows (or up- and down-arrows if the window is in “over-and-under” mode) to maximize the area the arrow is pointing towards (either the plex or the content area).
+▪ Click the individual left- and right-arrows (or up- and down-arrows if the window is in “over-and-under” mode) to maximize the area the arrow is pointing towards (either the plex or the content area).
 
-- Click the double-headed arrow icon to toggle the plex to the right or left side of the content area.
+▪ Click the double-headed arrow icon to toggle the plex to the right or left side of the content area.
 
-- Click on the two-arrow icon that forms a box to toggle between seeing the plex and content area "side-by-side" or “over-and-under.”
+▪ Click on the two-arrow icon that forms a box to toggle between seeing the plex and content area "side-by-side" or “over-and-under.”
 
-- You can also point at the border between areas and click and drag when the double-headed arrow appears to move the border.
+▪ You can also point at the border between areas and click and drag when the double-headed arrow appears to move the border.
 
 **Moving Thoughts in the Plex**
 
@@ -984,7 +1263,7 @@ The plex is the heart and soul of TheBrain. You can change the size of thoughts 
 
 **To change the size of thoughts using the toolbar:**
 
-- Click the **AA** button to activate the slider, then click and slide the bar up or down to grow or shrink the size of your thoughts.
+▪ Click the **AA** button to activate the slider, then click and slide the bar up or down to grow or shrink the size of your thoughts.
 
 
 
@@ -994,7 +1273,7 @@ The plex is the heart and soul of TheBrain. You can change the size of thoughts 
 
 **To change the size of thoughts using the keyboard, mouse, or trackpad:**
 
-- Hold **Cmd** (macOS)/**Ctrl**(Windows) on your keyboard and scroll up or down
+▪ Hold **Cmd** (macOS)/**Ctrl**(Windows) on your keyboard and scroll up or down
 
 on your mouse wheel or trackpad while your mouse pointer is in the plex.
 
@@ -1002,7 +1281,7 @@ on your mouse wheel or trackpad while your mouse pointer is in the plex.
 
 **Figure 49. Resizing with the Mouse or Trackpad**
 
-- Hold **Cmd** (macOS)/**Ctrl** (Windows) on your keyboard and press **-** to make
+▪ Hold **Cmd** (macOS)/**Ctrl** (Windows) on your keyboard and press **-** to make
 
 thoughts smaller or **+** to make thoughts larger.
 
@@ -1012,7 +1291,7 @@ thoughts smaller or **+** to make thoughts larger.
 
 
 
-- Pinch to zoom on a macOS Trackpad.
+▪ Pinch to zoom on a macOS Trackpad.
 
 ![](TheBrain14-User-Guide-v01/image64.png)
 
@@ -1140,11 +1419,11 @@ of the **Brain Theme** box, it’s very easy to do so.
 
 **To replace, remove, or copy a wallpaper image:**
 
-- To replace the image, click the **Select** button next to the **Wallpaper**check box to navigate to a different image.
+▪ To replace the image, click the **Select** button next to the **Wallpaper**check box to navigate to a different image.
 
-- To remove the image, click the **Wallpaper**check box to toggle off the check mark and remove the image from the plex.
+▪ To remove the image, click the **Wallpaper**check box to toggle off the check mark and remove the image from the plex.
 
-- To copy a wallpaper image to your clipboard, click the **Copy Wallpaper** button
+▪ To copy a wallpaper image to your clipboard, click the **Copy Wallpaper** button
 
 
 
@@ -1186,9 +1465,9 @@ By default, the notes in the content area of your brains appear in a style calle
 
 **To begin selecting different style attributes for notes:**
 
-- Click the **Edit Notes Style** button on the **Options** tab in the **BrainTheme** box, or
+▪ Click the **Edit Notes Style** button on the **Options** tab in the **BrainTheme** box, or
 
-- Click the **Notes Style** button in the content area toolbar
+▪ Click the **Notes Style** button in the content area toolbar
 
 
 
@@ -1228,7 +1507,7 @@ beginning on page 171.
 
 **To select a heading color that isn’t in the palette:**
 
-- Click **Custom** at the bottom of the color palette, click **Define Custom Colors**, select a color you like, then click the **OK** button.
+▪ Click **Custom** at the bottom of the color palette, click **Define Custom Colors**, select a color you like, then click the **OK** button.
 
 ![](TheBrain14-User-Guide-v01/image78.png)
 
@@ -1236,7 +1515,7 @@ beginning on page 171.
 
 **To change the size of headings:**
 
-- Click **Small**, **Medium**, or **Large** in the **HeadingSizes** list. The sizes will adjust automatically, based on the level of each heading.
+▪ Click **Small**, **Medium**, or **Large** in the **HeadingSizes** list. The sizes will adjust automatically, based on the level of each heading.
 
 ![](TheBrain14-User-Guide-v01/image79.png)
 
@@ -1296,15 +1575,15 @@ You can copy, paste, import, and export styles, making it easier to create new s
 
 
 
-- **Copy Notes Style**—Click when you want to apply the current notes formatting in another brain.
+▪ **Copy Notes Style**—Click when you want to apply the current notes formatting in another brain.
 
-- **Paste Notes Style** (available if a note style has been copied)—Click after you’ve opened the brain to receive the style.
+▪ **Paste Notes Style** (available if a note style has been copied)—Click after you’ve opened the brain to receive the style.
 
-- **Paste Colors Only** (available if a note style has been copied)—Click after you’ve opened the brain to receive the color choices in the copied style.
+▪ **Paste Colors Only** (available if a note style has been copied)—Click after you’ve opened the brain to receive the color choices in the copied style.
 
-- **Export Notes Style**—Click **Save** after navigating to a location of your choice for saving the style file. The filename will look like this: Style-2021-08- 13.nstyle (except with the actual date you exported the file).
+▪ **Export Notes Style**—Click **Save** after navigating to a location of your choice for saving the style file. The filename will look like this: Style-2021-08- 13.nstyle (except with the actual date you exported the file).
 
-- **Import Notes Style** (available if a note style has been exported)—with the receiving brain open, choose this option, navigate to the location of the .nstyle file, click **Open** when the file is selected, then click the **Apply** button.
+▪ **Import Notes Style** (available if a note style has been exported)—with the receiving brain open, choose this option, navigate to the location of the .nstyle file, click **Open** when the file is selected, then click the **Apply** button.
 
 **Saving Changes**
 
@@ -1394,19 +1673,19 @@ Theme.
 
 **To import a Theme:**
 
-- Click the **Import** button, navigate to the location of the .BrainTheme file you
+▪ Click the **Import** button, navigate to the location of the .BrainTheme file you
 
 want to import, select it, then click the **Open** button.
 
 **To export a Theme:**
 
-- Make sure the Theme you want to export is in the active brain tab.
+▪ Make sure the Theme you want to export is in the active brain tab.
 
-- Click the **Export** button, navigate to the location where you want to save the
+▪ Click the **Export** button, navigate to the location where you want to save the
 
 Theme, then click the **Save** button.
 
-- Click **OK** in the confirmation box.
+▪ Click **OK** in the confirmation box.
 
 **Dark Mode**
 
@@ -1430,11 +1709,11 @@ under the **User Interface** setting.
 
 **Figure 77. TheBrain in Dark Mode**
 
-- You may want to modify your Brain Theme to complement the darker
+▪ You may want to modify your Brain Theme to complement the darker
 
 interface and tones.
 
-- On macOS, the Dark Mode setting will follow your OS automatically.
+▪ On macOS, the Dark Mode setting will follow your OS automatically.
 
 
 
@@ -1450,7 +1729,7 @@ you make your choices.
 
 **To open thePreferencesdialog box:**
 
-- Click the **Options** menu, then click the **Preferences** command (on macOS,
+▪ Click the **Options** menu, then click the **Preferences** command (on macOS,
 
 the **Preferences** command is located in the **TheBrain** menu)
 
@@ -1460,17 +1739,17 @@ the **Preferences** command is located in the **TheBrain** menu)
 
 TheBrain **Preferences** are organized into these categories:
 
-- Look & Feel
+▪ Look & Feel
 
-- Behavior
+▪ Behavior
 
-- Notes Editor
+▪ Notes Editor
 
-- System
+▪ System
 
-- Keyboard
+▪ Keyboard
 
-- Experimental
+▪ Experimental
 
 
 
@@ -2382,23 +2661,23 @@ appropriate) and let parents happen naturally.
 
 Once you have activated the thought that will have a relationship with your new thought, use any of these techniques to begin creating a new thought:
 
-- Drag from the thought’s parent, child, or jump gate
+▪ Drag from the thought’s parent, child, or jump gate
 
 ![](TheBrain14-User-Guide-v01/image106.png)
 
 **Figure 88. Gates to Drag for Creating Thoughts**
 
-- Or click the **Thought** menu, then click the **Create Child**, **Create Parent**, or **Create Jump** command
+▪ Or click the **Thought** menu, then click the **Create Child**, **Create Parent**, or **Create Jump** command
 
 ![](TheBrain14-User-Guide-v01/image107.png)
 
-- Or, right-click the thought, then click the **Create Child**, **Create Parent**, or **Create Jump** command
+▪ Or, right-click the thought, then click the **Create Child**, **Create Parent**, or **Create Jump** command
 
 
 
 ![](TheBrain14-User-Guide-v01/image108.png)
 
-- Or use a keyboard shortcut:
+▪ Or use a keyboard shortcut:
 
 On Windows, press the **F6** key (for a child thought), **F7** (for a parent
 
@@ -2458,17 +2737,17 @@ If spellcheck is turned on in the content area toolbar, thought names will also 
 
 **Displaying Thought Properties and Details**
 
-- To expand the thought creation box to include the **Type** and **Tags** buttons
+▪ To expand the thought creation box to include the **Type** and **Tags** buttons
 
 (explained in the Thought Types and Tags section beginning on page 123),
 
 click the down-arrow in the bottom-right corner
 
-- To display a thought’s details (create/modify dates and ID) after the thought is
+▪ To display a thought’s details (create/modify dates and ID) after the thought is
 
 created, click the down-arrow in the bottom-right corner
 
-- To hide the thought’s details, click the up-arrow in the bottom-right corner
+▪ To hide the thought’s details, click the up-arrow in the bottom-right corner
 
 ![](TheBrain14-User-Guide-v01/image110.png)
 
@@ -2480,11 +2759,11 @@ TheBrain offers a timesaver (affectionately known as the “semi-colon trick”)
 
 creating more than one thought at a time.
 
-- Type a **semicolon** (;) to separate multiple thought names in the **Thought**
+▪ Type a **semicolon** (;) to separate multiple thought names in the **Thought**
 
 **Creation** dialog box
 
-- This feature can also be used while creating new **Thought Types** and
+▪ This feature can also be used while creating new **Thought Types** and
 
 **Thought Tags**
 
@@ -2522,11 +2801,11 @@ Adding parentheses around the first part of thought name will skip that part for
 
 alphabetically.
 
-- To enable this feature, a thought name must have both an open parenthesis as the first character and a close parenthesis later in the thought name. Whitespace will be trimmed, and there must be some thought name left after that. (Later parenthesis will be ignored.)
+▪ To enable this feature, a thought name must have both an open parenthesis as the first character and a close parenthesis later in the thought name. Whitespace will be trimmed, and there must be some thought name left after that. (Later parenthesis will be ignored.)
 
 
 
-- Note that this is mutually exclusive to Hidden Ordering Prefixes starting with a dot. You can only have one or the other.
+▪ Note that this is mutually exclusive to Hidden Ordering Prefixes starting with a dot. You can only have one or the other.
 
 Example: if your thoughts are grouped alphabetically, the following group of thoughts named:
 
@@ -2686,11 +2965,11 @@ You can use TheBrain’s hidden ordering system to change the default
 
 alphabetical ordering of thoughts in the plex to any order you prefer. To do this, type a period and a number as the first characters of any thought name. These characters will not be displayed in the plex. For example, try creating the following group of child thoughts in one area:
 
-- .01 Zebra
+▪ .01 Zebra
 
-- .02 Walrus
+▪ .02 Walrus
 
-- .03 Aardvark
+▪ .03 Aardvark
 
 The thoughts will appear in the order of Zebra, Walrus, Aardvark (without the periods or numbers), rather than alphabetically. You can always delete or revise the numbers in the **Thought Properties** dialog box.
 
@@ -2826,7 +3105,7 @@ The Undo and Redo lists are cleared when you sync your brain (including an auto 
 
 You can easily rename any thought in its **Thought Properties** dialog box. When you rename a thought, any references to it from other notes are automatically updated with the new name.
 
-- Click the thought to make it active, then click it again. You may also click the **Show Thought Properties** command in the **Thought** menu or **Alt**-click a
+▪ Click the thought to make it active, then click it again. You may also click the **Show Thought Properties** command in the **Thought** menu or **Alt**-click a
 
 
 
@@ -2842,9 +3121,9 @@ You can select multiple thoughts in three ways:
 
 - Hold down the **Ctrl** key (**Cmd** on macOS) as you click each thought you want to select, or
 
-- Hold down the **Ctrl** key (**Cmd** on macOS) as you drag to form a box around the thoughts, or
+▪ Hold down the **Ctrl** key (**Cmd** on macOS) as you drag to form a box around the thoughts, or
 
-- Hold down the **Ctrl** key (**Cmd** on macOS) as you click a gate to select all the thoughts connected to that gate
+▪ Hold down the **Ctrl** key (**Cmd** on macOS) as you click a gate to select all the thoughts connected to that gate
 
 ![](TheBrain14-User-Guide-v01/image129.png)
 
@@ -2864,11 +3143,11 @@ After the multiple thoughts are selected, you can apply actions—link, unlink, 
 
 **To de-select individual thoughts:**
 
-- Hold down the **Ctrl** key (**Cmd** on macOS) as you click a thought (either in the plex or in the Selection panel) to de-select just that thought.
+▪ Hold down the **Ctrl** key (**Cmd** on macOS) as you click a thought (either in the plex or in the Selection panel) to de-select just that thought.
 
 **To close the Selection panel and de-select all thoughts:**
 
-- Click the **Close** button (**X**) in the top-right corner of the Selection panel. The button will turn red as you point to it and after the panel is closed the thoughts will no longer be selected in the plex.
+▪ Click the **Close** button (**X**) in the top-right corner of the Selection panel. The button will turn red as you point to it and after the panel is closed the thoughts will no longer be selected in the plex.
 
 
 
@@ -2878,7 +3157,7 @@ After the multiple thoughts are selected, you can apply actions—link, unlink, 
 
 **To perform actions on selected thoughts:**
 
-- Right-click in an empty area of the Selection panel and select the action of your choice on the context menu. The entries in this menu are also displayed in the **Edit** menu.
+▪ Right-click in an empty area of the Selection panel and select the action of your choice on the context menu. The entries in this menu are also displayed in the **Edit** menu.
 
 ![](TheBrain14-User-Guide-v01/image132.png)
 
@@ -2900,9 +3179,9 @@ When you no longer need a thought, it can be forgotten or deleted. A forgotten t
 
 **To forget a thought:**
 
-- Right-click the thought to be forgotten, then click **Forget *Thought Name*** in the context menu, or
+▪ Right-click the thought to be forgotten, then click **Forget *Thought Name*** in the context menu, or
 
-- Click the active thought to be forgotten, click the menu button in the **Thought** **Properties** dialog box, then, click the **Forget *Thought Name*** command.
+▪ Click the active thought to be forgotten, click the menu button in the **Thought** **Properties** dialog box, then, click the **Forget *Thought Name*** command.
 
 
 
@@ -2932,7 +3211,7 @@ Once a thought has been forgotten it will disappear from the display. If you wan
 
 **To delete all forgotten thoughts using the Reports tab:**
 
-- Click the **Reports** tab menu button, then select **Forgotten** from the Thoughts drop down menu. You can then click on the context menu button and select **Delete Forgotten Thoughts.** Alternatively, you can use the **Ctrl** key (**Cmd** on macOS) to select multiple individual forgotten thoughts and then delete only those.
+▪ Click the **Reports** tab menu button, then select **Forgotten** from the Thoughts drop down menu. You can then click on the context menu button and select **Delete Forgotten Thoughts.** Alternatively, you can use the **Ctrl** key (**Cmd** on macOS) to select multiple individual forgotten thoughts and then delete only those.
 
 
 
@@ -2940,7 +3219,7 @@ Once a thought has been forgotten it will disappear from the display. If you wan
 
 **Figure 115. Using the Report Tab to Delete All Forgotten Thoughts**
 
-- You can click the **Refresh** button on the **Reports** tab to update the list.
+▪ You can click the **Refresh** button on the **Reports** tab to update the list.
 
 Closing the **Forgotten Thoughts** dialog box hides the forgotten thoughts. You can also reinstate forgotten thoughts by clicking the **Remember All** command
 
@@ -2992,7 +3271,7 @@ command immediately.
 
 **To unlink thoughts:**
 
-- Right-click the link, then click the **Unlink** command on the context menu
+▪ Right-click the link, then click the **Unlink** command on the context menu
 
 ![](TheBrain14-User-Guide-v01/image4.png)
 
@@ -3006,11 +3285,11 @@ If you have difficulty telling which link you are pointing at with the mouse, ju
 
 In addition to being able to unlink thoughts one link at a time, you can also select multiple thoughts to unlink several of them at once. To do so:
 
-- Select the thoughts you want to unlink by holding down the **Ctrl** key (**Cmd** on macOS) and clicking on each one, or **Ctrl** drag (**Cmd** drag on macOS) a box around thoughts in the same area
+▪ Select the thoughts you want to unlink by holding down the **Ctrl** key (**Cmd** on macOS) and clicking on each one, or **Ctrl** drag (**Cmd** drag on macOS) a box around thoughts in the same area
 
-- Activate the thought from which you wish to unlink the selected thoughts
+▪ Activate the thought from which you wish to unlink the selected thoughts
 
-- Right-click in the Selection panel and select the **Unlink Selection** command
+▪ Right-click in the Selection panel and select the **Unlink Selection** command
 
 **Linking Thoughts**
 
@@ -3116,17 +3395,17 @@ and selected thoughts and links. Changed settings override the global defaults.
 
 **To open the Thought Properties dialog box, use any of these methods:**
 
-- Click the active thought, or
+▪ Click the active thought, or
 
-- Click the thought once to select it, then a second time to open the box, or
+▪ Click the thought once to select it, then a second time to open the box, or
 
-- **Alt**-click the thought (whether or not the thought is active), or
+▪ **Alt**-click the thought (whether or not the thought is active), or
 
-- Right-click the thought, then click **Show Thought Properties** on the context
+▪ Right-click the thought, then click **Show Thought Properties** on the context
 
 menu, or
 
-- Click the thought to select it, click the **Thought** menu in the menu bar, then
+▪ Click the thought to select it, click the **Thought** menu in the menu bar, then
 
 click the **Show Thought Properties** command
 
@@ -3140,29 +3419,29 @@ save any changes.
 
 You can use the **Thought Properties** dialog box to:
 
-- Rename a thought
+▪ Rename a thought
 
-- Add or edit a thought Label
+▪ Add or edit a thought Label
 
-- Add or change a thought Type
+▪ Add or change a thought Type
 
-- Add or change a thought Tag
+▪ Add or change a thought Tag
 
 
 
-- Mark the thought as Private or Public
+▪ Mark the thought as Private or Public
 
-- Customize the thought text or background color (just this thought; global
+▪ Customize the thought text or background color (just this thought; global
 
 changes are done in the **Themes** window)
 
-- Add or change the thought's icon
+▪ Add or change the thought's icon
 
-- Review the thought's creation/modification history and ID. The ID is not
+▪ Review the thought's creation/modification history and ID. The ID is not
 
 normally needed but may be useful when troubleshooting.
 
-- And, using the **Thought Properties** Actions Menu button (three horizontal
+▪ And, using the **Thought Properties** Actions Menu button (three horizontal
 
 lines):
 
@@ -3188,7 +3467,7 @@ and background, override the settings in the **Brain Theme** box.
 
 **To change the text color of a thought:**
 
-- In the Thought Properties box, click the upper color square, click the color of
+▪ In the Thought Properties box, click the upper color square, click the color of
 
 your choice, then click outside of the box of colors.
 
@@ -3200,7 +3479,7 @@ your choice, then click outside of the box of colors.
 
 **To change the background color of a thought:**
 
-- Click the lower color square, click the color of your choice, then click outside of the box of colors.
+▪ Click the lower color square, click the color of your choice, then click outside of the box of colors.
 
 ![](TheBrain14-User-Guide-v01/image146.png)
 
@@ -3208,7 +3487,7 @@ your choice, then click outside of the box of colors.
 
 **To swap a thought’s text color with its background color:**
 
-- Click the double-headed arrow next to the two color sample squares in the top-right area of the **Thought Properties** dialog box.
+▪ Click the double-headed arrow next to the two color sample squares in the top-right area of the **Thought Properties** dialog box.
 
 ![](TheBrain14-User-Guide-v01/image147.png)
 
@@ -3296,7 +3575,7 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 2. Navigate to the file of your choice, then click the **Open** button. Supported file formats for images include .jpg, .png, and .gif.
 
-**To create a thought icon from an image in the Content Area:** - Click the image to select it, right-click it, then click the **Copy to Icon** command in the context menu.
+**To create a thought icon from an image in the Content Area:** ▪ Click the image to select it, right-click it, then click the **Copy to Icon** command in the context menu.
 
 
 
@@ -3306,7 +3585,7 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 **To create a thought icon from one of its attachments:**
 
-- Right-click the attachment, then click the **Copy to Icon** command in the context menu.
+▪ Right-click the attachment, then click the **Copy to Icon** command in the context menu.
 
 ![](TheBrain14-User-Guide-v01/image157.png)
 
@@ -3386,7 +3665,7 @@ To change a thought’s icon, repeat the steps above. The icon will be replaced.
 
 **To delete a thought’s icon:**
 
-- Click the thought icon box, then click the **Delete Icon** command.
+▪ Click the thought icon box, then click the **Delete Icon** command.
 
 
 
@@ -3424,7 +3703,7 @@ Thought URLs can be added as hyperlinks in many third-party applications so that
 
 **To copy a thought URL:**
 
-- Right-click the thought (or click the **Edit** menu), then click the **Copy Local** **Thought URL** command.
+▪ Right-click the thought (or click the **Edit** menu), then click the **Copy Local** **Thought URL** command.
 
 ![](TheBrain14-User-Guide-v01/image166.png)
 
@@ -3446,9 +3725,9 @@ Thought URLs can be added as hyperlinks in many third-party applications so that
 
 1. In the note, select the text that will be the link using one of the two methods below:
 
-- If the text happens to be the name of a thought you want to link to, it will have a dotted underline—click within the underlined text
+▪ If the text happens to be the name of a thought you want to link to, it will have a dotted underline—click within the underlined text
 
-- If the text isn’t the name of a thought, just drag through it to select it
+▪ If the text isn’t the name of a thought, just drag through it to select it
 
 2. Click the **Insert Thought or Web Link** command in the content area toolbar (or right-click and select it from the context menu).
 
@@ -3592,23 +3871,23 @@ another brain
 
 Use any of these methods:
 
-- Open the thought’s **Thought Properties** dialog box,
+▪ Open the thought’s **Thought Properties** dialog box,
 
 click the **Type** button, then click the type of your
 
 choice, or
 
-- Right-click the active thought, click the **Set Type**
+▪ Right-click the active thought, click the **Set Type**
 
 command, then click the type of your choice, or
 
-- Click the **Thought** menu when the thought is active,
+▪ Click the **Thought** menu when the thought is active,
 
 click the **Set Type** command, then click the type of
 
 your choice
 
-- Link the thought as a child of the type
+▪ Link the thought as a child of the type
 
 Click the **Set Type** button in the **Thought Creation** dialog
 
@@ -3616,25 +3895,25 @@ box, then click the type of your choice.
 
 Use any of these methods:
 
-- Open the thought’s **Thought Properties** dialog box,
+▪ Open the thought’s **Thought Properties** dialog box,
 
 click the **Type** button, then click the **Untyped** button,
 
 or
 
-- Click on the checked Type to unselect it, or
+▪ Click on the checked Type to unselect it, or
 
-- Right-click the active thought, click the **Set Type**
+▪ Right-click the active thought, click the **Set Type**
 
 command, then click the **Untyped** button, or
 
-- Click the **Thought** menu when the thought is active,
+▪ Click the **Thought** menu when the thought is active,
 
 click the **Set Type** command, then click the **Untyped**
 
 button
 
-- Unlink the Thought as a child of the type
+▪ Unlink the Thought as a child of the type
 
 Drag down from the Type thought’s child gate and
 
@@ -3842,7 +4121,7 @@ Renaming a Tag changes the Tag throughout your entire brain.
 
 You can show all thoughts with the same Tag by using Search:
 
-- Begin typing the Tag name in the Search box, then click the Tag name when it appears. Tags may be indicated with any icon that has been assigned to them. When you click the Tag name in the Search hit list, all thoughts assigned to that Tag will be displayed in the plex.
+▪ Begin typing the Tag name in the Search box, then click the Tag name when it appears. Tags may be indicated with any icon that has been assigned to them. When you click the Tag name in the Search hit list, all thoughts assigned to that Tag will be displayed in the plex.
 
 **Tag Abbreviations**
 
@@ -3866,7 +4145,7 @@ text setting to “Show always” if you want the abbreviations to show. Hoverin
 
 **To enter a Tag abbreviation:**
 
-- In the Tag’s **Thought Properties** dialog box, type the abbreviation in the field below the Tag’s name, then press the **Enter** key.
+▪ In the Tag’s **Thought Properties** dialog box, type the abbreviation in the field below the Tag’s name, then press the **Enter** key.
 
 ![](TheBrain14-User-Guide-v01/image184.png)
 
@@ -3886,15 +4165,15 @@ Linkable types and tags eliminate the need to create two thoughts when you want 
 
 
 
-- Types are visually distinguished by rounded sides.
+▪ Types are visually distinguished by rounded sides.
 
-- Tags are visually distinguished by chamfered (diagonal) corners.
+▪ Tags are visually distinguished by chamfered (diagonal) corners.
 
 **Hiding Visible Thought Types**
 
 Thought types being visible in the plex is optional.
 
-- To prevent a thought type from being visible in the plex, right click on a
+▪ To prevent a thought type from being visible in the plex, right click on a
 
 thought type and uncheck the option for **Visible when Parent of Active**
 
@@ -3912,13 +4191,13 @@ thought type and uncheck the option for **Visible when Parent of Active**
 
 You easily change a normal thought into a type or tag at any time:
 
-- Right-click on a thought and select **Convert to Type or Tag**
+▪ Right-click on a thought and select **Convert to Type or Tag**
 
 ![](TheBrain14-User-Guide-v01/image187.png)
 
 **Figure 162. Convert to Type or Tag**
 
-- Tags and types can easily be changed into a normal thought
+▪ Tags and types can easily be changed into a normal thought
 
 
 
@@ -3930,9 +4209,9 @@ Tag icons that show on thoughts are clickable. Click any tag that is visible in 
 
 You can easily move a thought through a project cycle or simply re-classify its tag attributes. To quickly replace a thought’s tag:
 
-- Right-click on a tag to open its context menu.
+▪ Right-click on a tag to open its context menu.
 
-- Select the option **Replace Tag with** and select another tag.
+▪ Select the option **Replace Tag with** and select another tag.
 
 ![](TheBrain14-User-Guide-v01/image188.png)
 
@@ -3942,13 +4221,13 @@ You can easily move a thought through a project cycle or simply re-classify its 
 
 Tags can be organized under each other so they are easier to organize, navigate and apply.
 
-- Link two existing tags with a parent/child relationship to sub-categorize
+▪ Link two existing tags with a parent/child relationship to sub-categorize
 
-- You may also open a tag’s properties to assign it as a sub category of
+▪ You may also open a tag’s properties to assign it as a sub category of
 
 another tag
 
-- Nesting can include multiple tags and multiple layers
+▪ Nesting can include multiple tags and multiple layers
 
 
 
@@ -3964,15 +4243,15 @@ Just as each thought has its own **Thought Properties** dialog box, each link ha
 
 **To open the Link Properties dialog box, use any of these methods:**
 
-- Double-click the link, or
+▪ Double-click the link, or
 
-- Click the link once to select it, then a second time to open the box, or
+▪ Click the link once to select it, then a second time to open the box, or
 
-- **Alt**-click the link (whether or not the link is connected to the active thought), or
+▪ **Alt**-click the link (whether or not the link is connected to the active thought), or
 
-- Right-click the link, then click **Properties** on the context menu, or
+▪ Right-click the link, then click **Properties** on the context menu, or
 
-- Click the link to select it, click the **Link** menu in the menu bar, then click the **Properties** command
+▪ Click the link to select it, click the **Link** menu in the menu bar, then click the **Properties** command
 
 
 
@@ -4012,7 +4291,7 @@ This changes the color for the individual link. You can set link colors globally
 
 **To change the width of a link:**
 
-- Open the **Link Properties** dialog box for the link, click the **Default** button, click the width of your choice, then click outside of the **Link Properties** dialog box to close it.
+▪ Open the **Link Properties** dialog box for the link, click the **Default** button, click the width of your choice, then click outside of the **Link Properties** dialog box to close it.
 
 ![](TheBrain14-User-Guide-v01/image193.png)
 
@@ -4092,7 +4371,7 @@ By default, links do not show a directional arrow. You can add directional arrow
 
 **Figure 172. Directed Links**
 
-- A directed link shows an arrow in the middle of the link. If the link has a label or a Type, the arrow will be next to the text. The arrow is magnified when the mouse hovers on it. Directional arrows can provide visual cues that are
+▪ A directed link shows an arrow in the middle of the link. If the link has a label or a Type, the arrow will be next to the text. The arrow is magnified when the mouse hovers on it. Directional arrows can provide visual cues that are
 
 particularly useful when there’s a link label. For example, for the link label
 
@@ -4110,7 +4389,7 @@ Williams” was a source of inspiration for Elvis. This is also very useful when
 
 1. Open the **Link Properties** dialog box for the link to which you want to add direction. Then:
 
-- Click the icon to the left of the **One-way** check box to switch between non-directed, directed, and directed in the reverse.
+▪ Click the icon to the left of the **One-way** check box to switch between non-directed, directed, and directed in the reverse.
 
 ![](TheBrain14-User-Guide-v01/image200.png)
 
@@ -4118,11 +4397,11 @@ Williams” was a source of inspiration for Elvis. This is also very useful when
 
 **Using One-Way Links**
 
-- One-way links appear when the source of the link is active and the source thought is already visible.
+▪ One-way links appear when the source of the link is active and the source thought is already visible.
 
 
 
-- One-way links are indicated by an arrow with a rectangle at its base.
+▪ One-way links are indicated by an arrow with a rectangle at its base.
 
 ![](TheBrain14-User-Guide-v01/image201.png)
 
@@ -4136,7 +4415,7 @@ For example, you may want to see what company a person worked for when the perso
 
 1. Open the **Link Properties** dialog box for the link to which you want to add direction. Then:
 
-- Select the **One-way** check box to make the selected link one-way. Note that one-way links cannot be non-directed.
+▪ Select the **One-way** check box to make the selected link one-way. Note that one-way links cannot be non-directed.
 
 ![](TheBrain14-User-Guide-v01/image202.png)
 
@@ -4162,7 +4441,7 @@ You can also set link direction for link types. The direction of a link type is 
 
 There are three views for displaying your thoughts:
 
-- **Normal view**: For focusing on the active thought and displaying information
+▪ **Normal view**: For focusing on the active thought and displaying information
 
 pertaining to its parent thoughts above, child thoughts below, and jump
 
@@ -4172,7 +4451,7 @@ thoughts to the left.
 
 **Figure 178. A Brain in Normal View**
 
-- **Outline view:** For a more expanded, primarily hierarchical view of your
+▪ **Outline view:** For a more expanded, primarily hierarchical view of your
 
 thoughts.
 
@@ -4180,7 +4459,7 @@ thoughts.
 
 **Figure 179. A Brain in Outline View**
 
-- **Mind Map view:** For a horizontally expanding symmetrical layout.
+▪ **Mind Map view:** For a horizontally expanding symmetrical layout.
 
 
 
@@ -4196,13 +4475,13 @@ TheBrain automatically remembers the last view you used and selects it by defaul
 
 **Three ways to change to a different view:**
 
-- Click the **Layout** button in TheBrain toolbar, then click the view of your choice, or
+▪ Click the **Layout** button in TheBrain toolbar, then click the view of your choice, or
 
-Right-click in the plex, click the **Layout** command, then click the view of your -
+Right-click in the plex, click the **Layout** command, then click the view of your ▪
 
 choice, or
 
-- Click the **View** menu in the menu bar, then click the view of your choice
+▪ Click the **View** menu in the menu bar, then click the view of your choice
 
 
 
@@ -4238,9 +4517,9 @@ Providing a clean, organized way of looking at your thoughts, Outline view enabl
 
 When the plex is in Outline view, you can show or hide generations of children for individual thoughts. To see if a thought has child thoughts that aren’t currently showing, point the mouse at the thought.
 
-- On mouseover, a plus sign (**+**) icon will appear above the top edge of the thought’s outline if there are child generations to display. Click the **+** icon to expand and show that thought’s children.
+▪ On mouseover, a plus sign (**+**) icon will appear above the top edge of the thought’s outline if there are child generations to display. Click the **+** icon to expand and show that thought’s children.
 
-- On mouseover, a minus sign (**-**) icon will appear below the bottom edge of the thoughts’ outline if child thoughts can be collapsed or hidden. Click the **-** icon to hide that thought’s children.
+▪ On mouseover, a minus sign (**-**) icon will appear below the bottom edge of the thoughts’ outline if child thoughts can be collapsed or hidden. Click the **-** icon to hide that thought’s children.
 
 
 
@@ -4332,11 +4611,11 @@ more sibling thoughts in that area which are not currently visible.
 
 Presentation Mode makes your brain full-screen, hiding the title bar, menu bar, toolbar and Brain tabs. On both Windows and macOS the taskbar and dock are also hidden. Presentation mode is an excellent viewing option when using your brain for effective and focused discussions.
 
-- Enter Presentation Mode by selecting it from the View menu
+▪ Enter Presentation Mode by selecting it from the View menu
 
-- Keyboard shortcuts can be used for functionality that is hidden from the current view, such as switching amongst open Brain tabs without exiting Presentation Mode
+▪ Keyboard shortcuts can be used for functionality that is hidden from the current view, such as switching amongst open Brain tabs without exiting Presentation Mode
 
-- Just start typing to search and the controls appear and disappear as needed
+▪ Just start typing to search and the controls appear and disappear as needed
 
 ![](TheBrain14-User-Guide-v01/image217.png)
 
@@ -4358,13 +4637,13 @@ The content area keeps all of your thought-specific notes and attachments. Attac
 
 Here are some handy things to know about the content area:
 
-- By default, the content area shows content attached to the active thought. If the active thought has no content, the content area shows only the thought’s name and related content (or placeholders for related content to come).
+▪ By default, the content area shows content attached to the active thought. If the active thought has no content, the content area shows only the thought’s name and related content (or placeholders for related content to come).
 
 However, if you want to see the content for thoughts you point at with the
 
 mouse, select the “Update displayed content on hover” option in the **Behavior** tab of the **Preferences** window. (Please see the Behavior Preferences section on page 64 for more information about setting global user interface preferences.)
 
-- A red border highlights the content area when the content belongs to a moused-over thought.
+▪ A red border highlights the content area when the content belongs to a moused-over thought.
 
 
 
@@ -4380,7 +4659,7 @@ will also be selected in your other brains. Of course, you can change your
 
 preferences at any time.
 
-- With one click, you can move the content area to any side of the plex—
+▪ With one click, you can move the content area to any side of the plex—
 
 above, below, left, or right. See the Using Smart-Splitter to Arrange TheBrain
 
@@ -4394,7 +4673,7 @@ might find it convenient to maximize the content area.
 
 **Figure 194. Maximizing the Content Area**
 
-- The size of the content area depends on the size of TheBrain window, but when the plex and the content area are side-by-side, you’re in control of how much of the available space each area occupies. Just point the mouse at the line between the two areas and when the double-headed arrow appears, drag left or right to change the proportions.
+▪ The size of the content area depends on the size of TheBrain window, but when the plex and the content area are side-by-side, you’re in control of how much of the available space each area occupies. Just point the mouse at the line between the two areas and when the double-headed arrow appears, drag left or right to change the proportions.
 
 ![](TheBrain14-User-Guide-v01/image221.png)
 
@@ -4492,9 +4771,9 @@ All Notes features are always available no matter which content area toolbar—c
 
 Content Area toolbar buttons (in order of appearance):
 
-- **Text Size** – Use the text size slider to resize the notes
+▪ **Text Size** – Use the text size slider to resize the notes
 
-- **Paragraph Style** —choose from:
+▪ **Paragraph Style** —choose from:
 
 o Normal
 
@@ -4518,39 +4797,39 @@ o Ordered List
 
 o Checkbox List
 
-- Bold, Italic, Underline and Code
+▪ Bold, Italic, Underline and Code
 
-- Strikethrough, Superscript, Subscript, Foreground Color, Background Color, Font and Remove Formatting
+▪ Strikethrough, Superscript, Subscript, Foreground Color, Background Color, Font and Remove Formatting
 
-- Unordered, Ordered and Checkbox Lists
+▪ Unordered, Ordered and Checkbox Lists
 
-- AI Writing Assistance – This button will always be visible, even when the Compact Toolbar is enabled.
+▪ AI Writing Assistance – This button will always be visible, even when the Compact Toolbar is enabled.
 
-- Outdent and Indent
+▪ Outdent and Indent
 
 
 
-- Left, Center and Right Justify Text
+▪ Left, Center and Right Justify Text
 
-- Link
+▪ Link
 
-- **Insert:** Date/Time, Table, Special Character, Capture and Insert Image, Mathematical Expression, Horizontal Rule, Page Break and Table of Contents
+▪ **Insert:** Date/Time, Table, Special Character, Capture and Insert Image, Mathematical Expression, Horizontal Rule, Page Break and Table of Contents
 
-- **Attach:** Link to File/Folder/URL, Add Markdown File, Paste, Add from Brainbox, Add File from Template, Create Event, Open Thought Folder, Capture Image to Attachment, Copy Path to Thought’s Folder, Template Help
+▪ **Attach:** Link to File/Folder/URL, Add Markdown File, Paste, Add from Brainbox, Add File from Template, Create Event, Open Thought Folder, Capture Image to Attachment, Copy Path to Thought’s Folder, Template Help
 
-- Find and Replace, Show Word Count, Spellcheck as You Type and Show/Hide Markdown
+▪ Find and Replace, Show Word Count, Spellcheck as You Type and Show/Hide Markdown
 
-- Note Style, Print, and Export
+▪ Note Style, Print, and Export
 
-- Compact Toolbar and Markdown Reference
+▪ Compact Toolbar and Markdown Reference
 
 **Markdown Editor**
 
 Notes in TheBrain are created using a next-generation markdown editor. This improved version of markdown enables more capabilities than standard editors for a superior editing experience. As mentioned, the visibility of markdown tags can be turned on/off with the Show Markdown button in the content area toolbar.
 
-- Unlike other markdown editors, TheBrain enables direct rendering of formatting, images, and more without requiring a "preview" window.
+▪ Unlike other markdown editors, TheBrain enables direct rendering of formatting, images, and more without requiring a "preview" window.
 
-- With the Show Markdown setting turned on, you’ll have text-based, inline code formatting: Ability to type text that converts into formatting, such as:
+▪ With the Show Markdown setting turned on, you’ll have text-based, inline code formatting: Ability to type text that converts into formatting, such as:
 
 o “[ ] “ (or “- “) to create a checkbox – “+ “ for a pre-checked checkbox
 
@@ -4624,11 +4903,11 @@ Notes are saved automatically when another thought is activated and will be save
 
 You can use all of the standard techniques you use in other text editors when you type, revise, and format TheBrain notes:
 
-- Automatic word wrap controls line endings. Press the **Enter** key to begin a new paragraph.
+▪ Automatic word wrap controls line endings. Press the **Enter** key to begin a new paragraph.
 
-- Either apply formatting as you go or select existing text before you apply formatting such as bold, italics, underlining, and color.
+▪ Either apply formatting as you go or select existing text before you apply formatting such as bold, italics, underlining, and color.
 
-- Standard text selection techniques:
+▪ Standard text selection techniques:
 
 o Drag the mouse through text to select it, or
 
@@ -4636,11 +4915,11 @@ o Click at the beginning of the text, then hold down the **Shift** key as you cl
 
 o Double-click to select an entire word, triple-click to select an entire line
 
-- To apply formatting to an entire paragraph, such as lists—bulleted, numbered, or check marked—just click anyplace within the paragraph. There’s no need to first select the entire paragraph.
+▪ To apply formatting to an entire paragraph, such as lists—bulleted, numbered, or check marked—just click anyplace within the paragraph. There’s no need to first select the entire paragraph.
 
-- Standard keyboard shortcuts—such as **Ctrl**-C for **Copy**, **Ctrl**-V for **Paste**, and **Ctrl**-A for **Select All**—work as you would expect in notes. (On macOS, the standard **Command** key shortcuts also work.) You can copy and paste within notes and between TheBrain and other applications.
+▪ Standard keyboard shortcuts—such as **Ctrl**-C for **Copy**, **Ctrl**-V for **Paste**, and **Ctrl**-A for **Select All**—work as you would expect in notes. (On macOS, the standard **Command** key shortcuts also work.) You can copy and paste within notes and between TheBrain and other applications.
 
-- To toggle a check box on or off, follow a link, or open an attachment in the content area, press the **Ctrl+L** keyboard shortcut.
+▪ To toggle a check box on or off, follow a link, or open an attachment in the content area, press the **Ctrl+L** keyboard shortcut.
 
 ![](TheBrain14-User-Guide-v01/image6.png)
 
@@ -4800,9 +5079,9 @@ Press the **Escape** key to stop dragging.
 
 When you’re typing in the Notes editor, the **Tab** key performs different functions based on:
 
-- Where the cursor is
+▪ Where the cursor is
 
-- Whether text is selected
+▪ Whether text is selected
 
 ![](TheBrain14-User-Guide-v01/image19.png)
 
@@ -4826,19 +5105,19 @@ As in most text processing software, holding the **Shift** key while pressing th
 
 **If no text is selected and the cursor is within or at the start of a paragraph:**
 
-- The **first line** of the paragraph (whether it is one line or many) is indented approximately five spaces each time the **Tab** key is pressed.
+▪ The **first line** of the paragraph (whether it is one line or many) is indented approximately five spaces each time the **Tab** key is pressed.
 
 **When the cursor is in a list item (bullets/check boxes/numbered lines):**
 
-- The entire list entry is indented approximately five spaces each time the **Tab** key is pressed.
+▪ The entire list entry is indented approximately five spaces each time the **Tab** key is pressed.
 
 **When the cursor is in a title, subtitle, heading, or subheading:**
 
-- The level of the heading is decreased each time the **Tab** key is pressed. The heading level is increased each time **Shift**+**Tab** is pressed. For example, to change a Heading 4 to a Heading 3, you would click in the text and press **Shift**+**Tab**. (Heading 3 is a “higher level” than Heading 4.)
+▪ The level of the heading is decreased each time the **Tab** key is pressed. The heading level is increased each time **Shift**+**Tab** is pressed. For example, to change a Heading 4 to a Heading 3, you would click in the text and press **Shift**+**Tab**. (Heading 3 is a “higher level” than Heading 4.)
 
 **When the cursor is in a table:**
 
-- Pressing the **Tab** key moves the cursor to the next cell.
+▪ Pressing the **Tab** key moves the cursor to the next cell.
 
 ![](TheBrain14-User-Guide-v01/image19.png)
 
@@ -4886,7 +5165,7 @@ From the note’s context menu, you can also select Copy as Text or Copy as
 
 HTML for pasting into other applications.
 
-- To select a style, click in the **Notes** tab, click the **More** button, then click the **Notes Style** command (or just click the **Notes style** button if the toolbar is expanded), then click a style of your choice from the **Edit Notes Style** box.
+▪ To select a style, click in the **Notes** tab, click the **More** button, then click the **Notes Style** command (or just click the **Notes style** button if the toolbar is expanded), then click a style of your choice from the **Edit Notes Style** box.
 
 ![](TheBrain14-User-Guide-v01/image235.png)
 
@@ -5067,7 +5346,7 @@ You can easily add a Table of Contents into any existing note. The Table of Cont
 
 **To insert a Table of Contents:**
 
-- Click in the note where you want the Table of Contents to begin, then click the **Insert** button and select **InsertTable of Contents** option in the content area toolbar. When **Show Markdown** is activated, type **[/toc/]**.
+▪ Click in the note where you want the Table of Contents to begin, then click the **Insert** button and select **InsertTable of Contents** option in the content area toolbar. When **Show Markdown** is activated, type **[/toc/]**.
 
 ![](TheBrain14-User-Guide-v01/image19.png)
 
@@ -5081,11 +5360,11 @@ The Table of Contents that is created will only include the content that appears
 
 **To delete a Table of Contents:**
 
-- Click just above the Table of Contents, then press the **Delete** key, or click just after the Table of Contents, then press the **Backspace** key.
+▪ Click just above the Table of Contents, then press the **Delete** key, or click just after the Table of Contents, then press the **Backspace** key.
 
 **To view a pop-up Table of Contents:**
 
-- For a quick pop-up window that contains the note’s Table of Contents, right- click in the note or press **Ctrl+T**.
+▪ For a quick pop-up window that contains the note’s Table of Contents, right- click in the note or press **Ctrl+T**.
 
 ![](TheBrain14-User-Guide-v01/image246.png)
 
@@ -5107,7 +5386,7 @@ suggestion of your choice to replace the misspelled word. You can customize the 
 
 If you prefer not to see misspellings flagged as you type:
 
-- Click in the **Notes** tab, click the **More** button, then click the **Check Spelling** **as You Type** command (or just click the **Check Spelling as You Type** button if the toolbar is expanded).
+▪ Click in the **Notes** tab, click the **More** button, then click the **Check Spelling** **as You Type** command (or just click the **Check Spelling as You Type** button if the toolbar is expanded).
 
 ![](TheBrain14-User-Guide-v01/image248.png)
 
@@ -5125,11 +5404,11 @@ Real-time spellchecking also applies to creating and editing thought names.
 
 You can insert horizontal rules (lines) for organizing notes into sections visually.
 
-- Click in the note where you want the horizontal rule to appear, click the **Insert** button, then click the **Insert Horizontal Rule** command.
+▪ Click in the note where you want the horizontal rule to appear, click the **Insert** button, then click the **Insert Horizontal Rule** command.
 
 
 
-- Horizontal Rules can also be added manually by typing 3 hyphens, even when Markdown is hidden.
+▪ Horizontal Rules can also be added manually by typing 3 hyphens, even when Markdown is hidden.
 
 ![](TheBrain14-User-Guide-v01/image249.png)
 
@@ -5141,7 +5420,7 @@ Typing 10 hyphens will create a Page Break in the note; however, this option is 
 
 **To remove a horizontal rule:**
 
-- Click within the rule to select it, then press the **Delete** key. If there is a rule between two paragraphs, the rule will also be deleted if you select and delete the paragraphs before and after it.
+▪ Click within the rule to select it, then press the **Delete** key. If there is a rule between two paragraphs, the rule will also be deleted if you select and delete the paragraphs before and after it.
 
 **Creating Check Box Lists**
 
@@ -5163,7 +5442,7 @@ incomplete. You can either create the list as you type or turn any existing text
 
 **To see ALL of your To-Do items in one place:**
 
-- Click the **Right Panel** button in the upper-right area next to the Search box or click the **To Do List** command on the **View** menu.
+▪ Click the **Right Panel** button in the upper-right area next to the Search box or click the **To Do List** command on the **View** menu.
 
 ![](TheBrain14-User-Guide-v01/image251.png)
 
@@ -5189,11 +5468,11 @@ TheBrain has a built-in feature that automatically marks note text that matches 
 
 Web links can easily be inserted, edited, and identified within your notes for the active thought. Use any of these three ways:
 
-- Type in the URL, or
+▪ Type in the URL, or
 
-- Paste in the URL from the clipboard after you copy it (any selected note text is automatically linked to the URL), or
+▪ Paste in the URL from the clipboard after you copy it (any selected note text is automatically linked to the URL), or
 
-- Drag the URL in from a browser
+▪ Drag the URL in from a browser
 
 The web link will be identified and processed automatically.
 
@@ -5217,7 +5496,7 @@ Videos from YouTube are embedded into notes in a playable form automatically. Ju
 
 **Figure 228. Dragging a Web Link into a Note**
 
-- The URL will be replaced with the title of the page it links to—and you can easily edit the title by clicking within it and using standard typing and deleting techniques. If you delete the brackets around the link text, the connection to
+▪ The URL will be replaced with the title of the page it links to—and you can easily edit the title by clicking within it and using standard typing and deleting techniques. If you delete the brackets around the link text, the connection to
 
 
 
@@ -5275,11 +5554,11 @@ to link or create thoughts.
 
 You can take a screen capture of virtually anything you can see on the screen and then insert the image into the content area.
 
-- Click the **Insert** button in the content area toolbar and select **Capture and** **Insert Image**.
+▪ Click the **Insert** button in the content area toolbar and select **Capture and** **Insert Image**.
 
-- Your brain will be hidden temporarily and red crosshairs will appear on the screen in place of your cursor.
+▪ Your brain will be hidden temporarily and red crosshairs will appear on the screen in place of your cursor.
 
-- Click and drag a rectangle around the area to be captured as an image in your note.
+▪ Click and drag a rectangle around the area to be captured as an image in your note.
 
 
 
@@ -5379,41 +5658,41 @@ remembered for future exports. Customizable settings include:
 
 o**Options**
 
-- Thought Titles
+▪ Thought Titles
 
-- Thought Labels
+▪ Thought Labels
 
-- Links and Mentions
+▪ Links and Mentions
 
-- Use web thought URLs
+▪ Use web thought URLs
 
-- Force white page
+▪ Force white page
 
 o**Format**
 
-- PDF
+▪ PDF
 
-- HTML
+▪ HTML
 
-- Markdown
+▪ Markdown
 
-- Text
+▪ Text
 
 o**PDF Options**
 
-- Page size
+▪ Page size
 
-- Orientation
+▪ Orientation
 
 
 
-- Text Size
+▪ Text Size
 
-- Page number footer
+▪ Page number footer
 
 o**Markdown Options**
 
-- Convert to “CommonMark”
+▪ Convert to “CommonMark”
 
 - **Open in Browser** – Note will open as HTML in your default web browser.
 
@@ -5447,11 +5726,11 @@ The content area supports keystrokes to delete by word, rather than one
 
 character at a time:
 
-- **Ctrl+Backspace** = Delete to start of current word (equal to **Ctrl+Shift+Left**,
+▪ **Ctrl+Backspace** = Delete to start of current word (equal to **Ctrl+Shift+Left**,
 
 **Backspace** on macOS)
 
-- **Ctrl+Delete** = Delete to start of next word (equal to **Ctrl+Shift+Right**, **Delete**
+▪ **Ctrl+Delete** = Delete to start of next word (equal to **Ctrl+Shift+Right**, **Delete**
 
 on macOS)
 
@@ -5535,11 +5814,11 @@ window by holding down the following keys as you drag and drop:
 
 **InmacOS**
 
--Link to file = **Alt** - Link to file = **Ctrl**
+▪Link to file = **Alt** ▪ Link to file = **Ctrl**
 
--Move file = **Shift** - Move file = **Cmd**
+▪Move file = **Shift** ▪ Move file = **Cmd**
 
--Copy file = **Ctrl** - Copy file = **Alt**
+▪Copy file = **Ctrl** ▪ Copy file = **Alt**
 
 **Attaching Links to Files and Folders without Dragging**
 
@@ -5569,29 +5848,29 @@ From here you can click the **X** button to return to the notes, click the up-ar
 
 **Action Menu for Files**
 
-- **Open**: Open the selected attachment in its default application.
+▪ **Open**: Open the selected attachment in its default application.
 
-- **Rename**: Change the name of the selected attachment.
+▪ **Rename**: Change the name of the selected attachment.
 
-- **Properties:** Display all attributes of the selected file in a separate dialog box; based on the default application, there may be properties you can change.
+▪ **Properties:** Display all attributes of the selected file in a separate dialog box; based on the default application, there may be properties you can change.
 
-- **Delete**: Delete the selected attachment (you will be not be prompted to confirm the deletion but you can use the **Edit** menu to **Undo** the deletion).
+▪ **Delete**: Delete the selected attachment (you will be not be prompted to confirm the deletion but you can use the **Edit** menu to **Undo** the deletion).
 
-- **Copy**: Copy the selected attachment to the clipboard; you can then paste the attachment elsewhere in your brain.
+▪ **Copy**: Copy the selected attachment to the clipboard; you can then paste the attachment elsewhere in your brain.
 
 
 
-- **Cut**: Place the selected attachment into the clipboard; the attachment will be removed from its current location when it is pasted elsewhere in your brain.
+▪ **Cut**: Place the selected attachment into the clipboard; the attachment will be removed from its current location when it is pasted elsewhere in your brain.
 
-- **Move File into/out of Brain**: Switch this attachment between internal and external storage; if you are moving the file out of your brain, you will be prompted to specify the destination folder.
+▪ **Move File into/out of Brain**: Switch this attachment between internal and external storage; if you are moving the file out of your brain, you will be prompted to specify the destination folder.
 
-- **Copy File into/out of Brain**: Switch this attachment between internal and external storage; if you are moving the file out of your brain, you will be prompted to specify the destination folder.
+▪ **Copy File into/out of Brain**: Switch this attachment between internal and external storage; if you are moving the file out of your brain, you will be prompted to specify the destination folder.
 
-- **Copy File Path**: Copies the location so that you can paste it elsewhere, including the Search box; for example, you may want to see if the file is elsewhere in your brain.
+▪ **Copy File Path**: Copies the location so that you can paste it elsewhere, including the Search box; for example, you may want to see if the file is elsewhere in your brain.
 
-- **Show in Explorer**: Shows where the file resides outside of your brain.
+▪ **Show in Explorer**: Shows where the file resides outside of your brain.
 
-- **Encrypt**: Ensures that it is impossible to recover the file contents without a password.
+▪ **Encrypt**: Ensures that it is impossible to recover the file contents without a password.
 
 **Attaching Web Pages**
 
@@ -5603,11 +5882,11 @@ TheBrain’s built-in browser has recently been updated and supports more types 
 
 The easiest method for linking a web page into your brain is to simply drag and drop it into your brain. Click on the URL icon in the address bar of any browser and drag into one of several different locations to add the web page as an attachment:
 
-- Drag and drop to the plex to create new thoughts. The thought name will be the URL of the web page or what is contained in the `<title>` tag of the URL, which you can easily rename as you would any other thought. A link to the page will appear under the thought name in the content area and clicking that link will open the page in TheBrain's built-in browser. Online non-HTML content, such as online .PDF files will be renamed with the file name.
+▪ Drag and drop to the plex to create new thoughts. The thought name will be the URL of the web page or what is contained in the `<title>` tag of the URL, which you can easily rename as you would any other thought. A link to the page will appear under the thought name in the content area and clicking that link will open the page in TheBrain’s built-in browser. Online non-HTML content, such as online .PDF files will be renamed with the file name.
 
-- Drag and drop onto existing thoughts in the content area. This will simply add the web page as an additional attachment link. The thought name will not be updated.
+▪ Drag and drop onto existing thoughts in the content area. This will simply add the web page as an additional attachment link. The thought name will not be updated.
 
-- Drag and drop into the body of an existing note for a hyperlink.
+▪ Drag and drop into the body of an existing note for a hyperlink.
 
 
 
@@ -5619,7 +5898,7 @@ The easiest method for linking a web page into your brain is to simply drag and 
 
 You can also add a web page attachment to the active thought by clicking the **Attach** button in the content area.
 
-- Click **Link to URL**, paste or type the URL address into the empty field, then press the **Enter** key.
+▪ Click **Link to URL**, paste or type the URL address into the empty field, then press the **Enter** key.
 
 ![](TheBrain14-User-Guide-v01/image266.png)
 
@@ -5688,19 +5967,19 @@ An attachment that is a web page has a slightly different menu—and it’s also
 
 **Figure 242. URL Attach Menu in Notes and in Place**
 
-- **Preview in Place**: Open the page within the content area in TheBrain’s built-
+▪ **Preview in Place**: Open the page within the content area in TheBrain’s built-
 
 in browser.
 
-- **Open**: Open the selected web page in its default application.
+▪ **Open**: Open the selected web page in its default application.
 
-- **Open Using Wayback Machine**: Open an archived web page for the URL.
+▪ **Open Using Wayback Machine**: Open an archived web page for the URL.
 
-- **Rename**: Change the name of the selected attachment (not the URL itself).
+▪ **Rename**: Change the name of the selected attachment (not the URL itself).
 
-- **Edit Location**: Change the URL address for the selected attachment.
+▪ **Edit Location**: Change the URL address for the selected attachment.
 
-- **Attachments as a List**: By default, attachment links appear one after
+▪ **Attachments as a List**: By default, attachment links appear one after
 
 another, wrapping to a new link when there are more than fit in one line. This
 
@@ -5728,17 +6007,17 @@ Use the **Next** and **Previous** navigational arrows in the top-right corner of
 
 **To view attachments as a slide show:**
 
-- Click the first attachment, then click the **Next** button to display the next attachment.
+▪ Click the first attachment, then click the **Next** button to display the next attachment.
 
-- For multi-page attachments, click a thumbnail to jump to a specific page.
+▪ For multi-page attachments, click a thumbnail to jump to a specific page.
 
-To return to the notes, just click the Close button (**X)** at the start of the Notes -
+To return to the notes, just click the Close button (**X)** at the start of the Notes ▪
 
 toolbar (or keep clicking the **Previous** button until the notes appear).
 
 **To view pictures in notes as a slide show:**
 
-- Double-click the image you want to see first to maximize it, then click the **Next** button to display the next picture.
+▪ Double-click the image you want to see first to maximize it, then click the **Next** button to display the next picture.
 
 
 
@@ -5998,7 +6277,7 @@ In the example below, the four backlinks comprise every note that begins with a
 
 that contains one or more “George” headings.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image284.png)
 
@@ -6014,7 +6293,7 @@ that contains one or more “George” headings.
 
 3. Link the Heading by right-clicking it, then selecting **Link (*thought name*)**.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image286.png)
 
@@ -6046,7 +6325,7 @@ To add content from the web tnsion in
 
 your preferred browser. Go to and follow the instructions there.
 
--
+
 
 **Accessing BrainBox**
 
@@ -6064,16 +6343,15 @@ At any time, when you have a brain open, use the **BrainBox** button in the uppe
 
 5. From here, the file or web page can be:
 
-- Added as an internal attachment on a new child thought below the current active thought. The new thought name will be the file or web page name
+▪ Added as an internal attachment on a new child thought below the current active thought. The new thought name will be the file or web page name
 
-- Added as an internal attachment to the active thought
+▪ Added as an internal attachment to the active thought
 
-- Opened in its default application
+▪ Opened in its default application
 
-- Renamed, deleted and other actions applied from the context menu button
+▪ Renamed, deleted and other actions applied from the context menu button
 
-- The context menu will also allow you to either **Move** from BrainBox to the active thought or **Copy** from BrainBox
-
+▪ The context menu will also allow you to either **Move** from BrainBox to the active thought or **Copy** from BrainBox
 
 ![](TheBrain14-User-Guide-v01/image288.png)
 
@@ -6151,7 +6429,7 @@ An alternative way to view and manage the content of your BrainBox is available 
 
 **To open BrainBox in its own tab:**
 
-- Click the **Open BrainBox** button, click the drop-down **Show Commands** menu, then select **Open BrainBox in New Tab**.
+▪ Click the **Open BrainBox** button, click the drop-down **Show Commands** menu, then select **Open BrainBox in New Tab**.
 
 **Figure 261. The BrainBox Tab**
 
@@ -6163,19 +6441,19 @@ Use the **BrainBox** tab to review, edit or delete existing content in your Brai
 
 **Figure 262. Editing Content of The BrainBox**
 
--
+
 
 1. Point to or click an item listed in the BrainBox to select it.
 
-2. Use the context menu or the choices that appear on mouseover to: - Open item in its native application for preview
+2. Use the context menu or the choices that appear on mouseover to: ▪ Open item in its native application for preview
 
-- Edit the file or link name
+▪ Edit the file or link name
 
-- Edit the URL
+▪ Edit the URL
 
-- Open in Explorer or Finder
+▪ Open in Explorer or Finder
 
-- Delete the item from your BrainBox
+▪ Delete the item from your BrainBox
 
 Multiple items can be selected in BrainBox allowing you to move, copy or delete multiple items at one time
 
@@ -6185,7 +6463,7 @@ Multiple items can be selected in BrainBox allowing you to move, copy or delete 
 
 **Figure 263. Working with Multiple Attachments in BrainBox** Additionally, from the BrainBox **Show Commands** menu, you can access the cumentation available at
 
--
+
 
 **Sending Web Pages to BrainBox**
 
@@ -6207,7 +6485,7 @@ Send copies of individual files into your BrainBox to be organized and associate
 
 From Windows File Explorer, right-click on any file and select **BrainBox** from the **Send to** submenu. TheBrain will be started if it is not already running and the file will be added to BrainBox. To set up the Windows File Explorer integration, install and run TheBrain 13.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image324.png)
 
@@ -6217,7 +6495,7 @@ From Windows File Explorer, right-click on any file and select **BrainBox** from
 
 Launch TheBrain application if it is not running already. From any Finder window, drag and drop any file to TheBrain icon in the macOS Dock. The file will be added to BrainBox. You can also drag the icon from the title bar of many macOS apps.
 
--
+**Producing Reports Producing Reports**
 
 ![](TheBrain14-User-Guide-v01/image53.png)
 
@@ -6237,13 +6515,13 @@ The **Thoughts** drop-down list includes the following options and each selectio
 
 **Figure 267. Thought Options for Reports** You can run reports based on the criteria discussed below.
 
--
+
 
 **By Types/Tags**
 
 The **By Types/Tags** option in the **Thoughts** drop-down helps you filter thoughts in your Report by checking for specific thought Types and Tags for thoughts and/or for links. All thoughts or links that don’t meet the criteria will be excluded from the report. By default, thoughts of any Type will be included.
 
-- Click the field to the right of **Types** (which will display “Any” if no Types have been selected yet), then select the check box for each thought Type to be included. Click outside of the list to close it.
+▪ Click the field to the right of **Types** (which will display “Any” if no Types have been selected yet), then select the check box for each thought Type to be included. Click outside of the list to close it.
 
 ![](TheBrain14-User-Guide-v01/image327.png)
 
@@ -6259,7 +6537,7 @@ Clicking on a Tag in the list will add a “**+**” next to it, indicating that
 
 This indicates that you do not want thoughts with that Tag listed. Clicking the same Tag once more will remove it from your list of filtered Tags.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image329.png)
 
@@ -6277,7 +6555,7 @@ The Forgotten thoughts selection allows you to quickly view and access any thoug
 
 **Figure 271. Forgotten Thoughts Report**
 
--
+
 
 With **Forgotten** selected in the **Thoughts** drop-down, you can use the menu button to add all forgotten thoughts in your report to your Selection, remove all forgotten thoughts in your report from your Selection, permanently delete all forgotten thoughts in your report, or remember all forgotten thoughts in your report.
 
@@ -6295,7 +6573,7 @@ As soon as you click any forgotten thought in the list, a “Showing Forgotten t
 
 Select **Parentless** in the **Thoughts** drop-down to quickly view and access any thoughts that do not have a parent.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image333.png)
 
@@ -6319,7 +6597,7 @@ Select **Orphan** in the **Thoughts** drop-down to quickly view and access any t
 
 Viewing an Orphan Thought Report is an excellent way to find lost thoughts or thoughts that may have inadvertently been disconnected at some point. Is there a thought you know you had in your brain? Try running an Orphan Thought Report to see if it was previously unlinked by accident.
 
--
+
 
 **Duplicate Names**
 
@@ -6339,7 +6617,7 @@ Select **By Attachments** in the **Thoughts** drop-down to quickly view and acce
 
 **Figure 277. By Attachments Report**
 
--
+
 
 **Filtering by Modification or Creation Date**
 
@@ -6353,17 +6631,17 @@ modified within a specific date range and allows for even more in-depth reportin
 
 **Figure 278. Filtering Thoughts in a Report by Modified Date**
 
-- Select **Modified**, **Created**, or **Event** to specify what the date range should
+▪ Select **Modified**, **Created**, or **Event** to specify what the date range should
 
 pertain to. For example, select **Modified** if you want to see thoughts you
 
 made changes to within a specific period of time.
 
-- Click in the first date field to display a calendar, then select a date; click in the
+▪ Click in the first date field to display a calendar, then select a date; click in the
 
 “to” date to select an end date.
 
-- Additionally, you can click on the context menu button to select from a preset
+▪ Additionally, you can click on the context menu button to select from a preset
 
 list of date ranges:
 
@@ -6377,9 +6655,9 @@ o Last 14 Days
 
 o Last 30 Days
 
-- Select **Any** if you want to remove the time criteria.
+▪ Select **Any** if you want to remove the time criteria.
 
--
+
 
 **Sorting Report Results**
 
@@ -6387,11 +6665,11 @@ Use the **Sort** drop-down to switch the list order of your report results betwe
 
 **Name**, **Date Modified**, and **Attachment Size**.
 
-- Reports sorted by Name will appear in ascending order, A-Z
+▪ Reports sorted by Name will appear in ascending order, A-Z
 
-- Reports sorted by Date Modified will appear newest first
+▪ Reports sorted by Date Modified will appear newest first
 
-- Reports sorted by Attachment Size will appear with the largest total
+▪ Reports sorted by Attachment Size will appear with the largest total
 
 attachment sizes highest in the list
 
@@ -6401,7 +6679,7 @@ attachment sizes highest in the list
 
 **Refreshing or Resetting Report Results**
 
-- Click the **Refresh** button to update the list of thoughts that match your report
+▪ Click the **Refresh** button to update the list of thoughts that match your report
 
 criteria.
 
@@ -6409,9 +6687,9 @@ criteria.
 
 **Figure 280. The Refresh Button**
 
--
 
-- Click the **Reset** button to clear all report criteria except the **Thoughts** field
+
+▪ Click the **Reset** button to clear all report criteria except the **Thoughts** field
 
 and the **Sort** field selections.
 
@@ -6421,7 +6699,7 @@ and the **Sort** field selections.
 
 **Adding Report Results to the Selection Panel**
 
-- Click the menu button, then click **Add All to Selection**. All report results will
+▪ Click the menu button, then click **Add All to Selection**. All report results will
 
 be added to the Selection panel where you can apply actions to the thoughts
 
@@ -6431,7 +6709,7 @@ all at one time. Right-click in the Selection area to see your choices.
 
 **Figure 282. Adding Report Results to the Selection Panel**
 
--
+
 
 **Saving and Accessing Reports**
 
@@ -6453,7 +6731,7 @@ Reports can be saved and used again at any time.
 
 2. Click the name of the report you want to open.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image343.png)
 
@@ -6467,19 +6745,19 @@ Your thought modifications are now logged and instantly viewable in a chronologi
 
 Modifications can include:
 
-- Renaming
+▪ Renaming
 
-- Editing, adding or deleting attachments
+▪ Editing, adding or deleting attachments
 
-- Any edit to the thought notes
+▪ Any edit to the thought notes
 
-- Renaming
+▪ Renaming
 
-- Linking or unlinking to another thought
+▪ Linking or unlinking to another thought
 
 To view your recently modified thoughts, simply click on the clock icon to the right of the Search box. Modified thoughts will be displayed starting with the current date. When you hover over a thought, a comprehensive, time-stamped report of the exact modification(s) appear in a pop-up next to the name.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image344.png)
 
@@ -6489,27 +6767,27 @@ To view your recently modified thoughts, simply click on the clock icon to the r
 
 Find and replace all occurrences of text within thought names and labels, link labels, external attachment paths and URLs.
 
-- Includes support for regular expressions.
+▪ Includes support for regular expressions.
 
-- Can be applied to the entire brain or to a group of selected thoughts.
+▪ Can be applied to the entire brain or to a group of selected thoughts.
 
-- Changes are undoable however it is still highly recommended that you create a brain Archive (.brz) prior to performing a large Find and Replace operation on an important brain.
+▪ Changes are undoable however it is still highly recommended that you create a brain Archive (.brz) prior to performing a large Find and Replace operation on an important brain.
 
 **To begin replacing:**
 
 1. Open the **File** menu, select **Utilities**, then select **FindandReplace**. 2. Enter the text to be replaced and the text to replace it with.
 
-3. Specify where the text occurs. The available locations are: - Thought Names
+3. Specify where the text occurs. The available locations are: ▪ Thought Names
 
-- Thought Labels
+▪ Thought Labels
 
-- Link Labels
+▪ Link Labels
 
-- External Attachment Paths
+▪ External Attachment Paths
 
-- Attached URLs
+▪ Attached URLs
 
--
+
 
 4. Use the check boxes to specify whether letter case is to be ignored and if
 
@@ -6533,21 +6811,21 @@ Curious about the content of your brain? Click the **File** menu and select
 
 **Statistics** to view in-depth details such as:
 
-- Date Generated
+▪ Date Generated
 
-- Last Sync Date
+▪ Last Sync Date
 
-- Number of Thoughts
+▪ Number of Thoughts
 
-- Number of Links
+▪ Number of Links
 
-- Average Number of Links per Thought
+▪ Average Number of Links per Thought
 
-- Internal File Size and Total Icon Size
+▪ Internal File Size and Total Icon Size
 
-- Number of Notes, Attachments, Web Links, Icons and more …
+▪ Number of Notes, Attachments, Web Links, Icons and more …
 
--
+
 
 **Managing Events**
 
@@ -6575,7 +6853,7 @@ Events created from the content area are automatically associated with the activ
 
 **Figure 287. Creating a New Event in the Content Area**
 
--
+
 
 Use the event editor pop-up to enter details about the event. By default, the name of the event is the name of the active thought.
 
@@ -6591,7 +6869,7 @@ associated thoughts.
 
 1. Unless it is already open, display the Timeline by clicking the **Timeline** command in the **View** menu or the **Timeline** button to the left of the Search box.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image348.png)
 
@@ -6613,7 +6891,7 @@ information about using the Timeline and 1-click fine-tuning based on your prefe
 
 Reminders appear when the brain containing the event is open.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image350.png)
 
@@ -6629,7 +6907,7 @@ timeline.
 
 **To edit or delete an event from the Content Area:**
 
-- In the content area for the Thought associated with the event, right-click the
+▪ In the content area for the Thought associated with the event, right-click the
 
 event you want to work with, then choose a command from the context menu.
 
@@ -6639,13 +6917,13 @@ Choose **Properties** to edit the details of the event.
 
 **Figure 292. Editing and Deleting Events in the Content Area**
 
--
+
 
 **To edit or delete an event from the Timeline:**
 
-- To edit, click the event to open the event editor pop-up.
+▪ To edit, click the event to open the event editor pop-up.
 
-- To delete, right-click the event on the Timeline, then click **Delete Event**. You can also delete the event by selecting **Delete Event** in the event editor pop- up.
+▪ To delete, right-click the event on the Timeline, then click **Delete Event**. You can also delete the event by selecting **Delete Event** in the event editor pop- up.
 
 ![](TheBrain14-User-Guide-v01/image352.png)
 
@@ -6653,15 +6931,15 @@ Choose **Properties** to edit the details of the event.
 
 **Navigating in Timeline View**
 
-- Drag in the background of the timeline up and down to zoom in and out.
+▪ Drag in the background of the timeline up and down to zoom in and out.
 
 ![](TheBrain14-User-Guide-v01/image353.png)
 
-**Figure 294. Click and Drag Up and Down to Zoom** - Drag left and right to scroll through time.
+**Figure 294. Click and Drag Up and Down to Zoom** ▪ Drag left and right to scroll through time.
 
--
 
-- Buttons allow you to switch between day, week, month and year view. Or, navigate to a specific day in the mini calendar.
+
+▪ Buttons allow you to switch between day, week, month and year view. Or, navigate to a specific day in the mini calendar.
 
 ![](TheBrain14-User-Guide-v01/image354.png)
 
@@ -6677,7 +6955,7 @@ Forgotten Thoughts are being viewed in the plex. Like the faded display in the p
 
 TheBrain includes nearly 2000 built-in icons for your thoughts, Types, and Tags. Choose from 22 different categories such as Animals, Emojis, Food, Multimedia, and Technology, to name a few. Here are some examples:
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image355.png)
 
@@ -6689,7 +6967,7 @@ TheBrain includes nearly 2000 built-in icons for your thoughts, Types, and Tags.
 
 **Figure 296. Two Ways to Access Select Stock Icon**
 
--
+
 
 2. Select the Browse radio button and choose a category from the list
 
@@ -6703,19 +6981,19 @@ on an icon to add it to the active thought.
 
 Additionally, you may select one of the other radio buttons:
 
-- **Search**—Type a keyword to filter all icons that match that result
+▪ **Search**—Type a keyword to filter all icons that match that result
 
-- **Suggestions**—Automatically filters the icon list by using the thought name as
+▪ **Suggestions**—Automatically filters the icon list by using the thought name as
 
 the search criteria
 
-- **Random**—72 random icons will appear; click the **Shuffle** button to see a new
+▪ **Random**—72 random icons will appear; click the **Shuffle** button to see a new
 
 set of icons
 
-- **Recent**—Displays all recently selected icons
+▪ **Recent**—Displays all recently selected icons
 
--
+
 
 **Online Menu Options**
 
@@ -6757,7 +7035,7 @@ read-only copy of your brain with someone else.
 
 **Show Account Info**—Easy access to managing your external accounts and logging out of TheBrain Cloud.
 
--
+
 
 **Using Mobile Versions of TheBrain**
 
@@ -6769,11 +7047,11 @@ The iOS and Android apps include the ability to sync your brain so you can acces
 
 **Figure 299. Syncing TheBrain on iPhone**
 
--
+
 
 e at
 
--
+
 
 **Share, Synchronize, and Back Up Your Brains**
 
@@ -6801,7 +7079,7 @@ You can use TheBrain Cloud to publish and share your brain. People can view your
 
 Allow a few minutes for the email to be delivered. Check your spam folder if the message doesn’t arrive within a reasonable amount of time.
 
--
+
 
 4. Now you can return to the www.thebrain.com page and click the **Login** button to log in using the information you provided when you signed up.
 
@@ -6827,7 +7105,7 @@ Make sure you have created an account on TheBrain.com before you begin synchroni
 
 **Figure 302. The Cloud Icon in the TheBrain Toolbar**
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image363.png)
 
@@ -6857,7 +7135,7 @@ background. If there is an interruption during an initial upload of your brain, 
 
 4. To synchronize at any time, click the cloud icon in the menu bar or the **Sync Brain** command in the **Online** menu. The active copy of your brain will include the latest changes.
 
--
+
 
 Once your brain has been synced, your brain will be automatically set to auto-
 
@@ -6889,19 +7167,19 @@ can still access and edit your online brains by performing any of the following
 
 activities:
 
-- Create and Forget Thoughts
+▪ Create and Forget Thoughts
 
-- Change thought locations (child to jump)
+▪ Change thought locations (child to jump)
 
-- Unlink thoughts
+▪ Unlink thoughts
 
-- Set Pins
+▪ Set Pins
 
--
 
-- Edit Notes
 
-- Add Attachments
+▪ Edit Notes
+
+▪ Add Attachments
 
 ![](TheBrain14-User-Guide-v01/image19.png)
 
@@ -6909,7 +7187,7 @@ You can only edit brains that YOU own.
 
 **To edit notes in your online brain:**
 
-- Click in the content area and make any changes you like. The revised note
+▪ Click in the content area and make any changes you like. The revised note
 
 will be saved automatically as soon as you click on another thought.
 
@@ -6921,11 +7199,11 @@ other users without entials. To share a Version 12 brain
 
 with other users:
 
-- Open the brain in your local desktop application
+▪ Open the brain in your local desktop application
 
-- Click the **Online** menu, then click **Brain Access and Sharing…**
+▪ Click the **Online** menu, then click **Brain Access and Sharing…**
 
-- You have two different options for sharing your brain:
+▪ You have two different options for sharing your brain:
 
 o**Option 1:** Click the **Allow Public Access** check box and **share the Web**
 
@@ -6955,7 +7233,7 @@ address you specified.
 
 is viewed. It will be the first thought your viewers see.
 
--Right-click the thought, then click the **Set as Home Thought**
+▪Right-click the thought, then click the **Set as Home Thought**
 
 command
 
@@ -6963,7 +7241,7 @@ command
 
 The current wallpaper and color theme will be included in your published brain.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image368.png)
 
@@ -6979,7 +7257,7 @@ You can send your brain as an email attachment. To make the attachment as small 
 
 2. In the **Backup to Brain Archive** dialog box, select either of the Access Control options.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image369.png)
 
@@ -7007,7 +7285,7 @@ You can copy thoughts from the Selection panel into other programs such as Micro
 
 2. Right click in the Selection panel and then click the **Copy as Text Outline** command.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image370.png)
 
@@ -7027,7 +7305,7 @@ You can copy selected thoughts along with their notes and place them in a tabbed
 
 1. Select the thoughts to be copied, then right-click in the Selection panel to open the context menu.
 
--
+
 
 2. Click the **Copy as Text Outline with Notes** command.
 
@@ -7041,17 +7319,17 @@ Pasted outlines may include labels, attachments, and notes. If a URL is included
 
 **How TheBrain converts content from the source file:**
 
-- Each line that ends with an “Enter” or “Shift-Enter” becomes a thought
+▪ Each line that ends with an “Enter” or “Shift-Enter” becomes a thought
 
-- A multi-line paragraph with no manual line breaks becomes a thought
+▪ A multi-line paragraph with no manual line breaks becomes a thought
 
-- Indentation created using tabs show hierarchical relationships
+▪ Indentation created using tabs show hierarchical relationships
 
-- Lines starting with a hyphen (-) are added as notes
+▪ Lines starting with a hyphen (-) are added as notes
 
-- Lines starting with a plus sign (+) are added as web link attachments
+▪ Lines starting with a plus sign (+) are added as web link attachments
 
-- If a pipe (|) symbol is inserted, content to the left of the pipe will be the thought name and content to the right of the pipe will become a label (if all content is in the same paragraph)
+▪ If a pipe (|) symbol is inserted, content to the left of the pipe will be the thought name and content to the right of the pipe will become a label (if all content is in the same paragraph)
 
 **Example:**
 
@@ -7063,7 +7341,7 @@ Steve Jobs | Founder of Apple
 
 ---
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image372.png)
 
@@ -7083,17 +7361,17 @@ You can import folders and Mind Maps into your brain. When you import a folder, 
 
 1. Activate the thought that will receive the imported information.
 
--
+
 
 2. Click the **File** menu, then click the **Import** command.
 
 **For a Folder:**
 
-- Click**Folders**, select the **Add to** … button, click the **Select Folder** button, navigate to the folder of your choice, then click the **OK** button. Click the **Import** button as soon as it becomes available. Click the next **Import** button to confirm that you understand this import can’t be undone. Each folder will become a thought, every file inside the folder will become and attachment, and any subfolders will become child thoughts.
+▪ Click**Folders**, select the **Add to** … button, click the **Select Folder** button, navigate to the folder of your choice, then click the **OK** button. Click the **Import** button as soon as it becomes available. Click the next **Import** button to confirm that you understand this import can’t be undone. Each folder will become a thought, every file inside the folder will become and attachment, and any subfolders will become child thoughts.
 
 **For a Mind Map:**
 
-- Click**MindManager (.mmap)**, select the **Add to** … button, click the **Select** **File** button, navigate to the file of your choice, then click the **Open** button. Each of the topics or ideas will become a separate child thought of the active
+▪ Click**MindManager (.mmap)**, select the **Add to** … button, click the **Select** **File** button, navigate to the file of your choice, then click the **Open** button. Each of the topics or ideas will become a separate child thought of the active
 
 thought.
 
@@ -7123,7 +7401,7 @@ You can merge two brains together by importing a Brain Archive file (.BRZ):
 
 4. Select the **Add to “*open brain name”* and link to “*active thought name”*** option, then click **Brain Archive (brz)** in the list.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image374.png)
 
@@ -7145,7 +7423,7 @@ AES 256 bit encryption ensures that without the password, it is impossible to re
 
 Encrypted files cannot be searched and can only be decrypted via Windows and macOS versions of TheBrain. These files are completely inaccessible even to your hosting provider whether that be a private TeamBrain Enterprise Server or TheBrain Technologies Cloud Server.
 
--
+
 
 **To encrypt a file:**
 
@@ -7163,7 +7441,7 @@ Encrypted files cannot be searched and can only be decrypted via Windows and mac
 
 3. Whenever someone attempts to open the file, they’ll see the prompt you entered. They will have to enter the correct password, then click the **Decrypt** button. After that the file can be opened by clicking on it.
 
--
+
 
 ![](TheBrain14-User-Guide-v01/image377.png)
 
@@ -7175,7 +7453,7 @@ To modify an encrypted file, you will first need to permanently decrypt the file
 
 TheBrain features several export options. Export your brain data directly to:
 
-- **Folders**—Exports the thoughts in your brain by converting them to a folder hierarchy.
+▪ **Folders**—Exports the thoughts in your brain by converting them to a folder hierarchy.
 
 o Each thought becomes a folder containing the attachments and notes within it.
 
@@ -7183,7 +7461,7 @@ o The folder structure attempts to mimic the parent-child relationships between 
 
 o Shortcuts on Windows and symbolic links on macOS are used to represent thoughts that are under multiple parents.
 
-- **Text Outline** (.txt file)—Creates a text outline of thoughts, notes and URLs.
+▪ **Text Outline** (.txt file)—Creates a text outline of thoughts, notes and URLs.
 
 o Indented hierarchy mimics parent-child relationships between thoughts.
 
@@ -7191,11 +7469,11 @@ o Notes are exported as lines starting with a - (dash)
 
 o URLS are added lines starting with a + (plus)
 
-- **JSON Files**—Exports your brain data in JSON format.
+▪ **JSON Files**—Exports your brain data in JSON format.
 
 o Thoughts, links and other types of data are each exported in their own .json file.
 
--
+
 
 o Attachments and notes are exported into folders based on the ID of the thought or link they are attached to.
 
@@ -7203,19 +7481,19 @@ o This gives you access to 100% of your data in an open and easily parsed modern
 
 **To export your brain:**
 
-- Select **Export** from the **File** menu
+▪ Select **Export** from the **File** menu
 
-- Select the output (Folders, Text or JSON) and click on **Export**
+▪ Select the output (Folders, Text or JSON) and click on **Export**
 
-- The output location must be an empty directory
+▪ The output location must be an empty directory
 
-- To export just a portion of your brain, add thoughts first into TheBrain’s Selection panel and then check the option to **Only export the selection** in the **Export** window.
+▪ To export just a portion of your brain, add thoughts first into TheBrain’s Selection panel and then check the option to **Only export the selection** in the **Export** window.
 
 ![](TheBrain14-User-Guide-v01/image378.png)
 
 **Figure 318. Exporting a Brain to Folders**
 
--
+
 
 **TheBrain API**
 
@@ -7227,7 +7505,7 @@ TheBrain can now be controlled by a full-featured REST API. Designed for experie
 
 The available endpoints provide a wide array of capabilities for data access such as: getting thoughts, links, attachments, and notes, performing searches, and exploring the network of connections. Write access is also supported so you can
 
--
+
 
 programmatically create, modify, and delete thoughts, notes, links, attachments, and more.
 
@@ -7267,7 +7545,7 @@ The content area shows content attached to the active thought or a moused-over t
 
 from a brain. Deletion is permanent.
 
--
+
 
 **Drag and drop**
 
@@ -7315,7 +7593,7 @@ Thoughts that are connected in the plex as parents, children, jumps, or siblings
 
 **Navigate** To move from thought to thought by activating thoughts.
 
--
+
 
 **Notes** Every thought can have notes, which are displayed in the content area. Notes can hold any combination of text, images, sound, or shortcuts. The Notes editor includes a word processor.
 
@@ -7354,8 +7632,6 @@ clicking the thought, then selecting **Remember*thought name*** on the context m
 The field in the top-right area of the plex. Type text in this field to perform an Instant Activation search.
 
 **Siblings** Two or more thoughts with a common parent. When a thought that has siblings is active, its siblings are displayed in the sibling zone, to the right of the active thought.
-
-
 
 **Template** A file used as the basis for creating other files.
 
