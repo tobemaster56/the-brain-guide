@@ -2296,7 +2296,7 @@ OpenAI API Key. For help with using a custom OpenAI API key, visit
 **https://www.thebrain.com/docs/openai-api-key-help**.
 
 
-**Creating Thoughts**
+## **Creating Thoughts**
 
 **Creating a Single Thought**
 
@@ -2731,7 +2731,7 @@ executed using the **Redo** command.
 
 The Undo and Redo lists are cleared when you sync your brain (including an auto sync) and when your brain is closed.
 
-**Editing Thoughts and Links**
+## **Editing Thoughts and Links**
 
 **Renaming Thoughts**
 
@@ -2995,7 +2995,7 @@ Say that you decide that your “Product Promotions” thought shouldn’t reall
 **Figure 121. Shift-Dragging to Change Relationships**
 
 
-**Customizing Thought and Link Properties**
+## **Customizing Thought and Link Properties**
 
 You can change the colors of thoughts and links globally using the **Brain**
 
@@ -4014,7 +4014,7 @@ You can also set link direction for link types. The direction of a link type is 
 **Figure 177. Selecting a Link Type Direction**
 
 
-**Advanced Navigation and Alternative Views**
+## **Advanced Navigation and Alternative Views**
 
 **Changing Your View of Thoughts**
 
@@ -4195,7 +4195,7 @@ Presentation Mode makes your brain full-screen, hiding the title bar, menu bar, 
 **Figure 191. Before and after switching to Presentation Mode**
 
 
-**The Content Area**
+## **The Content Area**
 
 You can think of the parts of TheBrain’s content area as personal assistants who are ready to help when asked. You can give any of them the day, week, or year off if you choose not to use their services, but they’re all standing by, ready to assist you—-at the click of your mouse.
 
@@ -5831,7 +5831,7 @@ When selecting text in a note, you will have the option to
 
 if backlinks are also selected.
 
-**BrainBox**
+## **BrainBox**
 
 BrainBox lets you send information to your brain quickly and easily. Just click the icon in the top-right corner of TheBrain for Windows or macOS for instant access. Use BrainBox for adding information on the go, from your desktop, from the web, anything that you want to quickly capture into your brain, to be categorized later.
 
@@ -5936,8 +5936,6 @@ At any time, when you have a brain open, use the **BrainBox** button in the uppe
 
 ![](../thebrain14-user-guide-images/image321.png)
 
-**BrainBox**
-
 **The BrainBox Tab**
 
 An alternative way to view and manage the content of your BrainBox is available by opening BrainBox in its own tab.
@@ -6007,7 +6005,7 @@ From Windows File Explorer, right-click on any file and select **BrainBox** from
 
 Launch TheBrain application if it is not running already. From any Finder window, drag and drop any file to TheBrain icon in the macOS Dock. The file will be added to BrainBox. You can also drag the icon from the title bar of many macOS apps.
 
-**Producing Reports Producing Reports**
+## **Producing Reports Producing Reports**
 
 ![](../thebrain14-user-guide-images/image53.png)
 
@@ -6264,7 +6262,7 @@ To view your recently modified thoughts, simply click on the clock icon to the r
 
 **Figure 285. Recently Modified Thoughts and Links**
 
-**Find and Replace**
+## **Find and Replace**
 
 Find and replace all occurrences of text within thought names and labels, link labels, external attachment paths and URLs.
 
@@ -6305,7 +6303,7 @@ you’re ready.
 
 Additionally, the content area toolbar has its own Find and Replace functionality.
 
-**Statistics**
+## **Statistics**
 
 Curious about the content of your brain? Click the **File** menu and select
 
@@ -6326,7 +6324,7 @@ Curious about the content of your brain? Click the **File** menu and select
 - Number of Notes, Attachments, Web Links, Icons and more …
 
 
-**Managing Events**
+## **Managing Events**
 
 ![](../thebrain14-user-guide-images/image53.png)
 
@@ -6445,7 +6443,7 @@ Events associated with **Forgotten Thoughts** will only appear in the timeline i
 
 Forgotten Thoughts are being viewed in the plex. Like the faded display in the plex, the thought’s event will also appear as faded text.
 
-**TheBrain Icons**
+## **TheBrain Icons**
 
 TheBrain includes nearly 2000 built-in icons for your thoughts, Types, and Tags. Choose from 22 different categories such as Animals, Emojis, Food, Multimedia, and Technology, to name a few. Here are some examples:
 
@@ -6486,7 +6484,7 @@ set of icons
 - **Recent**—Displays all recently selected icons
 
 
-**Online Menu Options**
+## **Online Menu Options**
 
 The **Online** menu in TheBrain toolbar provides access to your Cloud Services settings from your desktop client and helps you share thoughts and brains
 
@@ -6527,7 +6525,7 @@ read-only copy of your brain with someone else.
 **Show Account Info**—Easy access to managing your external accounts and logging out of TheBrain Cloud.
 
 
-**Using Mobile Versions of TheBrain**
+## **Using Mobile Versions of TheBrain**
 
 Access your ideas and information on all your devices—including iOS and Android. TheBrain for mobile devices combines the best of note-taking, file synchronization, and mind mapping apps to give you the ultimate digital memory everywhere you go.
 
@@ -6541,7 +6539,7 @@ The iOS and Android apps include the ability to sync your brain so you can acces
 e at
 
 
-**Share, Synchronize, and Back Up Your Brains**
+## **Share, Synchronize, and Back Up Your Brains**
 
 ![](../thebrain14-user-guide-images/image53.png)
 
@@ -6826,7 +6824,7 @@ Steve Jobs | Founder of Apple
 
 **Figure 312. Example Thought from Text with a Pipe, Link, and Note**
 
-**Importing Information into Your Brain**
+## **Importing Information into Your Brain**
 
 **Importing Folders and Mind Maps**
 
@@ -6892,7 +6890,7 @@ to confirm that you want to continue, since importing a .BRZ file can’t be und
 
 The only brain that is changed is the one that is open when you begin the merge procedure. The brain you select during step 1 is not changed at all.
 
-**Encrypting Individual File Attachments**
+## **Encrypting Individual File Attachments**
 
 You can encrypt individual file attachments within your brain using the **Encrypt** command on an attachment’s context menu.
 
@@ -6924,7 +6922,7 @@ Encrypted files cannot be searched and can only be decrypted via Windows and mac
 
 To modify an encrypted file, you will first need to permanently decrypt the file. The easiest way to do this is to open the document and **Save As** a new document. Make and save the new modification and return to TheBrain to encrypt the new file.
 
-**Exporting**
+## **Exporting**
 
 TheBrain features several export options. Export your brain data directly to:
 
@@ -6968,7 +6966,7 @@ o This gives you access to 100% of your data in an open and easily parsed modern
 **Figure 318. Exporting a Brain to Folders**
 
 
-**TheBrain API**
+## **TheBrain API**
 
 TheBrain can now be controlled by a full-featured REST API. Designed for experienced programmers, the API opens up a world of possibilities. Access to a rich set of functions for querying, creating and modifying all types of data is included. Create thoughts automatically in response to events in the real world. Automate processes for moving thoughts through a workflow. Implement custom import/export logic. Control your brain from your watch or with your voice. These are just a few of the applications that are now open to pursue. Get started now at **https://api.bra.in**.
 
@@ -6985,7 +6983,7 @@ To assist you in getting started, we have developed a selection of example proje
 
 The Python and Node apps demonstrate the overall structure and creating a thought.
 
-**Glossary**
+## **Glossary**
 
 **Activate** To bring a thought to the center of the plex and make it the active thought.
 
