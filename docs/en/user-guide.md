@@ -7111,44 +7111,20 @@ Template files can be added to the window of the **Add** **Attachment** dialog b
 
 A way to categorize thoughts and give them distinct colors. For example, you can have a “Person” thought type so that all thoughts that are people display as green.
 
-**Timeline** The Timeline is the visual tool for using TheBrain’s
-
-built-in calendar. Use it to create, edit, and view events
-
-which can be associated with specific thoughts.
+**Timeline** The Timeline is the visual tool for using TheBrain’s built-in calendar. Use it to create, edit, and view events which can be associated with specific thoughts.
 
 **Unlinked** Thoughts whose notes contain the name of the active
 
-**Mentions** thought⎯even if not explicitly linked. Unlinked mentions
+**Mentions** thought⎯even if not explicitly linked. Unlinked mentions appear in the content area in a footer under the notes.
 
-appear in the content area in a footer under the notes.
-
-**Styles** Notes may be formatted using any of TheBrain’s built-in
-
-Styles, which are combinations of font, color, and size.
+**Styles** Notes may be formatted using any of TheBrain’s built-in Styles, which are combinations of font, color, and size.
 
 By default, notes appear in a style called “Modern.”
 
-**Unlink** Unlink thoughts that you no longer want to be related to
-
-any other thought in your brain, or when you want to
-
-remove a superfluous link. You cannot unlink a
-
-thought’s only Link to the active thought.
+**Unlink** Unlink thoughts that you no longer want to be related to any other thought in your brain, or when you want to remove a superfluous link. You cannot unlink a thought’s only Link to the active thought.
 
 **URL** Universal Resource Locator; the address of a web site.
 
-**Wander** The option to step randomly through TheBrain, to let
+**Wander** The option to step randomly through TheBrain, to let you see thought associations.
 
-you see thought associations.
-
-**Zones** Areas in the plex devoted to specific relations of the
-
-active thought. There are four zones: the parent zone
-
-above the active thought, the child zone below it, the
-
-jump zone to its left, and the sibling zone to its right.
-
-TheBrain 14 User Guide 261
+**Zones** Areas in the plex devoted to specific relations of the active thought. There are four zones: the parent zone above the active thought, the child zone below it, the jump zone to its left, and the sibling zone to its right.
