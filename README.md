@@ -16,27 +16,19 @@
 ### 环境要求
 
 - Node.js 18+
-- 包管理器：[bun](https://bun.sh/)、[pnpm](https://pnpm.io/) 或 npm
+- 包管理器：[pnpm](https://pnpm.io/)
 
 ### 安装依赖
 
 ```bash
-# 使用 bun（推荐）
-bun install
-
-# 或使用 pnpm
+# 使用 pnpm
 pnpm install
-
-# 或使用 npm
-npm install
 ```
 
 ### 本地开发
 
 ```bash
 # 启动开发服务器
-bun run dev
-# 或
 pnpm dev
 ```
 
@@ -46,8 +38,6 @@ pnpm dev
 
 ```bash
 # 构建静态站点
-bun run build
-# 或
 pnpm build
 
 # 预览构建结果
@@ -64,17 +54,20 @@ vitepress-project/
 │   ├── .vitepress/               # VitePress 配置
 │   │   ├── config.ts             # 站点配置
 │   │   └── theme/                # 主题定制
+│   │       ├── index.ts          # 主题入口
+│   │       └── style.css         # 自定义样式
+│   ├── en/                       # 英文文档
+│   │   └── user-guide.md         # 英文用户指南
+│   ├── zh/                       # 中文文档
+│   │   └── user-guide.md         # 中文用户指南
 │   ├── index.md                  # 首页
-│   ├── user-guide.md             # 用户指南
-│   └── TheBrain14-User-Guide-v01/ # 指南图片资源
-├── package.json
-└── README.md
+│   └── thebrain14-user-guide-images/ # 指南图片资源
+├── .gitignore                    # Git 忽略配置
+├── .markdownlint.json            # Markdown 代码检查配置
+├── package.json                  # 项目依赖配置
+├── pnpm-lock.yaml                # pnpm 锁定文件
+└── README.md                     # 项目说明文档
 ```
-
-## 技术栈
-
-- [VitePress](https://vitepress.dev/) v2.0 - Vue 驱动的静态站点生成器
-- [Vue.js](https://vuejs.org/) v3.5 - 渐进式 JavaScript 框架
 
 ## 文档内容
 
