@@ -1,26 +1,29 @@
 {
-  "name": "vitepress-project",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "serve": "vitepress serve docs",
-    "preview": "vitepress preview docs",
-    "lint:md": "markdownlint '**/*.md' --ignore node_modules",
-    "lint:md:fix": "markdownlint '**/*.md' --ignore node_modules --fix"
-  },
-  "devDependencies": {
-    "markdownlint": "^0.40.0",
-    "markdownlint-cli": "^0.46.0",
-    "vitepress": "^2.0.0-alpha.15",
-    "vue": "^3.5.0"
-  },
-  "pnpm": {
-    "peerDependencyRules": {
-      "ignoreMissing": [
-        "@algolia/client-search"
-      ]
+    "name": "vitepress-project",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vitepress dev docs",
+        "build": "vitepress build docs",
+        "serve": "vitepress serve docs",
+        "preview": "vitepress preview docs",
+        "lint:md": "markdownlint '**/*.md' --ignore node_modules",
+        "lint:md:fix": "markdownlint '**/*.md' --ignore node_modules --fix"
+    },
+    "devDependencies": {
+        "markdownlint": "^0.40.0",
+        "markdownlint-cli": "^0.46.0",
+        "vitepress": "^2.0.0-alpha.15",
+        "vue": "^3.5.0"
+    },
+    "pnpm": {
+        "peerDependencyRules": {
+            "ignoreMissing": [
+                "@algolia/client-search"
+            ]
+        }
+    },
+    "volta": {
+        "node": "22.21.1"
     }
-  }
 }
