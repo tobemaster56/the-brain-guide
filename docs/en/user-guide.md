@@ -1,6 +1,6 @@
 # TheBrain14-User-Guide-v01
 
-![](TheBrain14-User-Guide-v01/image1.png)
+![](../thebrain14-user-guide-images/image1.png)
 
 Companion for using Version 14 of TheBrain for Windows and macOS.
 
@@ -295,7 +295,7 @@ Now you don't have to force any idea or project into a single folder. TheBrain o
 
 Thoughts contain relevant notes, web pages, and files. Brains can be synced for easy access from your desktop to TheBrain Cloud or your mobile devices.
 
-![](TheBrain14-User-Guide-v01/image2.png)
+![](../thebrain14-user-guide-images/image2.png)
 
 **Figure 1. TheBrain Interface**
 
@@ -327,11 +327,11 @@ ocused on the Windows and macOS software. Please visit for information about the
 
 The following icons are used throughout this guide to flag categories of information:
 
-![](TheBrain14-User-Guide-v01/image3.png)
+![](../thebrain14-user-guide-images/image3.png)
 
 This icon is used to identify notes.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 This icon is used to flag tips and suggestions.
 
@@ -339,7 +339,7 @@ TheBrain is offered in two editions—Free and Pro. Icons are used throughout th
 
 
 
-![](TheBrain14-User-Guide-v01/image5.png)
+![](../thebrain14-user-guide-images/image5.png)
 
 This icon is used to indicate that the feature is available in the Pro edition only.
 
@@ -347,13 +347,13 @@ Because TheBrain works on Windows and macOS, OS-specific features are flagged wi
 
 This icon is used to indicate that the information applies only to computers
 
-![](TheBrain14-User-Guide-v01/image6.png)
+![](../thebrain14-user-guide-images/image6.png)
 
 running macOS.
 
 This icon is used to indicate that the information applies only to computers
 
-![](TheBrain14-User-Guide-v01/image7.png)
+![](../thebrain14-user-guide-images/image7.png)
 
 running Windows.
 
@@ -365,7 +365,7 @@ In addition:
 
 **Right-clicking:** Most features in TheBrain can be accessed with just a single
 
-![](TheBrain14-User-Guide-v01/image6.png)
+![](../thebrain14-user-guide-images/image6.png)
 
 click of your primary mouse button. However, there are several context-sensitive shortcuts available in context menus which appear when right-clicking. On a Macintosh, many systems do not have a right mouse button. For trackpad users, click or tap with two fingers. Alternatively, hold down the
 
@@ -383,7 +383,7 @@ TheBrain supports Native Apple Silicon.
 
 **Brain Terminologies**
 
-![](TheBrain14-User-Guide-v01/image8.png)
+![](../thebrain14-user-guide-images/image8.png)
 
 **Brain**
 
@@ -399,11 +399,11 @@ Here is a list of working definitions for the basic terms used throughout TheBra
 
 **Content Area** The portion of TheBrain window that displays content that can be associated with the active thought or link. Types of content include notes, attachments (such as worksheets, presentations, documents, videos, and images), links, URLs, and events. The content area also displays and provides quick access to related thoughts.
 
-![](TheBrain14-User-Guide-v01/image3.png)
+![](../thebrain14-user-guide-images/image3.png)
 
 Clicking any thought or link in the plex displays its associated content in the content area.
 
-![](TheBrain14-User-Guide-v01/image9.png)
+![](../thebrain14-user-guide-images/image9.png)
 
 **Figure 2. TheBrain Plex and Content Area**
 
@@ -411,7 +411,7 @@ Clicking any thought or link in the plex displays its associated content in the 
 
 
 
-![](TheBrain14-User-Guide-v01/image10.png)
+![](../thebrain14-user-guide-images/image10.png)
 
 **Figure 3. The Different Ways a Thought Can Appear**
 
@@ -419,7 +419,7 @@ As shown below, when you click a thought, it moves to the center of the plex and
 
 it becomes the active thought.
 
-![](TheBrain14-User-Guide-v01/image11.png)
+![](../thebrain14-user-guide-images/image11.png)
 
 **Figure 4. Activating a Thought**
 
@@ -437,13 +437,13 @@ someone’s child, and someone’s sibling, and someone’s peer, advisor, or co
 
 and what hat you’re wearing at the moment.
 
-![](TheBrain14-User-Guide-v01/image12.png)
+![](../thebrain14-user-guide-images/image12.png)
 
 **Figure 5. Relationships are Relative to *You***
 
 The same applies to thoughts. The relationships between thoughts are displayed automatically, based on which thought is active at the moment.
 
-![](TheBrain14-User-Guide-v01/image3.png)
+![](../thebrain14-user-guide-images/image3.png)
 
 Whether a thought is a parent, child, or sibling depends on its
 
@@ -451,7 +451,7 @@ current relationship to the active thought.
 
 
 
-![](TheBrain14-User-Guide-v01/image13.png)
+![](../thebrain14-user-guide-images/image13.png)
 
 **Figure 6. Thought Relationships are Relative to the Active Thought**
 
@@ -497,7 +497,7 @@ When you point at a gate, a highlighting circle appears around it.
 
 **Link** A link is the line that connects two thoughts. When used as a verb, to “link” is the act of connecting thoughts to establish close relationships. Links can also show direction to help you visualize relationships.
 
-![](TheBrain14-User-Guide-v01/image14.png)
+![](../thebrain14-user-guide-images/image14.png)
 
 **Figure 7. Thought Gates**
 
@@ -507,7 +507,7 @@ When you point at a gate, a highlighting circle appears around it.
 
 The first time you download and install TheBrain, you’ll be prompted to log in or create an account if you don’t already have one. The log-in window provides the ability to create a new account or log in to an existing account.
 
-![](TheBrain14-User-Guide-v01/image15.png)
+![](../thebrain14-user-guide-images/image15.png)
 
 **Figure 8. TheBrain Log-in Window**
 
@@ -515,13 +515,13 @@ Here are the fields to complete if you’re creating a new account:
 
 
 
-![](TheBrain14-User-Guide-v01/image16.png)
+![](../thebrain14-user-guide-images/image16.png)
 
 **Figure 9. Creating a New Account**
 
 After you click the **Create Account** button, TheBrain will send an email to the address you specified.
 
-![](TheBrain14-User-Guide-v01/image3.png)
+![](../thebrain14-user-guide-images/image3.png)
 
 Check for a message from no-reply@thebrain.com. Make sure to check your spam folder if you don’t receive the message promptly.
 
@@ -529,13 +529,13 @@ When you open the message, you will see a green **Activate Brain Account** link.
 
 
 
-![](TheBrain14-User-Guide-v01/image17.png)
+![](../thebrain14-user-guide-images/image17.png)
 
 **Figure 10. Activating a New Account**
 
 Now you can return to TheBrain and log in.
 
-![](TheBrain14-User-Guide-v01/image18.png)
+![](../thebrain14-user-guide-images/image18.png)
 
 **Figure 11. Welcome to TheBrain**
 
@@ -543,7 +543,7 @@ Now you can return to TheBrain and log in.
 
 Click “Create a Quick-Start Brain” and follow the directions on the screen to enter a personalized name for this brain. The Quick-Start brain is actually a dynamic resource for learning more about using your brains and you’ll find a wealth of useful information in it. Click any of the links to see what is displayed.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 You can always create a new Quick-Start brain by selecting the
 
@@ -563,13 +563,13 @@ TheBrain 7 or 8 have filename extensions of **.brain**. Brains created in some e
 
 To open a **.brn** file that you created in a version **older** than TheBrain 8, first
 
-![](TheBrain14-User-Guide-v01/image3.png)
+![](../thebrain14-user-guide-images/image3.png)
 
 open it using TheBrain 8 and then import the resulting brain in TheBrain 13, as described in the steps below.
 
 Any older Brain must be opened in TheBrain version 8.0.2.2 before it can be
 
-![](TheBrain14-User-Guide-v01/image3.png)
+![](../thebrain14-user-guide-images/image3.png)
 
 imported into TheBrain 1till be downloaded and installed. Please contact for a v8.0.2.2 download link.
 
@@ -579,7 +579,7 @@ To open a brain that you created in TheBrain 8:
 
 2. Click the **File** menu, then click the **Import** command.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 All dialog boxes can also be navigated via the
 
@@ -593,7 +593,7 @@ keys.
 
 
 
-![](TheBrain14-User-Guide-v01/image20.png)
+![](../thebrain14-user-guide-images/image20.png)
 
 **Figure 12. Import Box for Opening an Older Brain**
 
@@ -607,7 +607,7 @@ keys.
 
 
 
-![](TheBrain14-User-Guide-v01/image22.png)
+![](../thebrain14-user-guide-images/image22.png)
 
 **Figure 14. Open the Imported Brain in a New Tab**
 
@@ -615,25 +615,25 @@ keys.
 
 Here are some tips for establishing a happy relationship with your brain:
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 You may want to attend one of TheBrain’s free online seminars on getting started―TheBrain 101. To learn more about TheBrain 101, go to
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 Avoid “converting” to a Brain-only environment all at once. Make the transition on a file-by-file basis so that every piece of information your brain contains will be useful.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 Build your brain as you go—associating thoughts as they occur naturally.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 Avoid the temptation to move large folders into your brain. TheBrain can handle this, but your brain will be cluttered with thoughts you may not need.
 
 Remember that your first brain doesn’t need to be your *only* brain or your *last* brain. Experiment! Create a brain just for fun, to try out the possibilities—give yourself room to stretch and explore. Your brain is waiting!
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Questions? Contact TheBrain Support Team right from within TheBrain app by choosing
 
@@ -665,7 +665,7 @@ Manufacturing, Sales, Service, and Billing. These departments are sibling though
 
 
 
-![](TheBrain14-User-Guide-v01/image23.png)
+![](../thebrain14-user-guide-images/image23.png)
 
 **Figure 15. Sample Brain**
 
@@ -673,7 +673,7 @@ Now you go to each department and create more child thoughts, one for each emplo
 
 departments, you can make him a child thought of both departments—he’ll appear in both and you won’t have to duplicate his thought. In this example, Bob is a child thought of both Manufacturing and Sales (see Figure 16). This is one of the most powerful features of TheBrain—having one thought under more than one heading.
 
-![](TheBrain14-User-Guide-v01/image24.png)
+![](../thebrain14-user-guide-images/image24.png)
 
 **Figure 16. Child Thought with Two Parents**
 
@@ -681,7 +681,7 @@ If you own more than one company, but have one accountant for all of them, you m
 
 
 
-![](TheBrain14-User-Guide-v01/image25.png)
+![](../thebrain14-user-guide-images/image25.png)
 
 **Figure 17. Jump Thoughts to the Active Thought**
 
@@ -689,7 +689,7 @@ Imagine that Joe’s company has just purchased one of your companies. Since Joe
 
 below).
 
-![](TheBrain14-User-Guide-v01/image26.png)
+![](../thebrain14-user-guide-images/image26.png)
 
 **Figure 18. New Parent Thought**
 
@@ -717,7 +717,7 @@ child of Philosophy, but of Plato, so that when you’re working with Aristotle,
 
 is only a thought away.
 
-![](TheBrain14-User-Guide-v01/image27.png)
+![](../thebrain14-user-guide-images/image27.png)
 
 **Figure 19. Example of Parent/Child Relationships**
 
@@ -733,19 +733,19 @@ All thoughts can be connected—directly or indirectly—even thoughts that may 
 
 Let’s look at an example, say, the Queen of England and asparagus. You have a thought called Queen of England. One of its child thoughts is Prince of Wales, which has a parent thought—Famous Princes—that is also linked to the story of the Frog Prince.
 
-![](TheBrain14-User-Guide-v01/image28.png)
+![](../thebrain14-user-guide-images/image28.png)
 
 The story has another parent thought called Fairy Tales. A sibling of Frog Prince is Jack and the Beanstalk.
 
-![](TheBrain14-User-Guide-v01/image29.png)
+![](../thebrain14-user-guide-images/image29.png)
 
 Jack and the Beanstalk has child thoughts called Giant and Jack. Giant has another parent thought called Famous Giants.
 
-![](TheBrain14-User-Guide-v01/image30.png)
+![](../thebrain14-user-guide-images/image30.png)
 
 Famous Giants has a child thought called Jolly Green Giant. Jolly Green Giant has child thoughts named after canned vegetable products, one of which is Asparagus. Thus, the Queen of England is connected to asparagus!
 
-![](TheBrain14-User-Guide-v01/image31.png)
+![](../thebrain14-user-guide-images/image31.png)
 
 Depending on the relationship you create between them, thoughts may be closely or distantly related. Thoughts are considered to be closely related when
 
@@ -757,7 +757,7 @@ they are linked directly or are siblings. In the default view of the plex, only 
 
 When you log into TheBrain, and no brain is open, all local, synced or online brains will be displayed as thumbnails in the **Brains** tab, as shown below. This is assuming that you have already created one or more brains. Clicking on a brain thumbnail opens that brain. Or, hold down the **Ctrl** key as you click to open a brain in a new tab, leaving the Brains tab open.
 
-![](TheBrain14-User-Guide-v01/image32.png)
+![](../thebrain14-user-guide-images/image32.png)
 
 **Figure 20. Example of Four Available Brains on the Brains Tab**
 
@@ -765,17 +765,17 @@ By default, brains are listed according to how recently they have been accessed.
 
 
 
-![](TheBrain14-User-Guide-v01/image33.png)
+![](../thebrain14-user-guide-images/image33.png)
 
 **Figure 21. The Brains Tab Toolbar**
 
 The status of whether each brain is available locally, online, or both is also displayed. Each brain in the **Brains** tab will have an icon appearing in the lower-right corner of the thumbnail. Right-click on a brain or click on the status icon to display a menu of options for that brain, as shown below. The appearance of the icon(s) help you identify whether the brain is Local, Synced (local and online) or Cloud (Online only).
 
-![](TheBrain14-User-Guide-v01/image34.png)
+![](../thebrain14-user-guide-images/image34.png)
 
 **Figure 22. Icons Indicating Local, Synced, or Cloud**
 
-![](TheBrain14-User-Guide-v01/image35.png)
+![](../thebrain14-user-guide-images/image35.png)
 
 **Figure 23. Status Indicator Icons**
 
@@ -795,13 +795,13 @@ keep the same brain open in multiple **Brain** tabs or windows.
 
 To re-open the **Brains** tab to display the Brain thumbnails, click the **+** icon to the right of the last tab.
 
-![](TheBrain14-User-Guide-v01/image36.png)
+![](../thebrain14-user-guide-images/image36.png)
 
 **Figure 24. Click the + Icon to Open the Brains Tab**
 
 There is no limit to the number of brains you can open at once. Each time you
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 open a brain it will appear in a separate tab. Switch from brain to brain instantaneously by clicking its tab. All tabs and their states are automatically saved and restored when you quit and restart.
 
@@ -831,7 +831,7 @@ To permanently set a tab color for a specific brain, right click on a brain thum
 
 color indicator on the brain’s thumbnail and the brain tab will be highlighted when this brain is open. If the brain tab is open, but not currently the selected tab, the color highlight will be visible, but minimized.
 
-![](TheBrain14-User-Guide-v01/image37.png)
+![](../thebrain14-user-guide-images/image37.png)
 
 **Figure 25. Selecting a Brain Color**
 
@@ -839,7 +839,7 @@ Brain tabs can display either the brain name and the active thought name, or jus
 
 
 
-![](TheBrain14-User-Guide-v01/image38.png)
+![](../thebrain14-user-guide-images/image38.png)
 
 **Figure 26. Brain Tabs displaying selected colors, brain name and active thought name**
 
@@ -853,13 +853,13 @@ Additionally, if you have adjusted the layout of a brain with the Smart Splitter
 
 You can right-click any brain in the **Brains** tab to display the available options.
 
-![](TheBrain14-User-Guide-v01/image39.png)
+![](../thebrain14-user-guide-images/image39.png)
 
 **Figure 27. The Context Menu in the Brains Tab**
 
 
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -871,7 +871,7 @@ If you have more than one brain and would like to keep commonly accessed
 
 brains at the top of your brain list, you can set a brain to be a favorite.
 
-![](TheBrain14-User-Guide-v01/image40.png)
+![](../thebrain14-user-guide-images/image40.png)
 
 **Figure 28. Favorite Brains at the top of your Brain List**
 
@@ -881,7 +881,7 @@ click on a brain in the brains list. Select **Favorite Brain**.
 
 
 
-![](TheBrain14-User-Guide-v01/image41.png)
+![](../thebrain14-user-guide-images/image41.png)
 
 **Figure 29. Setting a Favorite Brain**
 
@@ -905,7 +905,7 @@ Certain types of file attachments are automatically previewed inside of TheBrain
 
 
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 You can view multi-page PDFs, web pages, and images as a slide show within
 
@@ -923,7 +923,7 @@ content area).
 
 ▪ Click the **Open** button to open the file outside of TheBrain.
 
-![](TheBrain14-User-Guide-v01/image42.png)
+![](../thebrain14-user-guide-images/image42.png)
 
 **Figure 30. Content Area for the Active Thought**
 
@@ -947,7 +947,7 @@ Adding additional attachments to a thought, such as .md and .txt files will enab
 
 Pins are shortcuts to thoughts to which you want quick access. They appear at the top of the plex, just below TheBrain toolbar. No matter where you are in your brain, the pins remain visible.
 
-![](TheBrain14-User-Guide-v01/image43.png)
+![](../thebrain14-user-guide-images/image43.png)
 
 **Figure 31. Pins**
 
@@ -955,7 +955,7 @@ Pins are shortcuts to thoughts to which you want quick access. They appear at th
 
 ▪ Use the **Toggle Pin** button in the main toolbar to create a pin for the Active Thought or right-click the thought for which you want to create a pin, then click **Create Pin** on the context menu
 
-![](TheBrain14-User-Guide-v01/image44.png)
+![](../thebrain14-user-guide-images/image44.png)
 
 **Figure 32. Toggle Pin Button**
 
@@ -965,7 +965,7 @@ Pins are shortcuts to thoughts to which you want quick access. They appear at th
 
 ▪ Use the **Toggle Pin** button in the main toolbar to remove the pin for the Active Thought or right-click the pin or on a thought that has a pin, then click **Remove Pin** on the context menu
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Removing a pin does not remove or delete the associated thought; it deletes only the reference to it at the top of the plex.
 
@@ -981,7 +981,7 @@ TheBrain keeps a running breadcrumb trail of your thoughts based on activation a
 
 Clicking on any thought in the Past Thought List activates that thought. Also, when a new thought is created it appears in the Past Thought List immediately.
 
-![](TheBrain14-User-Guide-v01/image45.png)
+![](../thebrain14-user-guide-images/image45.png)
 
 **Figure 33. Past Thought List**
 
@@ -1003,7 +1003,7 @@ Rewards; the mouse is being dragged from the child gate of Tropical Vacations
 
 to Airline Rewards in the Past Thought List.
 
-![](TheBrain14-User-Guide-v01/image46.png)
+![](../thebrain14-user-guide-images/image46.png)
 
 **Figure 34. Creating a Link using the Past Thought List**
 
@@ -1015,7 +1015,7 @@ buttons, located near the top of the Window, to quickly retrace your steps;
 
 these buttons work just like they do in a web browser
 
-![](TheBrain14-User-Guide-v01/image47.png)
+![](../thebrain14-user-guide-images/image47.png)
 
 **Figure 35. The Back and Forward Buttons**
 
@@ -1027,7 +1027,7 @@ re-activate the thought you came from
 
 
 
-![](TheBrain14-User-Guide-v01/image7.png)
+![](../thebrain14-user-guide-images/image7.png)
 
 **Back and Forward Mouse Buttons:**
 
@@ -1049,7 +1049,7 @@ TheBrain includes powerful search capabilities. Indexing is performed by the app
 
 TheBrain includes powerful search capabilities. The Search box is in the top-right area of the application.
 
-![](TheBrain14-User-Guide-v01/image48.png)
+![](../thebrain14-user-guide-images/image48.png)
 
 **Figure 36. The Search Box**
 
@@ -1067,7 +1067,7 @@ To activate one of these results, click it with your mouse or use the **up-arrow
 
 
 
-![](TheBrain14-User-Guide-v01/image49.png)
+![](../thebrain14-user-guide-images/image49.png)
 
 **Figure 37. Instant Activate Finds Matches Based on Thought**
 
@@ -1075,7 +1075,7 @@ To activate one of these results, click it with your mouse or use the **up-arrow
 
 Accents are ignored when matching thought names. Also, when two or more
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 matches with the same name are found, the names of their parent or jump
 
@@ -1087,7 +1087,7 @@ letters can be in any sequence; for example, to find the “Family and Friends�
 
 thought you could type “fa fr,” or “fr fa,” or “fa and fri.”
 
-![](TheBrain14-User-Guide-v01/image50.png)
+![](../thebrain14-user-guide-images/image50.png)
 
 **Figure 38. Use First Letters of Separate Words for Instant Activate**
 
@@ -1095,7 +1095,7 @@ thought you could type “fa fr,” or “fr fa,” or “fa and fri.”
 
 Attachments and note search matches are identified with a yellow piece of paper icon for notes and a paper clip icon for Attachments.
 
-![](TheBrain14-User-Guide-v01/image51.png)
+![](../thebrain14-user-guide-images/image51.png)
 
 **Figure 39. Search Results**
 
@@ -1119,7 +1119,7 @@ however, you’ll also see results of your search query in Thoughts and Links fr
 
 
 
-![](TheBrain14-User-Guide-v01/image52.png)
+![](../thebrain14-user-guide-images/image52.png)
 
 **Figure 40. Search Results from other Brains**
 
@@ -1127,7 +1127,7 @@ Clicking on any of these results will launch the specified brain/thought in a ne
 
 **Searching within Attachments**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 Your searches automatically include matches based on the contents of
 
@@ -1141,7 +1141,7 @@ you’re on a neighborhood committee and you’ve volunteered to look into an is
 
 
 
-![](TheBrain14-User-Guide-v01/image54.png)
+![](../thebrain14-user-guide-images/image54.png)
 
 **Figure 41. Search-Engine Choices**
 
@@ -1163,7 +1163,7 @@ button.
 
 
 
-![](TheBrain14-User-Guide-v01/image55.png)
+![](../thebrain14-user-guide-images/image55.png)
 
 **Figure 42. Editing Search-Engine URLs**
 
@@ -1195,7 +1195,7 @@ from the **Search Commands and Preferences** option under the **Help** menu.
 
 
 
-![](TheBrain14-User-Guide-v01/image56.png)
+![](../thebrain14-user-guide-images/image56.png)
 
 **Figure 43. Executing a Command from the Search Box**
 
@@ -1205,7 +1205,7 @@ from the **Search Commands and Preferences** option under the **Help** menu.
 
 ▪ Search for thoughts starting with punctuation. You may use this as a shortcut to provide fast access to thoughts that you always start with a certain type of punctuation. For example, you could use this for people (@Mike, @Sally, @Debbie, etc.) or projects (#Ridgeline, #Palmdale, #Westly, etc.)
 
-![](TheBrain14-User-Guide-v01/image57.png)
+![](../thebrain14-user-guide-images/image57.png)
 
 **Figure 44. Search Results for Both Internal and External Attachments** ▪ Below the search box is an option for searching Childward only. Selecting this option will limit the search results to 3 generations below the current active thought.
 
@@ -1225,7 +1225,7 @@ Without making any changes, here’s what your brain looks like:
 
 ▪ Your thoughts will be displayed in “Normal” view, meaning that you will see only the direct parents, children, jumps, and siblings of the active thought.
 
-![](TheBrain14-User-Guide-v01/image58.png)
+![](../thebrain14-user-guide-images/image58.png)
 
 **Figure 45. TheBrain Window with Default Settings**
 
@@ -1235,7 +1235,7 @@ The smart-splitter controls let you manage where the plex and content area displ
 
 
 
-![](TheBrain14-User-Guide-v01/image59.png)
+![](../thebrain14-user-guide-images/image59.png)
 
 **Figure 46. Smart-Splitter**
 
@@ -1253,7 +1253,7 @@ When the default settings are in use and the plex is in “Normal” view, you c
 
 
 
-![](TheBrain14-User-Guide-v01/image60.png)
+![](../thebrain14-user-guide-images/image60.png)
 
 **Figure 47. Dragging the Plex Vertically**
 
@@ -1267,7 +1267,7 @@ The plex is the heart and soul of TheBrain. You can change the size of thoughts 
 
 
 
-![](TheBrain14-User-Guide-v01/image61.png)
+![](../thebrain14-user-guide-images/image61.png)
 
 **Figure 48. Resizing Thought Size with the Slider**
 
@@ -1277,7 +1277,7 @@ The plex is the heart and soul of TheBrain. You can change the size of thoughts 
 
 on your mouse wheel or trackpad while your mouse pointer is in the plex.
 
-![](TheBrain14-User-Guide-v01/image62.png)
+![](../thebrain14-user-guide-images/image62.png)
 
 **Figure 49. Resizing with the Mouse or Trackpad**
 
@@ -1285,7 +1285,7 @@ on your mouse wheel or trackpad while your mouse pointer is in the plex.
 
 thoughts smaller or **+** to make thoughts larger.
 
-![](TheBrain14-User-Guide-v01/image63.png)
+![](../thebrain14-user-guide-images/image63.png)
 
 **Figure 50. Resizing with the Keyboard**
 
@@ -1293,7 +1293,7 @@ thoughts smaller or **+** to make thoughts larger.
 
 ▪ Pinch to zoom on a macOS Trackpad.
 
-![](TheBrain14-User-Guide-v01/image64.png)
+![](../thebrain14-user-guide-images/image64.png)
 
 **Figure 51. Resizing on a Trackpad**
 
@@ -1305,7 +1305,7 @@ The Themes feature lets you choose from many built-in designs to customize the l
 
 associated with the Theme, then save the look of your brain as a new Theme. This lets you quickly switch from one saved Theme to another.
 
-![](TheBrain14-User-Guide-v01/image65.png)
+![](../thebrain14-user-guide-images/image65.png)
 
 **Figure 52. Sample Themes**
 
@@ -1317,7 +1317,7 @@ associated with the Theme, then save the look of your brain as a new Theme. This
 
 2. Click the **Brain Theme** command.
 
-![](TheBrain14-User-Guide-v01/image66.png)
+![](../thebrain14-user-guide-images/image66.png)
 
 **Figure 53. Accessing the Brain Theme Dialog Box**
 
@@ -1325,13 +1325,13 @@ In the **Brain Theme** box, you’ll see a scrollable list of available themes i
 
 
 
-![](TheBrain14-User-Guide-v01/image67.png)
+![](../thebrain14-user-guide-images/image67.png)
 
 **Figure 54. The Brain Theme Dialog Box**
 
 **Customizing a Theme’s Colors**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Have the
 
@@ -1353,13 +1353,13 @@ The default colors for virtually all items in the plex vary based on the selecte
 
 
 
-![](TheBrain14-User-Guide-v01/image68.png)
+![](../thebrain14-user-guide-images/image68.png)
 
 **Figure 55. New Selected Color for Links**
 
 Note that while you can change the color of the shadow for thought text using the theme’s **Color** tab settings, you can toggle whether or not text shadows
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 are displayed using the
 
@@ -1381,7 +1381,7 @@ You can add customized colors if you don’t see the exact shade you want.
 
 
 
-![](TheBrain14-User-Guide-v01/image69.png)
+![](../thebrain14-user-guide-images/image69.png)
 
 **Figure 56. Define a Custom Color**
 
@@ -1393,7 +1393,7 @@ or HSL numbers. Click the **Add to Custom Colors** button when you’re
 
 happy with the sample color, then click the **OK** button.
 
-![](TheBrain14-User-Guide-v01/image70.png)
+![](../thebrain14-user-guide-images/image70.png)
 
 **Figure 57. Adding a Custom Color**
 
@@ -1409,7 +1409,7 @@ of the **Brain Theme** box, it’s very easy to do so.
 
 1. Click the **Options** tab in the **Brain Theme** box, then click the **Wallpaper** check box.
 
-![](TheBrain14-User-Guide-v01/image71.png)
+![](../thebrain14-user-guide-images/image71.png)
 
 **Figure 58. Options Tab in the Brain Theme Dialog Box**
 
@@ -1427,7 +1427,7 @@ of the **Brain Theme** box, it’s very easy to do so.
 
 
 
-![](TheBrain14-User-Guide-v01/image72.png)
+![](../thebrain14-user-guide-images/image72.png)
 
 **Figure 59. Replacing or Removing Wallpaper**
 
@@ -1437,7 +1437,7 @@ of the **Brain Theme** box, it’s very easy to do so.
 
 2. Return to your brain, right-click in any blank area of the plex, then select **Paste Wallpaper** on the context menu.
 
-![](TheBrain14-User-Guide-v01/image73.png)
+![](../thebrain14-user-guide-images/image73.png)
 
 **Figure 60. Context Menu on the Plex**
 
@@ -1449,7 +1449,7 @@ By default, the font for text that appears in the plex is Helvetica. You can cha
 
 
 
-![](TheBrain14-User-Guide-v01/image74.png)
+![](../thebrain14-user-guide-images/image74.png)
 
 **Figure 61. Changing the Font for Plex Text**
 
@@ -1471,11 +1471,11 @@ By default, the notes in the content area of your brains appear in a style calle
 
 
 
-![](TheBrain14-User-Guide-v01/image75.png)
+![](../thebrain14-user-guide-images/image75.png)
 
 **Figure 62. Changing the Style of Notes**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 You can also access the
 
@@ -1495,11 +1495,11 @@ beginning on page 171.
 
 
 
-![](TheBrain14-User-Guide-v01/image76.png)
+![](../thebrain14-user-guide-images/image76.png)
 
 **Figure 63. Style Options for Content Area Text**
 
-![](TheBrain14-User-Guide-v01/image77.png)
+![](../thebrain14-user-guide-images/image77.png)
 
 **Figure 64. Before and After Changing a Heading Color Style**
 
@@ -1509,7 +1509,7 @@ beginning on page 171.
 
 ▪ Click **Custom** at the bottom of the color palette, click **Define Custom Colors**, select a color you like, then click the **OK** button.
 
-![](TheBrain14-User-Guide-v01/image78.png)
+![](../thebrain14-user-guide-images/image78.png)
 
 **Figure 65. Options for Fine-Tuning Heading Text Color**
 
@@ -1517,7 +1517,7 @@ beginning on page 171.
 
 ▪ Click **Small**, **Medium**, or **Large** in the **HeadingSizes** list. The sizes will adjust automatically, based on the level of each heading.
 
-![](TheBrain14-User-Guide-v01/image79.png)
+![](../thebrain14-user-guide-images/image79.png)
 
 **Figure 66. Options for Changing Heading Size**
 
@@ -1529,7 +1529,7 @@ beginning on page 171.
 
 3. Click outside the palette to close it, when you’re ready.
 
-![](TheBrain14-User-Guide-v01/image80.png)
+![](../thebrain14-user-guide-images/image80.png)
 
 **Figure 67. Selecting a New Color for Body Text in the Content Area To change the font or weight of non-heading text:**
 
@@ -1541,13 +1541,13 @@ beginning on page 171.
 
 
 
-![](TheBrain14-User-Guide-v01/image81.png)
+![](../thebrain14-user-guide-images/image81.png)
 
 **Figure 68. Changing the Font of Content Area Body Text**
 
 4. To change the weight (the width/boldness of the characters), select a choice from the list that appears.
 
-![](TheBrain14-User-Guide-v01/image82.png)
+![](../thebrain14-user-guide-images/image82.png)
 
 **Figure 69. Changing the Weight of Content Area Body Text**
 
@@ -1561,7 +1561,7 @@ instantly. The list of Prebuilt Styles is grouped into **Light**, **Dark**, and 
 
 As you click each Prebuilt Style, you’ll see the Example Text instantly reflect the look.
 
-![](TheBrain14-User-Guide-v01/image83.png)
+![](../thebrain14-user-guide-images/image83.png)
 
 **Figure 70. Selecting a Prebuilt Style**
 
@@ -1569,7 +1569,7 @@ As you click each Prebuilt Style, you’ll see the Example Text instantly reflec
 
 You can copy, paste, import, and export styles, making it easier to create new styles. Click the Actions button to display the Copy, Paste, Import, and Export options for Styles.
 
-![](TheBrain14-User-Guide-v01/image84.png)
+![](../thebrain14-user-guide-images/image84.png)
 
 **Figure 71. Selecting a Prebuilt Style**
 
@@ -1591,7 +1591,7 @@ When you are happy with your content area choices, click the **Apply** button, t
 
 **Reverting to the Theme’s Default Settings**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 selected in the Themes list.
 
@@ -1609,17 +1609,17 @@ To switch back to the original settings for any Theme, select the Theme name in 
 
 
 
-![](TheBrain14-User-Guide-v01/image85.png)
+![](../thebrain14-user-guide-images/image85.png)
 
 **Figure 72. Save a Theme**
 
 4. Click the **OK** button. Your new Theme will be inserted into the list of Themes, ready for use in your other brains.
 
-![](TheBrain14-User-Guide-v01/image86.png)
+![](../thebrain14-user-guide-images/image86.png)
 
 **Figure 73. Newly Saved Theme in the Themes List**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Your saved Theme will also include customizations you have made in the
 
@@ -1635,7 +1635,7 @@ window.
 
 2. Type or revise the current name, then click the **OK** button (or press the **Enter** key).
 
-![](TheBrain14-User-Guide-v01/image87.png)
+![](../thebrain14-user-guide-images/image87.png)
 
 **Figure 74. Renaming a Theme**
 
@@ -1647,13 +1647,13 @@ window.
 
 Clicking on a Theme that you want to rename will activate this Theme in your
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 brain. You may want to save your current Theme first (if it has been customized) before renaming another, existing Theme.
 
 
 
-![](TheBrain14-User-Guide-v01/image88.png)
+![](../thebrain14-user-guide-images/image88.png)
 
 **Figure 75. Deleting a Theme**
 
@@ -1665,7 +1665,7 @@ Theme.
 
 **Importing and Exporting Themes**
 
-![](TheBrain14-User-Guide-v01/image89.png)
+![](../thebrain14-user-guide-images/image89.png)
 
 **Figure 76. Importing or Exporting a Theme**
 
@@ -1705,7 +1705,7 @@ under the **User Interface** setting.
 
 - After you give permission, TheBrain will restart and apply the change.
 
-![](TheBrain14-User-Guide-v01/image90.png)
+![](../thebrain14-user-guide-images/image90.png)
 
 **Figure 77. TheBrain in Dark Mode**
 
@@ -1733,7 +1733,7 @@ you make your choices.
 
 the **Preferences** command is located in the **TheBrain** menu)
 
-![](TheBrain14-User-Guide-v01/image91.png)
+![](../thebrain14-user-guide-images/image91.png)
 
 **Figure 78. Accessing Preferences**
 
@@ -1755,7 +1755,7 @@ TheBrain **Preferences** are organized into these categories:
 
 **Look & Feel Preferences**
 
-![](TheBrain14-User-Guide-v01/image92.png)
+![](../thebrain14-user-guide-images/image92.png)
 
 **Figure 79. Look & Feel Preferences**
 
@@ -1889,7 +1889,7 @@ When checked, Monday will be the first day of the week. Unchecked, Sunday will b
 
 **Behavior Preferences**
 
-![](TheBrain14-User-Guide-v01/image93.png)
+![](../thebrain14-user-guide-images/image93.png)
 
 **Figure 80. Behavior Preferences**
 
@@ -2031,7 +2031,7 @@ the tabbed interface.
 
 **Notes Editor Preferences**
 
-![](TheBrain14-User-Guide-v01/image94.png)
+![](../thebrain14-user-guide-images/image94.png)
 
 **Figure 81. Notes Editor Preferences**
 
@@ -2265,7 +2265,7 @@ This preference is on by default.
 
 **System Preferences**
 
-![](TheBrain14-User-Guide-v01/image95.png)
+![](../thebrain14-user-guide-images/image95.png)
 
 **Figure 82. System Preferences**
 
@@ -2317,7 +2317,7 @@ Most Brain commands can be accessed by keyboard commands, which you can customiz
 
 
 
-![](TheBrain14-User-Guide-v01/image96.png)
+![](../thebrain14-user-guide-images/image96.png)
 
 **Figure 83. Keyboard Preferences**
 
@@ -2331,7 +2331,7 @@ Begin typing the command in the Search
 
 commands field in the bottom-left corner of the **Keyboard** tab of the **Preferences** window.
 
-![](TheBrain14-User-Guide-v01/image97.png)
+![](../thebrain14-user-guide-images/image97.png)
 
 As you type, the list will shorten to match what you’ve typed. When you see the command
 
@@ -2347,7 +2347,7 @@ you’re looking for, note its shortcut or click it to define a new shortcut.
 
 Click the **Collapse All** button.
 
-![](TheBrain14-User-Guide-v01/image98.png)
+![](../thebrain14-user-guide-images/image98.png)
 
 You can also collapse an individual heading, for example “Application,” to collapse or
 
@@ -2355,7 +2355,7 @@ expand just that section.
 
 Click the **Expand All** button.
 
-![](TheBrain14-User-Guide-v01/image99.png)
+![](../thebrain14-user-guide-images/image99.png)
 
 **To do this …** **Do this …**
 
@@ -2379,7 +2379,7 @@ The file will be named
 
 the **Restore Defaults** command.
 
-![](TheBrain14-User-Guide-v01/image100.png)
+![](../thebrain14-user-guide-images/image100.png)
 
 **To define a new shortcut:**
 
@@ -2391,13 +2391,13 @@ under the **Preferences** tabs.
 
 
 
-![](TheBrain14-User-Guide-v01/image101.png)
+![](../thebrain14-user-guide-images/image101.png)
 
 **Figure 84. Creating a New Shortcut**
 
 3. With the command of your choice highlighted, press the function key or keyboard combination of your choice. For example, you might choose to assign the “Check for Update” command to **Ctrl**+**Shift**+**U**.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 **Ctrl**
 
@@ -2415,7 +2415,7 @@ be used as a standalone modifier
 
 Your new shortcut will display in the list. You can delete the shortcut by pressing the **Delete** key while the command is highlighted.
 
-![](TheBrain14-User-Guide-v01/image102.png)
+![](../thebrain14-user-guide-images/image102.png)
 
 **Figure 85. The New Shortcut in the List**
 
@@ -2423,11 +2423,11 @@ If the keyboard shortcut you selected is already in use for another action, you 
 
 
 
-![](TheBrain14-User-Guide-v01/image103.png)
+![](../thebrain14-user-guide-images/image103.png)
 
 **Figure 86. Replacing an Existing Shortcut**
 
-![](TheBrain14-User-Guide-v01/image7.png)
+![](../thebrain14-user-guide-images/image7.png)
 
 **Default Shortcuts for Windows**
 
@@ -2605,7 +2605,7 @@ Splitter Right or Down **Shift**+**Ctrl**+S
 
 
 
-![](TheBrain14-User-Guide-v01/image104.png)
+![](../thebrain14-user-guide-images/image104.png)
 
 **Default Shortcuts for macOS**
 
@@ -2629,7 +2629,7 @@ Search Web **Cmd**+E
 
 **Experimental Preferences**
 
-![](TheBrain14-User-Guide-v01/image105.png)
+![](../thebrain14-user-guide-images/image105.png)
 
 **Figure 87. Experimental Preferences**
 
@@ -2663,25 +2663,25 @@ Once you have activated the thought that will have a relationship with your new 
 
 ▪ Drag from the thought’s parent, child, or jump gate
 
-![](TheBrain14-User-Guide-v01/image106.png)
+![](../thebrain14-user-guide-images/image106.png)
 
 **Figure 88. Gates to Drag for Creating Thoughts**
 
 ▪ Or click the **Thought** menu, then click the **Create Child**, **Create Parent**, or **Create Jump** command
 
-![](TheBrain14-User-Guide-v01/image107.png)
+![](../thebrain14-user-guide-images/image107.png)
 
 ▪ Or, right-click the thought, then click the **Create Child**, **Create Parent**, or **Create Jump** command
 
 
 
-![](TheBrain14-User-Guide-v01/image108.png)
+![](../thebrain14-user-guide-images/image108.png)
 
 ▪ Or use a keyboard shortcut:
 
 On Windows, press the **F6** key (for a child thought), **F7** (for a parent
 
-![](TheBrain14-User-Guide-v01/image7.png)
+![](../thebrain14-user-guide-images/image7.png)
 
 thought), or
 
@@ -2691,7 +2691,7 @@ thought), or
 
 On macOS, press the **Option+Cmd+Down Arrow** (for a child
 
-![](TheBrain14-User-Guide-v01/image104.png)
+![](../thebrain14-user-guide-images/image104.png)
 
 thought),
 
@@ -2705,7 +2705,7 @@ thought),
 
 No matter which of the above methods you use to begin creating your new thought, the next thing you’ll see is the **Thought Creation** dialog box with the cursor blinking in the field for typing in the name of your new thought.
 
-![](TheBrain14-User-Guide-v01/image109.png)
+![](../thebrain14-user-guide-images/image109.png)
 
 **Figure 89. Thought Creation Dialog Box** 1. Type the name of your new thought in the field provided.
 
@@ -2717,7 +2717,7 @@ lowercase letters, the first letters of words will be capitalized for you
 
 automatically. TheBrain uses “smart rules” to determine which words should be lowercase (such as “a,” “and,” and “of”). For example, if you’ve typed “visit the
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 of Liberty.” This feature is active, by default, but you can turn it off in the
 
@@ -2749,7 +2749,7 @@ created, click the down-arrow in the bottom-right corner
 
 ▪ To hide the thought’s details, click the up-arrow in the bottom-right corner
 
-![](TheBrain14-User-Guide-v01/image110.png)
+![](../thebrain14-user-guide-images/image110.png)
 
 **Figure 90. Showing and Hiding Thought Properties and Details**
 
@@ -2769,7 +2769,7 @@ creating more than one thought at a time.
 
 
 
-![](TheBrain14-User-Guide-v01/image111.png)
+![](../thebrain14-user-guide-images/image111.png)
 
 **Figure 91. Creating Multiple Thoughts**
 
@@ -2781,13 +2781,13 @@ To remedy this potential dilemma, when you type the name of the new thought, sta
 
 
 
-![](TheBrain14-User-Guide-v01/image112.png)
+![](../thebrain14-user-guide-images/image112.png)
 
 **Figure 92. Sub-Category Thoughts**
 
 The thought will display its full name when it is active or when hovering over it with the cursor. When its parent thought is active, you’ll see only the portion of the name that does not repeat the parent’s name. Ensuring that each of your thoughts has a unique name will help you find and identify them more easily.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -2831,7 +2831,7 @@ would display as:
 
 Thoughts can automatically be created on any topic via TheBrain’s AI integration. From any thought in your brain, click on the AI button in the tool bar above the plex.
 
-![](TheBrain14-User-Guide-v01/image113.png)
+![](../thebrain14-user-guide-images/image113.png)
 
 **Figure 93. AI Thought Generation**
 
@@ -2868,7 +2868,7 @@ relationship it will have with an existing thought, but sometimes you just want 
 
 To create a thought independently of other thoughts, type into the Search box. If no search result is returned, hit enter and the new thought will be created as an Orphan. This works well especially when you are looking for something and discover you haven’t yet put it into your brain.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -2890,7 +2890,7 @@ on Windows or
 
 on macOS.
 
-![](TheBrain14-User-Guide-v01/image114.png)
+![](../thebrain14-user-guide-images/image114.png)
 
 **Figure 94. Default Windows Keyboard Shortcut for Create Orphan**
 
@@ -2915,7 +2915,7 @@ You can create a new thought instantly from the Search box or within Notes or Ev
 
 Your new thought will be the active thought.
 
-![](TheBrain14-User-Guide-v01/image115.png)
+![](../thebrain14-user-guide-images/image115.png)
 
 **Figure 95. Creating a Thought from the Search Box**
 
@@ -2925,7 +2925,7 @@ Note that pressing the **Enter** key before pressing the **up-arrow** key activa
 
 
 
-![](TheBrain14-User-Guide-v01/image116.png)
+![](../thebrain14-user-guide-images/image116.png)
 
 **Figure 96. Creating a Thought from the Search Box when the Thought is Found**
 
@@ -2943,7 +2943,7 @@ Note that pressing the **Enter** key before pressing the **up-arrow** key activa
 - Hold down the **Shift** key as you press the **Enter** key to create it as a parent of the active thought, or
 - Hold down the **Ctrl** key as you press the **Enter** key to create it as a jump thought of the active thought
 
-![](TheBrain14-User-Guide-v01/image117.png)
+![](../thebrain14-user-guide-images/image117.png)
 
 **Figure 97. Creating a Thought from a Note**
 
@@ -2955,7 +2955,7 @@ Note that pressing the **Enter** key before pressing the **up-arrow** key activa
 
 2. Type a name for the new thought where you see “No thought or link” at the top of the Event box. A new orphan thought will be created with that name.
 
-![](TheBrain14-User-Guide-v01/image118.png)
+![](../thebrain14-user-guide-images/image118.png)
 
 **Figure 98. Creating a Thought from an Event**
 
@@ -2975,7 +2975,7 @@ The thoughts will appear in the order of Zebra, Walrus, Aardvark (without the pe
 
 
 
-![](TheBrain14-User-Guide-v01/image119.png)
+![](../thebrain14-user-guide-images/image119.png)
 
 **Figure 99. Changing Thought Order**
 
@@ -2987,7 +2987,7 @@ Thoughts, including all of their notes, properties, events, and attachments, can
 
 1. Right-click the thought to be copied and then click the **Copy “*name of***  ***thought”*** command on the context menu.
 
-![](TheBrain14-User-Guide-v01/image120.png)
+![](../thebrain14-user-guide-images/image120.png)
 
 2. Activate the thought that will be the parent of the newly copied thought.
 
@@ -2995,11 +2995,11 @@ Thoughts, including all of their notes, properties, events, and attachments, can
 
 3. Right-click within any blank area of the plex and click **Paste Thought(s)** on the context menu.
 
-![](TheBrain14-User-Guide-v01/image121.png)
+![](../thebrain14-user-guide-images/image121.png)
 
 4. The copied thought will automatically be linked as a child of the active thought and it will also retain all of its original relationships.
 
-![](TheBrain14-User-Guide-v01/image122.png)
+![](../thebrain14-user-guide-images/image122.png)
 
 **Figure 100. Copied Thought with Two Parents**
 
@@ -3013,7 +3013,7 @@ If you just want to make a duplicate of a single thought without retaining any o
 
 
 
-![](TheBrain14-User-Guide-v01/image123.png)
+![](../thebrain14-user-guide-images/image123.png)
 
 **Figure 101. Duplicating a Thought**
 
@@ -3029,7 +3029,7 @@ If you just want to make a duplicate of a single thought without retaining any o
 
 If you have selected multiple thoughts, they can all be copied at once using the
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 same technique. Right-click anyplace within the Selection panel to open the context menu. See Selecting Multiple Thoughts beginning on page 97 for complete instructions about selecting multiple thoughts.
 
@@ -3053,7 +3053,7 @@ You can automatically merge multiple thoughts that refer to the same thing. You 
 
 2. Right-click in the Selection panel, then click **Merge (*n*) Thoughts**.
 
-![](TheBrain14-User-Guide-v01/image124.png)
+![](../thebrain14-user-guide-images/image124.png)
 
 **Figure 102. Merging Three Selected Thoughts into One**
 
@@ -3061,11 +3061,11 @@ When you activate the new thought, you’ll see all content that was in each of 
 
 
 
-![](TheBrain14-User-Guide-v01/image125.png)
+![](../thebrain14-user-guide-images/image125.png)
 
 **Figure 103. Original Content Area of Three Thoughts before Merging**
 
-![](TheBrain14-User-Guide-v01/image126.png)
+![](../thebrain14-user-guide-images/image126.png)
 
 **Figure 104. After Merging**
 
@@ -3079,7 +3079,7 @@ executed using the **Redo** command.
 
 
 
-![](TheBrain14-User-Guide-v01/image127.png)
+![](../thebrain14-user-guide-images/image127.png)
 
 **Figure 105. Undo and Redo Commands**
 
@@ -3095,7 +3095,7 @@ executed using the **Redo** command.
 
 2. Click the action of your choice. As in the list of actions that can be undone, the list is in most-recent-action-first order. All actions above the item you click will also be undone.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 The Undo and Redo lists are cleared when you sync your brain (including an auto sync) and when your brain is closed.
 
@@ -3111,7 +3111,7 @@ You can easily rename any thought in its **Thought Properties** dialog box. When
 
 non-active thought. In the **Thought Properties** dialog box, make any edits you want, then press the **Enter** key or click in the plex.
 
-![](TheBrain14-User-Guide-v01/image128.png)
+![](../thebrain14-user-guide-images/image128.png)
 
 **Figure 106. Renaming a Thought**
 
@@ -3125,19 +3125,19 @@ You can select multiple thoughts in three ways:
 
 ▪ Hold down the **Ctrl** key (**Cmd** on macOS) as you click a gate to select all the thoughts connected to that gate
 
-![](TheBrain14-User-Guide-v01/image129.png)
+![](../thebrain14-user-guide-images/image129.png)
 
 **Figure 107. Selecting Multiple Thoughts by Ctrl-Dragging (Cmd-dragging on macOS)**
 
 
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Selected thoughts are then added to TheBrain’s Selection panel for making mass edits on large groups of thoughts at one time.
 
 After the multiple thoughts are selected, you can apply actions—link, unlink, forget, set thought type, and other actions you would apply to an individual thought—to the selected thoughts en masse. When multiple thoughts are selected, they are listed in a Selection panel on the left side of the plex and they are highlighted in the plex itself.
 
-![](TheBrain14-User-Guide-v01/image130.png)
+![](../thebrain14-user-guide-images/image130.png)
 
 **Figure 108. Selection Panel and Selected Thoughts**
 
@@ -3151,7 +3151,7 @@ After the multiple thoughts are selected, you can apply actions—link, unlink, 
 
 
 
-![](TheBrain14-User-Guide-v01/image131.png)
+![](../thebrain14-user-guide-images/image131.png)
 
 **Figure 109. Closing the Selection Panel**
 
@@ -3159,7 +3159,7 @@ After the multiple thoughts are selected, you can apply actions—link, unlink, 
 
 ▪ Right-click in an empty area of the Selection panel and select the action of your choice on the context menu. The entries in this menu are also displayed in the **Edit** menu.
 
-![](TheBrain14-User-Guide-v01/image132.png)
+![](../thebrain14-user-guide-images/image132.png)
 
 **Figure 110. Selection Panel Context Menu**
 
@@ -3169,7 +3169,7 @@ Once you have created a selection, you can also use it for other things besides 
 
 
 
-![](TheBrain14-User-Guide-v01/image133.png)
+![](../thebrain14-user-guide-images/image133.png)
 
 **Figure 111. Limiting Searches to Selected Thoughts**
 
@@ -3185,7 +3185,7 @@ When you no longer need a thought, it can be forgotten or deleted. A forgotten t
 
 
 
-![](TheBrain14-User-Guide-v01/image134.png)
+![](../thebrain14-user-guide-images/image134.png)
 
 **Figure 112. Forgetting a Thought in its Thought Properties Dialog Box**
 
@@ -3195,7 +3195,7 @@ Once a thought has been forgotten it will disappear from the display. If you wan
 
 1. Click the **Options** menu, then click the **ShowForgotten Thoughts** command. Any forgotten thoughts will appear grayed out in the plex.
 
-![](TheBrain14-User-Guide-v01/image135.png)
+![](../thebrain14-user-guide-images/image135.png)
 
 **Figure 113. Forgotten Thoughts in the Plex**
 
@@ -3203,7 +3203,7 @@ Once a thought has been forgotten it will disappear from the display. If you wan
 
 2. Notice the “Showing Forgotten Thoughts” message above the pins. This reminds you why some thoughts are grayed. You can use forgotten thoughts just like normal thoughts as long as they are displayed. Click the **View Report** button to work directly with the forgotten thoughts.
 
-![](TheBrain14-User-Guide-v01/image136.png)
+![](../thebrain14-user-guide-images/image136.png)
 
 **Figure 114. Forgotten Thoughts in the Report Tab**
 
@@ -3215,7 +3215,7 @@ Once a thought has been forgotten it will disappear from the display. If you wan
 
 
 
-![](TheBrain14-User-Guide-v01/image137.png)
+![](../thebrain14-user-guide-images/image137.png)
 
 **Figure 115. Using the Report Tab to Delete All Forgotten Thoughts**
 
@@ -3223,7 +3223,7 @@ Once a thought has been forgotten it will disappear from the display. If you wan
 
 Closing the **Forgotten Thoughts** dialog box hides the forgotten thoughts. You can also reinstate forgotten thoughts by clicking the **Remember All** command
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 in the
 
@@ -3243,7 +3243,7 @@ It is generally recommended to forget thoughts when you don’t need them so tha
 
 
 
-![](TheBrain14-User-Guide-v01/image138.png)
+![](../thebrain14-user-guide-images/image138.png)
 
 **Figure 116. Shift-Right-Click Context Menu for a Thought**
 
@@ -3253,11 +3253,11 @@ deleting multiple thoughts at once.
 
 When a file attachment is deleted, the file is placed into an internal trash folder
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 in case the delete needs to be undone. When undo is cleared, the trash is emptied. The files are then moved to the OS trash/recycle bin so you have further opportunity to recover the file if needed.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -3273,7 +3273,7 @@ command immediately.
 
 ▪ Right-click the link, then click the **Unlink** command on the context menu
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -3299,7 +3299,7 @@ accessible from numerous places.
 
 A single thought may have relationships with multiple thoughts. For example, you may want a thought named “Aunt Mary” to be a child of your “Mentors”
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 thought and also a child of your “Family” thought. If your Aunt Mary is also helping you plan your next vacation, her thought may also be a child or jump thought to your “Vacation” thought. The possibilities are endless.
 
@@ -3317,7 +3317,7 @@ You can Link to a thought that is not visible in the plex if it has a pin. Simpl
 
 
 
-![](TheBrain14-User-Guide-v01/image139.png)
+![](../thebrain14-user-guide-images/image139.png)
 
 **Figure 117. Link by Dragging to a Pin**
 
@@ -3327,7 +3327,7 @@ The relationship you establish by linking a thought to a pin is between the thou
 
 You can link a thought in the plex to a thought in the Past Thought List. Like pins, gates for a thought in the Past Thought List appear when you point at the past thought with the mouse.
 
-![](TheBrain14-User-Guide-v01/image140.png)
+![](../thebrain14-user-guide-images/image140.png)
 
 **Figure 118. Link by Dragging to a Thought in the Past Thoughts’ List**
 
@@ -3341,7 +3341,7 @@ You can also link by using the **Thought Creation** dialog box:
 
 2. Type the first few letters of the name of the thought you want to link to. Double-click on the thought you want to link when you see it in the **Existing Thought List** that appears below (or click it once, then click in the thought name field and press the **Enter** key).
 
-![](TheBrain14-User-Guide-v01/image141.png)
+![](../thebrain14-user-guide-images/image141.png)
 
 **Figure 119. Create a Link by Starting to Create a Child Thought**
 
@@ -3357,7 +3357,7 @@ Thoughts in the Selection panel can be linked to the active thought using the Se
 
 
 
-![](TheBrain14-User-Guide-v01/image142.png)
+![](../thebrain14-user-guide-images/image142.png)
 
 **Figure 120. Linking Using the Selection Panel**
 
@@ -3371,7 +3371,7 @@ Say that you decide that your “Product Promotions” thought shouldn’t reall
 
 
 
-![](TheBrain14-User-Guide-v01/image143.png)
+![](../thebrain14-user-guide-images/image143.png)
 
 **Figure 121. Shift-Dragging to Change Relationships**
 
@@ -3381,7 +3381,7 @@ Say that you decide that your “Product Promotions” thought shouldn’t reall
 
 You can change the colors of thoughts and links globally using the **Brain**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 **Theme**
 
@@ -3409,7 +3409,7 @@ menu, or
 
 click the **Show Thought Properties** command
 
-![](TheBrain14-User-Guide-v01/image144.png)
+![](../thebrain14-user-guide-images/image144.png)
 
 **Figure 122. Thought Properties Dialog Box**
 
@@ -3459,7 +3459,7 @@ these settings for individual thoughts. To begin, activate the thought, then cli
 
 on it or **Alt-**click on any inactive thought.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Note that the individual changes you may make to thoughts, such as their color
 
@@ -3471,7 +3471,7 @@ and background, override the settings in the **Brain Theme** box.
 
 your choice, then click outside of the box of colors.
 
-![](TheBrain14-User-Guide-v01/image145.png)
+![](../thebrain14-user-guide-images/image145.png)
 
 **Figure 123. Text Color in the Thought Properties Dialog Box**
 
@@ -3481,7 +3481,7 @@ your choice, then click outside of the box of colors.
 
 ▪ Click the lower color square, click the color of your choice, then click outside of the box of colors.
 
-![](TheBrain14-User-Guide-v01/image146.png)
+![](../thebrain14-user-guide-images/image146.png)
 
 **Figure 124. Background Color in the Thought Properties Dialog Box**
 
@@ -3489,13 +3489,13 @@ your choice, then click outside of the box of colors.
 
 ▪ Click the double-headed arrow next to the two color sample squares in the top-right area of the **Thought Properties** dialog box.
 
-![](TheBrain14-User-Guide-v01/image147.png)
+![](../thebrain14-user-guide-images/image147.png)
 
 **Figure 125. Swapping Text and Background Colors**
 
 You can use the same techniques to fine-tune new colors for thought text and
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 background as you can use to define colors globally in the
 
@@ -3509,7 +3509,7 @@ Labels are hints that appear below thoughts when you point the mouse at the thou
 
 
 
-![](TheBrain14-User-Guide-v01/image148.png)
+![](../thebrain14-user-guide-images/image148.png)
 
 **Figure 126. A Thought Label**
 
@@ -3517,7 +3517,7 @@ Labels are hints that appear below thoughts when you point the mouse at the thou
 
 1. While typing a new thought name, add a pipe symbol (|) and anything after will become the thought’s label.
 
-![](TheBrain14-User-Guide-v01/image149.png)
+![](../thebrain14-user-guide-images/image149.png)
 
 **Figure 127. Adding a Pipe Symbol During Thought Naming**
 
@@ -3527,7 +3527,7 @@ Labels are hints that appear below thoughts when you point the mouse at the thou
 
 2. Type the text for the label in the **Label** field, then press the **Enter** key. When you point at the thought, the label text will appear in a box below the thought.
 
-![](TheBrain14-User-Guide-v01/image150.png)
+![](../thebrain14-user-guide-images/image150.png)
 
 **Figure 128. Label Field in Thought Properties Dialog Box**
 
@@ -3537,7 +3537,7 @@ You can swap a thought’s name with its label by clicking the **Switch** button
 
 
 
-![](TheBrain14-User-Guide-v01/image151.png)
+![](../thebrain14-user-guide-images/image151.png)
 
 **Figure 129. Swapping Label and Thought Names**
 
@@ -3545,7 +3545,7 @@ You can swap a thought’s name with its label by clicking the **Switch** button
 
 In any thought, you can attach an icon from TheBrain’s built-in selection, an image from a file of your own, an image from notes or attachments in the active thought, or a screen capture. These pictures provide a visual boost to your brain. When you point to the icon next to the thought, the picture zooms to a larger size automatically.
 
-![](TheBrain14-User-Guide-v01/image152.png)
+![](../thebrain14-user-guide-images/image152.png)
 
 **Figure 130. A Thought Icon**
 
@@ -3553,7 +3553,7 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 1. Click the thought icon box in the upper left of the **Thought Properties** box, then click the **Select Stock Icon** command.
 
-![](TheBrain14-User-Guide-v01/image153.png)
+![](../thebrain14-user-guide-images/image153.png)
 
 **Figure 131. Select an Icon from the Built-in Library**
 
@@ -3561,7 +3561,7 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 
 
-![](TheBrain14-User-Guide-v01/image154.png)
+![](../thebrain14-user-guide-images/image154.png)
 
 **Figure 132. Icon Choices**
 
@@ -3569,7 +3569,7 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 1. Click the thought icon box, then click the **Choose File** command.
 
-![](TheBrain14-User-Guide-v01/image155.png)
+![](../thebrain14-user-guide-images/image155.png)
 
 **Figure 133. Choose a File to Use as an Icon**
 
@@ -3579,7 +3579,7 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 
 
-![](TheBrain14-User-Guide-v01/image156.png)
+![](../thebrain14-user-guide-images/image156.png)
 
 **Figure 134. Copy to Icon Command in the Image’s Context Menu**
 
@@ -3587,7 +3587,7 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 ▪ Right-click the attachment, then click the **Copy to Icon** command in the context menu.
 
-![](TheBrain14-User-Guide-v01/image157.png)
+![](../thebrain14-user-guide-images/image157.png)
 
 **Figure 135. Copy to Icon Command in the Attachment’s Context Menu**
 
@@ -3595,7 +3595,7 @@ The new icon will appear to the left of the thought name at the top of the conte
 
 
 
-![](TheBrain14-User-Guide-v01/image158.png)
+![](../thebrain14-user-guide-images/image158.png)
 
 **Figure 136. Thought with its New Icon**
 
@@ -3605,7 +3605,7 @@ The new icon will appear to the left of the thought name at the top of the conte
 
 2. Click the thought icon box, then click the **Capture Image** command.
 
-![](TheBrain14-User-Guide-v01/image159.png)
+![](../thebrain14-user-guide-images/image159.png)
 
 **Figure 137. Capture Something on the Screen to Use as an Icon**
 
@@ -3613,13 +3613,13 @@ The new icon will appear to the left of the thought name at the top of the conte
 
 
 
-![](TheBrain14-User-Guide-v01/image160.png)
+![](../thebrain14-user-guide-images/image160.png)
 
 **Figure 138. Using the Crosshair to Capture an Image**
 
 4. When you release the mouse, the image will be in the Icon area of the **Thought Properties** dialog box.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -3629,7 +3629,7 @@ To capture from the Brain window itself, press the
 
 key to toggle its visibility. You will see the crosshairs and you can drag to select the area of your choice.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 While the captured item will become a picture, the source can be anything―a company logo, a photo, or part of an Excel worksheet or PDF file.
 
@@ -3641,19 +3641,19 @@ While the captured item will become a picture, the source can be anything―a co
 
 
 
-![](TheBrain14-User-Guide-v01/image161.png)
+![](../thebrain14-user-guide-images/image161.png)
 
 **Figure 139. Capture Something You’ve Copied to Use as an Icon**
 
 **To copy an image from the thought to someplace else:**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Images you capture can be copied and pasted as attachments, pasted into notes or the plex, or used as icons.
 
 1. Click the thought icon box, then click the **Copy Icon** command.
 
-![](TheBrain14-User-Guide-v01/image162.png)
+![](../thebrain14-user-guide-images/image162.png)
 
 **Figure 140. Copy the Icon to Use Elsewhere**
 
@@ -3669,7 +3669,7 @@ To change a thought’s icon, repeat the steps above. The icon will be replaced.
 
 
 
-![](TheBrain14-User-Guide-v01/image163.png)
+![](../thebrain14-user-guide-images/image163.png)
 
 **Figure 141. Removing a Thought Icon**
 
@@ -3679,7 +3679,7 @@ All inherited properties, such as from a thought type’s icon, label or colors,
 
 Thought types or tags are also clearly indicated.
 
-![](TheBrain14-User-Guide-v01/image164.png)
+![](../thebrain14-user-guide-images/image164.png)
 
 **Figure 142. Properties Dialog Improvements**
 
@@ -3689,7 +3689,7 @@ Thoughts may be marked “Private.” Private thoughts will appear with a small 
 
 
 
-![](TheBrain14-User-Guide-v01/image165.png)
+![](../thebrain14-user-guide-images/image165.png)
 
 **Figure 143. A Private Thought**
 
@@ -3697,7 +3697,7 @@ Thoughts may be marked “Private.” Private thoughts will appear with a small 
 
 Each thought in TheBrain is available via a unique URL. A thought URL can be used to create links to thoughts from external third-party applications or from other brains. Thought URLs can also be used within TheBrain as another way to connect thoughts via links within notes or as attachments to thoughts.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Thought URLs can be added as hyperlinks in many third-party applications so that when the link is activated, TheBrain will go to the referenced thought.
 
@@ -3705,7 +3705,7 @@ Thought URLs can be added as hyperlinks in many third-party applications so that
 
 ▪ Right-click the thought (or click the **Edit** menu), then click the **Copy Local** **Thought URL** command.
 
-![](TheBrain14-User-Guide-v01/image166.png)
+![](../thebrain14-user-guide-images/image166.png)
 
 **Figure 144. Copying a Thought URL**
 
@@ -3717,7 +3717,7 @@ Thought URLs can be added as hyperlinks in many third-party applications so that
 
 2. Click **Add Attachment** and select the **Paste Web Link** command. The URL will be added to the thought as an attachment.
 
-![](TheBrain14-User-Guide-v01/image167.png)
+![](../thebrain14-user-guide-images/image167.png)
 
 **Figure 145. Pasting a Thought URL**
 
@@ -3737,11 +3737,11 @@ When you click the link, the thought will open and you can click its attachment(
 
 
 
-![](TheBrain14-User-Guide-v01/image168.png)
+![](../thebrain14-user-guide-images/image168.png)
 
 **Figure 146. Inserting a Hyperlink in a Note**
 
-![](TheBrain14-User-Guide-v01/image5.png)
+![](../thebrain14-user-guide-images/image5.png)
 
 **Thought Types and Tags**
 
@@ -3753,13 +3753,13 @@ represent people in your brain. This type might have a label— “Person”—a
 
 Type thoughts can be edited by activating them and using the **Thought**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 **Properties**
 
 dialog box, just as you would for any other thought. You can assign attributes, such as icons, notes, and attachments, to type thoughts.
 
-![](TheBrain14-User-Guide-v01/image169.png)
+![](../thebrain14-user-guide-images/image169.png)
 
 **Figure 147. Three “Person” Type Thoughts**
 
@@ -3777,7 +3777,7 @@ Thought Types can be created from the **Activate Type** button in the main toolb
 
 2. Select New Type
 
-![](TheBrain14-User-Guide-v01/image170.png)
+![](../thebrain14-user-guide-images/image170.png)
 
 **Figure 148. Creating a New Thought Type**
 
@@ -3793,7 +3793,7 @@ To create a thought type from within the plex:
 
 
 
-![](TheBrain14-User-Guide-v01/image171.png)
+![](../thebrain14-user-guide-images/image171.png)
 
 **Figure 149. An Active Type Thought (“Person”)**
 
@@ -3815,19 +3815,19 @@ Enter the Type’s name in the Search box as you would to search for any other k
 
 matching result in the drop-down list.
 
-![](TheBrain14-User-Guide-v01/image172.png)
+![](../thebrain14-user-guide-images/image172.png)
 
 OR
 
 Activate any thought associated with that type, and click on the Parent thought Type if it is visible.
 
-![](TheBrain14-User-Guide-v01/image173.png)
+![](../thebrain14-user-guide-images/image173.png)
 
 OR
 
 Click the **Activate Type** button in the menu bar, then click the type of your choice or begin typing the name of the type to locate it quickly if the list is long.
 
-![](TheBrain14-User-Guide-v01/image174.png)
+![](../thebrain14-user-guide-images/image174.png)
 
 Click the active Type thought to open its **Thought**
 
@@ -3931,7 +3931,7 @@ the same way you copy and paste other thoughts.
 
 
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -3949,7 +3949,7 @@ Attributes that are assigned to a thought type are inherited by all instances of
 
 “Person,” you can assign an icon of a smiley face to the Person type and it will
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 appear next the Jane thought and all other instances of the Person type. But, if you then assign a picture of Jane as the icon for that thought, the picture will appear on that thought (only) instead of the smiley face. Likewise, a label assigned to a specific thought would override the label of any thought type assigned to that thought.
 
@@ -3959,7 +3959,7 @@ TheBrain supports multiple levels of types for advanced modeling. Just like a th
 
 Super types can be used when there is a category of thoughts which is a subset of a larger category. For example, the thought type “Person” could be the super type of the type “Executive.”
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 To see how to find groups of thoughts that share one or more of the same Type, please see the Producing Reports section beginning on page 218.
 
@@ -3977,11 +3977,11 @@ To set up a dynamic wallpaper:
 
 
 
-![](TheBrain14-User-Guide-v01/image175.png)
+![](../thebrain14-user-guide-images/image175.png)
 
 **Figure 150. Setting Up Dynamic Wallpaper on a Thought Type**
 
-![](TheBrain14-User-Guide-v01/image176.png)
+![](../thebrain14-user-guide-images/image176.png)
 
 **Figure 151. Navigating to a Thought with a Dynamic Wallpaper assigned to its Type**
 
@@ -3993,7 +3993,7 @@ If there are multiple attributes you would like to add to your thoughts, you can
 
 Tag thoughts can be edited by activating them and using the **Thought**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 **Properties**
 
@@ -4003,7 +4003,7 @@ dialog box, just as you would for any other thought. You can assign attributes, 
 
 Thoughts can have one or many Tags at the same time. Tag thoughts are global for a brain and displaying Tag text and icons can be toggled on and off in the **Look & Feel** tab of the **Preferences** window.
 
-![](TheBrain14-User-Guide-v01/image177.png)
+![](../thebrain14-user-guide-images/image177.png)
 
 **Figure 152. A Thought with a Tag**
 
@@ -4017,13 +4017,13 @@ Alternatively, you can right-click the thought, click the **Set Tags** command, 
 
 3. Press the **Enter** key. Click outside of the Tags list to close it, then click outside of the **Thought Properties** dialog box to close it. The new Tag will be attached to the active thought.
 
-![](TheBrain14-User-Guide-v01/image178.png)
+![](../thebrain14-user-guide-images/image178.png)
 
 **Figure 153. Creating a New Tag**
 
 Alternatively, you can right-click the thought or click the **Thought** menu, click
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 the
 
@@ -4041,7 +4041,7 @@ key when you’ve finished.
 
 
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 You can also assign one or more Tags to a thought (regular or Type thoughts) while you’re creating the thought by clicking the
 
@@ -4063,7 +4063,7 @@ You can assign and remove Tags using the same general technique as for creating 
 
 As shown below, currently assigned Tags are preceded with a check mark. Click an assigned Tag to remove it and click any Tag in the list to assign it to the active thought. This makes it easy to assign and remove multiple Tags at a time.
 
-![](TheBrain14-User-Guide-v01/image179.png)
+![](../thebrain14-user-guide-images/image179.png)
 
 **Figure 154. Assigning and Removing Tags**
 
@@ -4077,7 +4077,7 @@ If you want to assign Tags to multiple thoughts at once, first select them, then
 
 
 
-![](TheBrain14-User-Guide-v01/image180.png)
+![](../thebrain14-user-guide-images/image180.png)
 
 **Figure 155. Opening the Tags List**
 
@@ -4093,13 +4093,13 @@ If you want to assign Tags to multiple thoughts at once, first select them, then
 
 
 
-![](TheBrain14-User-Guide-v01/image181.png)
+![](../thebrain14-user-guide-images/image181.png)
 
 **Figure 156. Deleting Multiple Tags List**
 
 3. When all the Tags you want to delete are selected, right-click in the Selection tab, then click the **Delete (#) Thoughts** command. (Remember that Tags are also thoughts themselves.)
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Unlike normal thoughts, Tags cannot be forgotten and remembered. Deleting a Tag removes it from your entire brain permanently.
 
@@ -4111,7 +4111,7 @@ You can change the properties of Tags, just as you change the properties of regu
 
 2. You can make the same customizations as you can to any thought while you’re in the Tag’s **Thought Properties** dialog box. When you’re finished making revisions, press the **Enter** key.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Renaming a Tag changes the Tag throughout your entire brain.
 
@@ -4129,17 +4129,17 @@ Along with adding icons to Tags and customizing their names with color, you can 
 
 In the **Look & Feel** tab of the **Preferences** window, you can change the Tags
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 text setting to “Show always” if you want the abbreviations to show. Hovering over a thought with Abbreviated Tags or Tag icons will then display the full Tag name.
 
-![](TheBrain14-User-Guide-v01/image182.png)
+![](../thebrain14-user-guide-images/image182.png)
 
 **Figure 157. Tag Icons and Abbreviations**
 
 
 
-![](TheBrain14-User-Guide-v01/image183.png)
+![](../thebrain14-user-guide-images/image183.png)
 
 **Figure 158. Pointing at a Thought Hides the Abbreviation and Shows the Full Name**
 
@@ -4147,7 +4147,7 @@ text setting to “Show always” if you want the abbreviations to show. Hoverin
 
 ▪ In the Tag’s **Thought Properties** dialog box, type the abbreviation in the field below the Tag’s name, then press the **Enter** key.
 
-![](TheBrain14-User-Guide-v01/image184.png)
+![](../thebrain14-user-guide-images/image184.png)
 
 **Figure 159. Creating a Tag Abbreviation**
 
@@ -4157,7 +4157,7 @@ text setting to “Show always” if you want the abbreviations to show. Hoverin
 
 Types and tags can be visible in the plex. Want to see a type or tag as a child thought? Just link any existing type or tag thought as a child, or as a jump. Optionally, types are visible as parent thoughts as well.
 
-![](TheBrain14-User-Guide-v01/image185.png)
+![](../thebrain14-user-guide-images/image185.png)
 
 **Figure 160. Visible Parent Type and Child Tag**
 
@@ -4179,7 +4179,7 @@ thought type and uncheck the option for **Visible when Parent of Active**
 
 **Thought**
 
-![](TheBrain14-User-Guide-v01/image186.png)
+![](../thebrain14-user-guide-images/image186.png)
 
 **Figure 161. Toggling the Visibility of a Thought Type**
 
@@ -4193,7 +4193,7 @@ You easily change a normal thought into a type or tag at any time:
 
 ▪ Right-click on a thought and select **Convert to Type or Tag**
 
-![](TheBrain14-User-Guide-v01/image187.png)
+![](../thebrain14-user-guide-images/image187.png)
 
 **Figure 162. Convert to Type or Tag**
 
@@ -4213,7 +4213,7 @@ You can easily move a thought through a project cycle or simply re-classify its 
 
 ▪ Select the option **Replace Tag with** and select another tag.
 
-![](TheBrain14-User-Guide-v01/image188.png)
+![](../thebrain14-user-guide-images/image188.png)
 
 **Figure 163. Replacing a Tag**
 
@@ -4231,7 +4231,7 @@ another tag
 
 
 
-![](TheBrain14-User-Guide-v01/image189.png)
+![](../thebrain14-user-guide-images/image189.png)
 
 **Figure 164. Nested Tags**
 
@@ -4255,7 +4255,7 @@ Just as each thought has its own **Thought Properties** dialog box, each link ha
 
 
 
-![](TheBrain14-User-Guide-v01/image190.png)
+![](../thebrain14-user-guide-images/image190.png)
 
 **Figure 165. Link Properties Dialog Box**
 
@@ -4263,7 +4263,7 @@ Just as each thought has its own **Thought Properties** dialog box, each link ha
 
 1. Open the **Link Properties** dialog box for the link, then type a label name in the **Label** field.
 
-![](TheBrain14-User-Guide-v01/image191.png)
+![](../thebrain14-user-guide-images/image191.png)
 
 **Figure 166. Adding a Label to a Link**
 
@@ -4275,11 +4275,11 @@ Just as each thought has its own **Thought Properties** dialog box, each link ha
 
 
 
-![](TheBrain14-User-Guide-v01/image192.png)
+![](../thebrain14-user-guide-images/image192.png)
 
 **Figure 167. Changing the Color of a Link**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 the
 
@@ -4293,19 +4293,19 @@ This changes the color for the individual link. You can set link colors globally
 
 ▪ Open the **Link Properties** dialog box for the link, click the **Default** button, click the width of your choice, then click outside of the **Link Properties** dialog box to close it.
 
-![](TheBrain14-User-Guide-v01/image193.png)
+![](../thebrain14-user-guide-images/image193.png)
 
 **Figure 168. Changing the Width of a Link**
 
 
 
-![](TheBrain14-User-Guide-v01/image194.png)
+![](../thebrain14-user-guide-images/image194.png)
 
 **Tip:**
 
 You might want to widen links to illustrate the strength of particular relationships between thoughts.
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 **Link Types**
 
@@ -4315,7 +4315,7 @@ In addition to setting their color, you can add labels to link types and you can
 
 1. Open the **Link Properties** dialog box for the link, then click the **Type** button.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 This button will display “Untyped” if there is currently no Type assigned to the
 
@@ -4325,23 +4325,23 @@ link and it will display the type name if there is already a Type assigned.
 
 
 
-![](TheBrain14-User-Guide-v01/image195.png)
+![](../thebrain14-user-guide-images/image195.png)
 
 **Figure 169. Creating a New Link Type**
 
 2. Press the **Enter** key to close the **Link Properties** dialog box.
 
-![](TheBrain14-User-Guide-v01/image196.png)
+![](../thebrain14-user-guide-images/image196.png)
 
 **Figure 170. Appearance of a Link Type in the Plex**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Type won’t be displayed in the plex in this case, it can still be used to find all thoughts connected to links of that Type.
 
 If a Link has both a Type and a label, the *label* will show in the plex. While the
 
-![](TheBrain14-User-Guide-v01/image194.png)
+![](../thebrain14-user-guide-images/image194.png)
 
 **Tip:**
 
@@ -4355,11 +4355,11 @@ Point the mouse at a Link Type or label to magnify it in the plex.
 
 
 
-![](TheBrain14-User-Guide-v01/image197.png)
+![](../thebrain14-user-guide-images/image197.png)
 
 **Figure 171. Deleting a Link Type**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 To see how to find thoughts that share one or more of the same link Type, please see the Producing Reports section beginning on page 218.
 
@@ -4367,7 +4367,7 @@ To see how to find thoughts that share one or more of the same link Type, please
 
 By default, links do not show a directional arrow. You can add directional arrows that will appear on the link that points to or from the source thought.
 
-![](TheBrain14-User-Guide-v01/image198.png)
+![](../thebrain14-user-guide-images/image198.png)
 
 **Figure 172. Directed Links**
 
@@ -4381,7 +4381,7 @@ Williams” was a source of inspiration for Elvis. This is also very useful when
 
 
 
-![](TheBrain14-User-Guide-v01/image199.png)
+![](../thebrain14-user-guide-images/image199.png)
 
 **Figure 173. Hank Williams Inspired Elvis**
 
@@ -4391,7 +4391,7 @@ Williams” was a source of inspiration for Elvis. This is also very useful when
 
 ▪ Click the icon to the left of the **One-way** check box to switch between non-directed, directed, and directed in the reverse.
 
-![](TheBrain14-User-Guide-v01/image200.png)
+![](../thebrain14-user-guide-images/image200.png)
 
 **Figure 174. Setting the Direction of a Link**
 
@@ -4403,7 +4403,7 @@ Williams” was a source of inspiration for Elvis. This is also very useful when
 
 ▪ One-way links are indicated by an arrow with a rectangle at its base.
 
-![](TheBrain14-User-Guide-v01/image201.png)
+![](../thebrain14-user-guide-images/image201.png)
 
 **Figure 175. One-Way Link**
 
@@ -4417,7 +4417,7 @@ For example, you may want to see what company a person worked for when the perso
 
 ▪ Select the **One-way** check box to make the selected link one-way. Note that one-way links cannot be non-directed.
 
-![](TheBrain14-User-Guide-v01/image202.png)
+![](../thebrain14-user-guide-images/image202.png)
 
 **Figure 176. Selecting Link Direction**
 
@@ -4427,7 +4427,7 @@ You can also set link direction for link types. The direction of a link type is 
 
 
 
-![](TheBrain14-User-Guide-v01/image203.png)
+![](../thebrain14-user-guide-images/image203.png)
 
 **Figure 177. Selecting a Link Type Direction**
 
@@ -4437,7 +4437,7 @@ You can also set link direction for link types. The direction of a link type is 
 
 **Changing Your View of Thoughts**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 There are three views for displaying your thoughts:
 
@@ -4447,7 +4447,7 @@ pertaining to its parent thoughts above, child thoughts below, and jump
 
 thoughts to the left.
 
-![](TheBrain14-User-Guide-v01/image204.png)
+![](../thebrain14-user-guide-images/image204.png)
 
 **Figure 178. A Brain in Normal View**
 
@@ -4455,7 +4455,7 @@ thoughts to the left.
 
 thoughts.
 
-![](TheBrain14-User-Guide-v01/image205.png)
+![](../thebrain14-user-guide-images/image205.png)
 
 **Figure 179. A Brain in Outline View**
 
@@ -4463,11 +4463,11 @@ thoughts.
 
 
 
-![](TheBrain14-User-Guide-v01/image206.png)
+![](../thebrain14-user-guide-images/image206.png)
 
 **Figure 180. A Brain in Mind Map View and Expanded**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 In addition to selecting a view, you can expand and collapse the display of thoughts in all views to show more or fewer generations.
 
@@ -4485,11 +4485,11 @@ choice, or
 
 
 
-![](TheBrain14-User-Guide-v01/image207.png)
+![](../thebrain14-user-guide-images/image207.png)
 
 **Figure 181. Three Ways to Select a View**
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -4497,7 +4497,7 @@ The check mark in the menu identifies the current view.
 
 A rule of thumb for when you might use each view is to use Normal view when
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 you’re creating thoughts and navigating the plex, use Outline view when you
 
@@ -4509,7 +4509,7 @@ and analyzing the “big picture.”
 
 **Using Outline View**
 
-![](TheBrain14-User-Guide-v01/image208.png)
+![](../thebrain14-user-guide-images/image208.png)
 
 **Figure 182. Plex in Outline View**
 
@@ -4523,13 +4523,13 @@ When the plex is in Outline view, you can show or hide generations of children f
 
 
 
-![](TheBrain14-User-Guide-v01/image209.png)
+![](../thebrain14-user-guide-images/image209.png)
 
 **Figure 183. Showing/Hiding Additional Generations of Individual Thoughts**
 
 **Using Mind Map View**
 
-![](TheBrain14-User-Guide-v01/image210.png)
+![](../thebrain14-user-guide-images/image210.png)
 
 **Figure 184. Mind Map View**
 
@@ -4539,23 +4539,23 @@ To navigate to another thought in your plex while in Mind Map view, right-click 
 
 
 
-![](TheBrain14-User-Guide-v01/image211.png)
+![](../thebrain14-user-guide-images/image211.png)
 
 **Figure 185. Changing the Active Thought without Changing the Layout**
 
 As with Outline view, when the plex is in Mind Map view, you can show or hide
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 generations of children for individual thoughts by pointing the mouse at a thought, then clicking the plus sign (+) or minus sign (-) icon to show or hide the thought’s children.
 
 **Expanding and Collapsing Generations**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 Besides expanding and collapsing individual thoughts in Outline view or Mind Map view, as explained in the previous section, you can also expand and collapse generations of all thoughts in all views.
 
-![](TheBrain14-User-Guide-v01/image212.png)
+![](../thebrain14-user-guide-images/image212.png)
 
 **Figure 186. Expanding or Collapsing from the View Menu**
 
@@ -4563,11 +4563,11 @@ In Outline and Mind Map view, you can also use the buttons on the toolbar to exp
 
 
 
-![](TheBrain14-User-Guide-v01/image213.png)
+![](../thebrain14-user-guide-images/image213.png)
 
 **Figure 187. Expanding or Collapsing by One Generation**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 work the same way as the
 
@@ -4583,17 +4583,17 @@ commands on the
 
 In Normal view, the **Expand** and **Collapse** by one generation on the toolbar
 
-![](TheBrain14-User-Guide-v01/image214.png)
+![](../thebrain14-user-guide-images/image214.png)
 
 **Figure 188. Jane’s Brain in Normal View with All Collapsed**
 
 
 
-![](TheBrain14-User-Guide-v01/image215.png)
+![](../thebrain14-user-guide-images/image215.png)
 
 **Figure 189. Jane’s Brain in Normal View after Expanding All**
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -4601,7 +4601,7 @@ The vertical scroll bar on the right side of the plex indicates that there are
 
 more sibling thoughts in that area which are not currently visible.
 
-![](TheBrain14-User-Guide-v01/image216.png)
+![](../thebrain14-user-guide-images/image216.png)
 
 **Figure 190. 5 Generations of Thoughts**
 
@@ -4617,7 +4617,7 @@ Presentation Mode makes your brain full-screen, hiding the title bar, menu bar, 
 
 ▪ Just start typing to search and the controls appear and disappear as needed
 
-![](TheBrain14-User-Guide-v01/image217.png)
+![](../thebrain14-user-guide-images/image217.png)
 
 **Figure 191. Before and after switching to Presentation Mode**
 
@@ -4629,7 +4629,7 @@ You can think of the parts of TheBrain’s content area as personal assistants w
 
 The content area keeps all of your thought-specific notes and attachments. Attachments can be files, web pages, pictures, and more.
 
-![](TheBrain14-User-Guide-v01/image218.png)
+![](../thebrain14-user-guide-images/image218.png)
 
 **Figure 192. TheBrain’s Content Area**
 
@@ -4647,13 +4647,13 @@ mouse, select the “Update displayed content on hover” option in the **Behavi
 
 
 
-![](TheBrain14-User-Guide-v01/image219.png)
+![](../thebrain14-user-guide-images/image219.png)
 
 **Figure 193. Content of an Inactive Thought after Behavior Preference is Changed**
 
 Preferences are global; whatever options are selected when one brain is active
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 will also be selected in your other brains. Of course, you can change your
 
@@ -4669,17 +4669,17 @@ might find it convenient to maximize the content area.
 
 
 
-![](TheBrain14-User-Guide-v01/image220.png)
+![](../thebrain14-user-guide-images/image220.png)
 
 **Figure 194. Maximizing the Content Area**
 
 ▪ The size of the content area depends on the size of TheBrain window, but when the plex and the content area are side-by-side, you’re in control of how much of the available space each area occupies. Just point the mouse at the line between the two areas and when the double-headed arrow appears, drag left or right to change the proportions.
 
-![](TheBrain14-User-Guide-v01/image221.png)
+![](../thebrain14-user-guide-images/image221.png)
 
 **Figure 195. Making the Content Area More Wide or Narrow**
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -4701,7 +4701,7 @@ TheBrain formats its notes using markdown. Users have the option of either viewi
 
 Additionally, you can switch this setting with a button in the content area toolbar with the Show Markdown button.
 
-![](TheBrain14-User-Guide-v01/image222.png)
+![](../thebrain14-user-guide-images/image222.png)
 
 **Figure 196. The Show Markdown Button**
 
@@ -4711,7 +4711,7 @@ Even when Markdown is hidden, some keyboard shortcuts will still be operational 
 
 Take a note, capture your ideas, or create your next literary masterpiece!
 
-![](TheBrain14-User-Guide-v01/image223.png)
+![](../thebrain14-user-guide-images/image223.png)
 
 **Figure 197. A Note-Worthy Note**
 
@@ -4727,7 +4727,7 @@ you’ll have an excellent array of options at your fingertips.
 
 Depending on how wide you’ve made your content area, you may see the fully expanded toolbar or the compact version. Either way, you’ll have access to all tools via buttons providing access to the additional commands. By default, unless the content area is stretched wide, the compact version of the toolbar will be displayed.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -4745,13 +4745,13 @@ window. (Please see the
 
 section on page 64 for more information about setting global user interface preferences.)
 
-![](TheBrain14-User-Guide-v01/image224.png)
+![](../thebrain14-user-guide-images/image224.png)
 
 **Figure 198. Compact and Expanded Versions of the Content Area Toolbar**
 
 Unlike earlier versions of TheBrain software, the content area toolbar is always on display when the content area is open, but does not have your cursor focus.
 
-![](TheBrain14-User-Guide-v01/image225.png)
+![](../thebrain14-user-guide-images/image225.png)
 
 **Figure 199. The Compact Content Area toolbar**
 
@@ -4759,11 +4759,11 @@ Unlike earlier versions of TheBrain software, the content area toolbar is always
 
 Here are the buttons that show when the expanded content area toolbar is displayed. The annotations point out special buttons you may not see in other text editors.
 
-![](TheBrain14-User-Guide-v01/image226.png)
+![](../thebrain14-user-guide-images/image226.png)
 
 **Figure 200. Buttons on the Expanded Content Area toolbar**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 All Notes features are always available no matter which content area toolbar—compact or expanded—is displayed.
 
@@ -4849,7 +4849,7 @@ Markdown Reference Guide for more clarity on how you can utilize markdown by typ
 
 
 
-![](TheBrain14-User-Guide-v01/image227.png)
+![](../thebrain14-user-guide-images/image227.png)
 
 **Figure 201. Link to TheBrain’s Markdown Reference Guide**
 
@@ -4867,7 +4867,7 @@ The markdown formatting commands for underscoring now utilizes an underscore and
 
 This word is _{underlined}_ in TheBrain 13.
 
-![](TheBrain14-User-Guide-v01/image228.png)
+![](../thebrain14-user-guide-images/image228.png)
 
 **Figure 202. Render Underscore Tags as Italics**
 
@@ -4877,17 +4877,17 @@ By default, your notes will display as a single page. Long notes will utilize a 
 
 
 
-![](TheBrain14-User-Guide-v01/image229.png)
+![](../thebrain14-user-guide-images/image229.png)
 
 **Figure 203. Switching to Multi-Column Layout**
 
-![](TheBrain14-User-Guide-v01/image230.png)
+![](../thebrain14-user-guide-images/image230.png)
 
 **Figure 204. A Multi-Column Note**
 
 If you are still seeing just a single column in Multi-column Layout, try giving the
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 content area more screen real estate. Use the smart splitter to make the plex smaller. Multi-column notes are best suited for high resolution monitors.
 
@@ -4897,7 +4897,7 @@ To enter a note, activate the thought to which the note pertains, then click in 
 
 
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Notes are saved automatically when another thought is activated and will be saved when closing a brain and prior to an unlikely crash in the application.
 
@@ -4921,17 +4921,17 @@ o Double-click to select an entire word, triple-click to select an entire line
 
 ▪ To toggle a check box on or off, follow a link, or open an attachment in the content area, press the **Ctrl+L** keyboard shortcut.
 
-![](TheBrain14-User-Guide-v01/image6.png)
+![](../thebrain14-user-guide-images/image6.png)
 
 Double space to create a period in notes on macOS.
 
 One special feature for TheBrain notes is that if **no** text is selected and you
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 select a formatting command such as bold, highlighting, or change in typeface or font size, the formatting will apply to the entire word in which the cursor is currently blinking.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -4961,7 +4961,7 @@ Additionally, AI can be used to improve, modify, edit and summarize an existing 
 
 To create a new note from scratch, navigate to your desired thought and click on the AI button in the content area toolbar. Select Generate Note.
 
-![](TheBrain14-User-Guide-v01/image231.png)
+![](../thebrain14-user-guide-images/image231.png)
 
 **Figure 205. Generate a Note with AI**
 
@@ -4978,7 +4978,7 @@ you’re looking for? Try bumping up the creativity level and let AI start think
 
 - **Word Count** – Specify between 50 – 1000 words for your new note with the Word Count Slider.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -4988,7 +4988,7 @@ Although the maximum word count is 1000, you can always add more text manually l
 
 - **Language** – Regardless of your default language settings, your AI query results can be generated in one of 78 different languages.
 
-![](TheBrain14-User-Guide-v01/image232.png)
+![](../thebrain14-user-guide-images/image232.png)
 
 **Figure 206. Modifying the AI options**
 
@@ -5032,7 +5032,7 @@ Modern Slang •
 
 Corrects all spelling and grammar mistakes and/or suggests new options.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -5040,7 +5040,7 @@ After a Correct Spelling & Grammer in Note modification, it may be a good time t
 
 
 
-![](TheBrain14-User-Guide-v01/image233.png)
+![](../thebrain14-user-guide-images/image233.png)
 
 **Figure 207. Viewing Merged Changes**
 
@@ -5083,7 +5083,7 @@ When you’re typing in the Notes editor, the **Tab** key performs different fun
 
 ▪ Whether text is selected
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 **Tab**
 
@@ -5119,7 +5119,7 @@ As in most text processing software, holding the **Shift** key while pressing th
 
 ▪ Pressing the **Tab** key moves the cursor to the next cell.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Tab characters can’t be inserted into the middle of a line of text. If you want to align text into columns, it’s most efficient to format using a table.
 
@@ -5139,7 +5139,7 @@ Or
 
 Choices on the context menu include: **Collapse All Except Here**, **Expand All**, **Collapse All**, **Expand Here**, and **Collapse Here**.
 
-![](TheBrain14-User-Guide-v01/image234.png)
+![](../thebrain14-user-guide-images/image234.png)
 
 **Figure 208. Options for Expanding or Collapsing Note Sections**
 
@@ -5153,7 +5153,7 @@ look of each of your brains. You can use a different style for each different br
 
 Notes style and formatting will be preserved if you copy and paste a note’s content from one thought into another. To easily copy an entire note, right click
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 anywhere inside the note to use the
 
@@ -5167,7 +5167,7 @@ HTML for pasting into other applications.
 
 ▪ To select a style, click in the **Notes** tab, click the **More** button, then click the **Notes Style** command (or just click the **Notes style** button if the toolbar is expanded), then click a style of your choice from the **Edit Notes Style** box.
 
-![](TheBrain14-User-Guide-v01/image235.png)
+![](../thebrain14-user-guide-images/image235.png)
 
 **Figure 209. Setting the Notes Style**
 
@@ -5175,7 +5175,7 @@ Note Styles also follow a “responsive web design guidelines” approach which 
 
 You can also apply a Notes Style to a Theme, so that it will be in place when
 
-![](TheBrain14-User-Guide-v01/image3.png)
+![](../thebrain14-user-guide-images/image3.png)
 
 you use that theme with another brain. The techniques for fine-tuning the various Style attributes are the same, whether you start in the content area or the
 
@@ -5185,7 +5185,7 @@ dialog box. For details about viewing and changing the appearance of notes in th
 
 
 
-![](TheBrain14-User-Guide-v01/image236.png)
+![](../thebrain14-user-guide-images/image236.png)
 
 **Figure 210. Appearance of Some Notes Styles**
 
@@ -5193,13 +5193,13 @@ Each Note Style has a set of paragraph styles that help you format your notes
 
 consistently. If you don’t choose a paragraph style, the text is automatically attached to a paragraph style named “Normal.”
 
-![](TheBrain14-User-Guide-v01/image237.png)
+![](../thebrain14-user-guide-images/image237.png)
 
 **Figure 211. Paragraph Styles**
 
 Paragraph styles apply to entire paragraphs. To select one, just click anyplace
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 with the paragraph, then click the paragraph style of your choice. If you change to a different Notes Style, the text will change accordingly, based on the paragraph styles you’ve selected.
 
@@ -5209,7 +5209,7 @@ with the paragraph, then click the paragraph style of your choice. If you change
 
 In addition to changing the size of text by choosing different notes and paragraph styles, you can quickly adjust text to a size that is most comfortable for you. It’s as easy as clicking the **AAText Size** button, then dragging the slider up or down!
 
-![](TheBrain14-User-Guide-v01/image238.png)
+![](../thebrain14-user-guide-images/image238.png)
 
 **Figure 212. Slider for Making Note Text Larger or Smaller**
 
@@ -5217,7 +5217,7 @@ In addition to changing the size of text by choosing different notes and paragra
 
 Quickly adjust paragraph alignment to left, center or right. Place your cursor anywhere in a paragraph and click on the desired justification.
 
-![](TheBrain14-User-Guide-v01/image239.png)
+![](../thebrain14-user-guide-images/image239.png)
 
 **Figure 213. Paragraph Alignment**
 
@@ -5227,7 +5227,7 @@ Place your cursor anywhere in a paragraph, then click the **Font** button to sel
 
 
 
-![](TheBrain14-User-Guide-v01/image240.png)
+![](../thebrain14-user-guide-images/image240.png)
 
 **Figure 214. Fonts**
 
@@ -5239,7 +5239,7 @@ Create tables inside of the content area by clicking on **Insert** and selecting
 
 
 
-![](TheBrain14-User-Guide-v01/image241.png)
+![](../thebrain14-user-guide-images/image241.png)
 
 **Figure 215. A Table Inserted in the Content Area**
 
@@ -5247,13 +5247,13 @@ When adding a table, you may select the number of columns and rows. More
 
 can be added at a later date if necessary.
 
-![](TheBrain14-User-Guide-v01/image242.png)
+![](../thebrain14-user-guide-images/image242.png)
 
 **Figure 216. Inserting a New 7x6 Table**
 
 
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 pipe characters and optional justification tags). The header will not be visible
 
@@ -5311,13 +5311,13 @@ location in the table.
 
 Click anywhere in an existing table and then click on the table icon on the upper left-hand corner of the table to activate a **Table Controls Bar** below the content area toolbar.
 
-![](TheBrain14-User-Guide-v01/image243.png)
+![](../thebrain14-user-guide-images/image243.png)
 
 **Figure 217. Table Control Bar**
 
 From here, you can move selected rows and columns left, right, up, down or duplicate the selected cells. Buttons will only appear for options that are possible depending on which cells are selected. From the Table Controls Bar, the Table Theme Editor can also be opened.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Additional commands are available by right clicking in a table, such as Move, Justify, Select All in Table, Split Table and Toggle Table Toolbar.
 
@@ -5334,7 +5334,7 @@ Selecting Table Theme Editor from the Table Controls bar will open a pop-up wind
 
 
 
-![](TheBrain14-User-Guide-v01/image244.png)
+![](../thebrain14-user-guide-images/image244.png)
 
 **Figure 218. Table Theme Window**
 
@@ -5348,13 +5348,13 @@ You can easily add a Table of Contents into any existing note. The Table of Cont
 
 ▪ Click in the note where you want the Table of Contents to begin, then click the **Insert** button and select **InsertTable of Contents** option in the content area toolbar. When **Show Markdown** is activated, type **[/toc/]**.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 The Table of Contents that is created will only include the content that appears below it.
 
 
 
-![](TheBrain14-User-Guide-v01/image245.png)
+![](../thebrain14-user-guide-images/image245.png)
 
 **Figure 219. Table of Contents**
 
@@ -5366,13 +5366,13 @@ The Table of Contents that is created will only include the content that appears
 
 ▪ For a quick pop-up window that contains the note’s Table of Contents, right- click in the note or press **Ctrl+T**.
 
-![](TheBrain14-User-Guide-v01/image246.png)
+![](../thebrain14-user-guide-images/image246.png)
 
 **Figure 220. Pop Up Table of Contents**
 
 **Spell Checking**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 A spell checker is automatically at work for your notes. Possible misspellings are automatically highlighted and you can right-click to view suggestions. Click the
 
@@ -5380,7 +5380,7 @@ A spell checker is automatically at work for your notes. Possible misspellings a
 
 suggestion of your choice to replace the misspelled word. You can customize the dictionary by adding words to it.
 
-![](TheBrain14-User-Guide-v01/image247.png)
+![](../thebrain14-user-guide-images/image247.png)
 
 **Figure 221. Spell Checker in a Note**
 
@@ -5388,13 +5388,13 @@ If you prefer not to see misspellings flagged as you type:
 
 ▪ Click in the **Notes** tab, click the **More** button, then click the **Check Spelling** **as You Type** command (or just click the **Check Spelling as You Type** button if the toolbar is expanded).
 
-![](TheBrain14-User-Guide-v01/image248.png)
+![](../thebrain14-user-guide-images/image248.png)
 
 **Figure 222. Disabling Spell Checking**
 
 This is a toggle command. When you want to turn the feature on again, follow
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 the same procedure.
 
@@ -5410,11 +5410,11 @@ You can insert horizontal rules (lines) for organizing notes into sections visua
 
 ▪ Horizontal Rules can also be added manually by typing 3 hyphens, even when Markdown is hidden.
 
-![](TheBrain14-User-Guide-v01/image249.png)
+![](../thebrain14-user-guide-images/image249.png)
 
 **Figure 223. Inserting a Horizontal Rule**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Typing 10 hyphens will create a Page Break in the note; however, this option is only enabled when Show Markdown is activated.
 
@@ -5436,7 +5436,7 @@ incomplete. You can either create the list as you type or turn any existing text
 
 3. When a task is complete, click the check box to display a check mark or click it again to remove the check mark if you decide the task isn’t complete after all.
 
-![](TheBrain14-User-Guide-v01/image250.png)
+![](../thebrain14-user-guide-images/image250.png)
 
 **Figure 224. Formatting Text as a Check Box List**
 
@@ -5444,7 +5444,7 @@ incomplete. You can either create the list as you type or turn any existing text
 
 ▪ Click the **Right Panel** button in the upper-right area next to the Search box or click the **To Do List** command on the **View** menu.
 
-![](TheBrain14-User-Guide-v01/image251.png)
+![](../thebrain14-user-guide-images/image251.png)
 
 **Figure 225. Two Ways to Open the To Do List for All Thoughts**
 
@@ -5452,11 +5452,11 @@ incomplete. You can either create the list as you type or turn any existing text
 
 The To Do List panel is displayed:
 
-![](TheBrain14-User-Guide-v01/image252.png)
+![](../thebrain14-user-guide-images/image252.png)
 
 **Figure 226. A To Do List for All Thoughts**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 When you click a check box in one location, such as the To Do List panel, it is automatically checked off in the other location (the thought) and vice versa.
 
@@ -5484,15 +5484,15 @@ option for Clicking Links in Notes can be set to Follows Link (automatically lau
 
 without activating the URL).
 
-![](TheBrain14-User-Guide-v01/image253.png)
+![](../thebrain14-user-guide-images/image253.png)
 
 **Figure 227. A Target Link Pop-Up on Hyperlinked Text**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Videos from YouTube are embedded into notes in a playable form automatically. Just drag and drop from your browser into your notes.
 
-![](TheBrain14-User-Guide-v01/image254.png)
+![](../thebrain14-user-guide-images/image254.png)
 
 **Figure 228. Dragging a Web Link into a Note**
 
@@ -5502,11 +5502,11 @@ Videos from YouTube are embedded into notes in a playable form automatically. Ju
 
 the URL will be broken—just use the **Undo** command on the **Edit** menu or press **Ctrl-Z** if you delete a bracket by accident.
 
-![](TheBrain14-User-Guide-v01/image255.png)
+![](../thebrain14-user-guide-images/image255.png)
 
 **Figure 229. Revising Link Text in a Note**
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Copying an image pasted in a note will put the image on the clipboard.
 
@@ -5532,7 +5532,7 @@ For example, double-clicking “Volunteer Opportunities” in the example below 
 
 
 
-![](TheBrain14-User-Guide-v01/image256.png)
+![](../thebrain14-user-guide-images/image256.png)
 
 **Figure 230. The Ctrl/Cmd+K Shortcut**
 
@@ -5542,7 +5542,7 @@ For example, double-clicking “Volunteer Opportunities” in the example below 
 
 The link command includes all the features of **Quick Thought Creation** so you can insert all types of relationships easily.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Alternatively, you can type
 
@@ -5562,7 +5562,7 @@ You can take a screen capture of virtually anything you can see on the screen an
 
 
 
-![](TheBrain14-User-Guide-v01/image257.png)
+![](../thebrain14-user-guide-images/image257.png)
 
 **Figure 231. Capture Image from the Content Area Toolbar**
 
@@ -5578,7 +5578,7 @@ $$mr\left(\frac{2\pi}{T}\right)2 = G\frac{mM}{r2} \rightarrow T2 = \left(\frac{4
 
 **Result:**
 
-![](TheBrain14-User-Guide-v01/image258.png)
+![](../thebrain14-user-guide-images/image258.png)
 
 mbols can be found at or
 
@@ -5590,7 +5590,7 @@ Select an image in a note to see its size as a percentage. The size display will
 
 
 
-![](TheBrain14-User-Guide-v01/image259.png)
+![](../thebrain14-user-guide-images/image259.png)
 
 **Figure 232. Image Size Displayed as a Percentage When Selected**
 
@@ -5600,7 +5600,7 @@ Click the **Find & Replace** button in the content area toolbar to open the **Fi
 
 Your cursor will remain on the current selected highlight when you close the Find/Replace fields.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 The
 
@@ -5614,7 +5614,7 @@ field if you are just looking for specific text to be highlighted within a long 
 
 **Printing Notes**
 
-![](TheBrain14-User-Guide-v01/image7.png)
+![](../thebrain14-user-guide-images/image7.png)
 
 To print the active note, press
 
@@ -5640,7 +5640,7 @@ dialog box will open and you can fine-tune your print request.
 
 
 
-![](TheBrain14-User-Guide-v01/image260.png)
+![](../thebrain14-user-guide-images/image260.png)
 
 **Figure 233. Printing a Note**
 
@@ -5696,7 +5696,7 @@ o**Markdown Options**
 
 - **Open in Browser** – Note will open as HTML in your default web browser.
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 **Additional Note Features**
 
@@ -5768,13 +5768,13 @@ provided by the **Attach** button in the content area toolbar. To access your at
 
 
 
-![](TheBrain14-User-Guide-v01/image261.png)
+![](../thebrain14-user-guide-images/image261.png)
 
 **Figure 234. The Attach Button in the Content Area**
 
 **Attaching Files**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 You can use standard “drag and drop” techniques to add file attachments into your brain from other programs to a thought or to create new thoughts.
 
@@ -5788,7 +5788,7 @@ the thought name shows you that you’re about to attach the file to that though
 
 
 
-![](TheBrain14-User-Guide-v01/image262.png)
+![](../thebrain14-user-guide-images/image262.png)
 
 **Figure 235. Dragging and Dropping a File into the Content Area**
 
@@ -5796,7 +5796,7 @@ the thought name shows you that you’re about to attach the file to that though
 
 By default, all files that you drag and drop into your brain will create a copy of the original file. You can easily change the default to suit your environment. Please see the Behavior Preferences section on page 64 for information about viewing and changing the “On drag and drop of files” setting.
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -5806,11 +5806,11 @@ You can also override the current drag and drop setting in the
 
 window by holding down the following keys as you drag and drop:
 
-![](TheBrain14-User-Guide-v01/image7.png)
+![](../thebrain14-user-guide-images/image7.png)
 
 **In Windows**
 
-![](TheBrain14-User-Guide-v01/image104.png)
+![](../thebrain14-user-guide-images/image104.png)
 
 **InmacOS**
 
@@ -5822,7 +5822,7 @@ window by holding down the following keys as you drag and drop:
 
 **Attaching Links to Files and Folders without Dragging**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 You can also add a file attachment to the active thought without dragging and dropping.
 
@@ -5834,13 +5834,13 @@ You can also add a file attachment to the active thought without dragging and dr
 
 2. Click **Link to File** or **Link to Folder**, navigate to the item, then click the **Open** button.
 
-![](TheBrain14-User-Guide-v01/image263.png)
+![](../thebrain14-user-guide-images/image263.png)
 
 **Figure 236. Using Link to File to Add a File Attachment**
 
 4. The content area will display the details of the new attachment.
 
-![](TheBrain14-User-Guide-v01/image264.png)
+![](../thebrain14-user-guide-images/image264.png)
 
 **Figure 237. Content Area after a Link to a File is Attached**
 
@@ -5874,7 +5874,7 @@ From here you can click the **X** button to return to the notes, click the up-ar
 
 **Attaching Web Pages**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 Adding URL attachments to your brain is a simple process. TheBrain’s built-in browser will display each web page in the content area.
 
@@ -5890,7 +5890,7 @@ The easiest method for linking a web page into your brain is to simply drag and 
 
 
 
-![](TheBrain14-User-Guide-v01/image265.png)
+![](../thebrain14-user-guide-images/image265.png)
 
 **Figure 238. TheBrain’s Built-In Web Browser**
 
@@ -5900,7 +5900,7 @@ You can also add a web page attachment to the active thought by clicking the **A
 
 ▪ Click **Link to URL**, paste or type the URL address into the empty field, then press the **Enter** key.
 
-![](TheBrain14-User-Guide-v01/image266.png)
+![](../thebrain14-user-guide-images/image266.png)
 
 **Figure 239. Adding a Web Page Attachment using the Attach Button**
 
@@ -5910,13 +5910,13 @@ If the URL you are attaching to your thought already exists as an attachment on 
 
 The name of the duplicate URL will be displayed in the warning message.
 
-![](TheBrain14-User-Guide-v01/image267.png)
+![](../thebrain14-user-guide-images/image267.png)
 
 **Figure 240. URL Exists**
 
 TheBrain’s built in browser allows you to open archived web pages for
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 attached URLs. In the context menu for any URL attachment, select
 
@@ -5926,7 +5926,7 @@ attached URLs. In the context menu for any URL attachment, select
 
 **Attaching Video and Sound Files**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 TheBrain 13 includes a built-in media player that can enables playback of several common video and audio files.
 
@@ -5940,7 +5940,7 @@ A fading animation is utilized to hide and display the controls as necessary whe
 
 
 
-![](TheBrain14-User-Guide-v01/image268.png)
+![](../thebrain14-user-guide-images/image268.png)
 
 **Figure 241. TheBrain’s Built-In Media Player**
 
@@ -5951,7 +5951,7 @@ A fading animation is utilized to hide and display the controls as necessary whe
 | Video | mov, mp4, h264, h263, mpeg, mpg, avi, mkv, wmv | mkv | 3gp |
 | Audio | mp3, wav, aac, ts, flac | pcm, wma | aiff, ac3 |
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -5963,7 +5963,7 @@ An attachment that is a web page has a slightly different menu—and it’s also
 
 
 
-![](TheBrain14-User-Guide-v01/image269.png)
+![](../thebrain14-user-guide-images/image269.png)
 
 **Figure 242. URL Attach Menu in Notes and in Place**
 
@@ -5989,7 +5989,7 @@ The rest of the commands work as they do for file attachments.
 
 When a thought’s attachments are modified, the modification date of the
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 thought is also automatically updated, improving the accuracy of your searches
 
@@ -6001,7 +6001,7 @@ and filters.
 
 Use the **Next** and **Previous** navigational arrows in the top-right corner of the content area toolbar to browse through attachments.
 
-![](TheBrain14-User-Guide-v01/image270.png)
+![](../thebrain14-user-guide-images/image270.png)
 
 **Figure 243. Next and Previous Arrows**
 
@@ -6021,13 +6021,13 @@ toolbar (or keep clicking the **Previous** button until the notes appear).
 
 
 
-![](TheBrain14-User-Guide-v01/image271.png)
+![](../thebrain14-user-guide-images/image271.png)
 
 **Figure 244. A Picture from Notes in Slideshow Mode**
 
 **Working with Multiple Attachments**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 You can add multiple attachments to thoughts and you can have many types of attachments for a single thought. For example, if you have a thought for a person, you might attach their blog as a web page, and their resume in a file—all in the same thought.
 
@@ -6035,7 +6035,7 @@ Multiple attachments can be brought into TheBrain at a single time using drag an
 
 When there is more than one attachment, the number of attachments is displayed on the thought icon. For example, the thought shown below has two attachments:
 
-![](TheBrain14-User-Guide-v01/image272.png)
+![](../thebrain14-user-guide-images/image272.png)
 
 **Figure 245. Number of Attachments Indicator**
 
@@ -6060,7 +6060,7 @@ Existing attachments within a brain can be cut or copied onto your clipboard. Yo
 
 **Creating an Event as an Attachment**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 You can use the
 
@@ -6082,13 +6082,13 @@ There may be types of files that you create frequently that share a common look 
 
 
 
-![](TheBrain14-User-Guide-v01/image273.png)
+![](../thebrain14-user-guide-images/image273.png)
 
 **Figure 246. Adding a File from a Template**
 
 2. In the **Create File from Template** tab, any previously created templates will appear under the “User Templates” heading and the built-in templates will appear under “System Templates.” Click the file type of your choice.
 
-![](TheBrain14-User-Guide-v01/image274.png)
+![](../thebrain14-user-guide-images/image274.png)
 
 **Figure 247. Selecting a Template**
 
@@ -6100,7 +6100,7 @@ Remember to click on **Template Help** under the **Attach** button if you want t
 
 
 
-![](TheBrain14-User-Guide-v01/image4.png)
+![](../thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -6112,13 +6112,13 @@ If you have copied an image, you can click the **Attach** button in the content 
 
 Additionally, multiple image files can be copy/pasted or drag/dropped into TheBrain as attachments at a single time.
 
-![](TheBrain14-User-Guide-v01/image275.png)
+![](../thebrain14-user-guide-images/image275.png)
 
 **Figure 248. Pasting In an Image**
 
 **Using the “Save As” Command**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 You can use any application’s “Save as” command to create a new file inside your brain. For example, if you have opened a Word file that is an internal attachment to a thought, you would click the
 
@@ -6140,7 +6140,7 @@ referenced in another note—but you figured it might be too complicated to go s
 
 related thoughts.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Related thoughts do not have to be visible in the plex in order to display in the content area.
 
@@ -6148,13 +6148,13 @@ Related thoughts do not have to be visible in the plex in order to display in th
 
 When a thought name appears within notes, your brain recognizes it automatically as a “mention.” Both plural and singular forms of the text are recognized, so exact matches are not required.
 
-![](TheBrain14-User-Guide-v01/image276.png)
+![](../thebrain14-user-guide-images/image276.png)
 
 **Figure 249. A Thought Mention Underlined in a Note**
 
 Right-click on a Mention in a note to either link to or activate this thought.
 
-![](TheBrain14-User-Guide-v01/image277.png)
+![](../thebrain14-user-guide-images/image277.png)
 
 **Figure 250. Context Menu When Right-Clicking on a Mention**
 
@@ -6179,7 +6179,7 @@ Click on any thought name in this display to navigate to that thought. Right cli
 
 While mapped links refer to thought names, backlinks and mentions display both the names of the related thoughts and the context of the notes in which they appear.
 
-![](TheBrain14-User-Guide-v01/image278.png)
+![](../thebrain14-user-guide-images/image278.png)
 
 **Figure 251. Content Area with Related Thoughts in the Footer**
 
@@ -6189,7 +6189,7 @@ You can activate any related thought by clicking its link in the content area fo
 
 
 
-![](TheBrain14-User-Guide-v01/image279.png)
+![](../thebrain14-user-guide-images/image279.png)
 
 **Figure 252. Two Kinds of Links for Related Thoughts**
 
@@ -6202,13 +6202,13 @@ from the **Unlinked Mention** section to the **Backlinks**section in the
 
 content area.
 
-![](TheBrain14-User-Guide-v01/image280.png)
+![](../thebrain14-user-guide-images/image280.png)
 
 **Figure 253. After an Unlinked Mention is Linked**
 
 Note that while links appear in **blue** by default, you can easily change their
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 color. To do so, select
 
@@ -6242,13 +6242,13 @@ To restore the thought names and/or links and mentions:
 
 Note that hiding or showing related thoughts is global and applies to your entire brain.
 
-![](TheBrain14-User-Guide-v01/image281.png)
+![](../thebrain14-user-guide-images/image281.png)
 
 **Figure 254. Context Menu Below Notes**
 
 You can also use the **Notes Editor** tab in **Preferences** to hide or display links and mentions in the content area.
 
-![](TheBrain14-User-Guide-v01/image282.png)
+![](../thebrain14-user-guide-images/image282.png)
 
 **Figure 255. Links and Mentions Section in Notes Editor Preferences**
 
@@ -6261,7 +6261,7 @@ When you hover over the area to the left of the related thoughts, you’ll see d
 - Click the down-arrow to the left of the current thought name to collapse the entire list. This symbol will become a right-arrow which you can click to expand the entire list.
 - Click any other down- or right-arrow to expand or collapse that section or item.
 
-![](TheBrain14-User-Guide-v01/image283.png)
+![](../thebrain14-user-guide-images/image283.png)
 
 **Figure 256. Collapsing or Expanding Sections**
 
@@ -6279,7 +6279,7 @@ that contains one or more “George” headings.
 
 
 
-![](TheBrain14-User-Guide-v01/image284.png)
+![](../thebrain14-user-guide-images/image284.png)
 
 **Figure 257. Aggregated Data for “George”**
 
@@ -6287,7 +6287,7 @@ that contains one or more “George” headings.
 
 1. Create a thought whose name represents the information you want to see aggregated. In the Figure 257 example, that thought name is “George.” 2. In any thought that has information about “George” (following this example), precede the information with a standalone paragraph. This paragraph should simply have the text that matches the name of the thought for which you want aggregated data—“George” in our example. The text should be attached to a Heading stye.
 
-![](TheBrain14-User-Guide-v01/image285.png)
+![](../thebrain14-user-guide-images/image285.png)
 
 **Figure 258. “George” is Formatted as a Heading 3**
 
@@ -6295,7 +6295,7 @@ that contains one or more “George” headings.
 
 
 
-![](TheBrain14-User-Guide-v01/image286.png)
+![](../thebrain14-user-guide-images/image286.png)
 
 **Figure 259. Linking the Heading to the Thought of the Same Name**
 
@@ -6305,7 +6305,7 @@ Any time you activate the “George” thought, you’ll see the information
 
 aggregated, as in Figure 257.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 When selecting text in a note, you will have the option to
 
@@ -6321,7 +6321,7 @@ BrainBox lets you send information to your brain quickly and easily. Just click 
 
 To add content from the web tnsion in
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 your preferred browser. Go to and follow the instructions there.
 
@@ -6337,7 +6337,7 @@ At any time, when you have a brain open, use the **BrainBox** button in the uppe
 
 4. Hover over or click any item to display the choices for the item.
 
-![](TheBrain14-User-Guide-v01/image287.png)
+![](../thebrain14-user-guide-images/image287.png)
 
 **Figure 260. The BrainBox Button**
 
@@ -6353,73 +6353,73 @@ At any time, when you have a brain open, use the **BrainBox** button in the uppe
 
 ▪ The context menu will also allow you to either **Move** from BrainBox to the active thought or **Copy** from BrainBox
 
-![](TheBrain14-User-Guide-v01/image288.png)
+![](../thebrain14-user-guide-images/image288.png)
 
-![](TheBrain14-User-Guide-v01/image289.png)
+![](../thebrain14-user-guide-images/image289.png)
 
-![](TheBrain14-User-Guide-v01/image290.png)
+![](../thebrain14-user-guide-images/image290.png)
 
-![](TheBrain14-User-Guide-v01/image291.png)
+![](../thebrain14-user-guide-images/image291.png)
 
-![](TheBrain14-User-Guide-v01/image292.png)
+![](../thebrain14-user-guide-images/image292.png)
 
-![](TheBrain14-User-Guide-v01/image293.png)
+![](../thebrain14-user-guide-images/image293.png)
 
-![](TheBrain14-User-Guide-v01/image294.png)
+![](../thebrain14-user-guide-images/image294.png)
 
-![](TheBrain14-User-Guide-v01/image295.png)
+![](../thebrain14-user-guide-images/image295.png)
 
-![](TheBrain14-User-Guide-v01/image296.png)
+![](../thebrain14-user-guide-images/image296.png)
 
-![](TheBrain14-User-Guide-v01/image297.png)
+![](../thebrain14-user-guide-images/image297.png)
 
-![](TheBrain14-User-Guide-v01/image298.png)
+![](../thebrain14-user-guide-images/image298.png)
 
-![](TheBrain14-User-Guide-v01/image299.png)
+![](../thebrain14-user-guide-images/image299.png)
 
-![](TheBrain14-User-Guide-v01/image300.png)
+![](../thebrain14-user-guide-images/image300.png)
 
-![](TheBrain14-User-Guide-v01/image301.png)
+![](../thebrain14-user-guide-images/image301.png)
 
-![](TheBrain14-User-Guide-v01/image302.png)
+![](../thebrain14-user-guide-images/image302.png)
 
-![](TheBrain14-User-Guide-v01/image303.png)
+![](../thebrain14-user-guide-images/image303.png)
 
-![](TheBrain14-User-Guide-v01/image304.png)
+![](../thebrain14-user-guide-images/image304.png)
 
-![](TheBrain14-User-Guide-v01/image305.png)
+![](../thebrain14-user-guide-images/image305.png)
 
-![](TheBrain14-User-Guide-v01/image306.png)
+![](../thebrain14-user-guide-images/image306.png)
 
-![](TheBrain14-User-Guide-v01/image307.png)
+![](../thebrain14-user-guide-images/image307.png)
 
-![](TheBrain14-User-Guide-v01/image308.png)
+![](../thebrain14-user-guide-images/image308.png)
 
-![](TheBrain14-User-Guide-v01/image309.png)
+![](../thebrain14-user-guide-images/image309.png)
 
-![](TheBrain14-User-Guide-v01/image310.png)
+![](../thebrain14-user-guide-images/image310.png)
 
-![](TheBrain14-User-Guide-v01/image311.png)
+![](../thebrain14-user-guide-images/image311.png)
 
-![](TheBrain14-User-Guide-v01/image312.png)
+![](../thebrain14-user-guide-images/image312.png)
 
-![](TheBrain14-User-Guide-v01/image313.png)
+![](../thebrain14-user-guide-images/image313.png)
 
-![](TheBrain14-User-Guide-v01/image314.png)
+![](../thebrain14-user-guide-images/image314.png)
 
-![](TheBrain14-User-Guide-v01/image315.png)
+![](../thebrain14-user-guide-images/image315.png)
 
-![](TheBrain14-User-Guide-v01/image316.png)
+![](../thebrain14-user-guide-images/image316.png)
 
-![](TheBrain14-User-Guide-v01/image317.png)
+![](../thebrain14-user-guide-images/image317.png)
 
-![](TheBrain14-User-Guide-v01/image318.png)
+![](../thebrain14-user-guide-images/image318.png)
 
-![](TheBrain14-User-Guide-v01/image319.png)
+![](../thebrain14-user-guide-images/image319.png)
 
-![](TheBrain14-User-Guide-v01/image320.png)
+![](../thebrain14-user-guide-images/image320.png)
 
-![](TheBrain14-User-Guide-v01/image321.png)
+![](../thebrain14-user-guide-images/image321.png)
 
 **BrainBox**
 
@@ -6457,7 +6457,7 @@ Use the **BrainBox** tab to review, edit or delete existing content in your Brai
 
 Multiple items can be selected in BrainBox allowing you to move, copy or delete multiple items at one time
 
-![](TheBrain14-User-Guide-v01/image322.png)
+![](../thebrain14-user-guide-images/image322.png)
 
 .
 
@@ -6473,7 +6473,7 @@ You must be logged into your brain account at in the browser you are using in or
 
 You can use the browser extension or bookmarklet from any computer, even if TheBrain application is not installed on that device.
 
-![](TheBrain14-User-Guide-v01/image323.png)
+![](../thebrain14-user-guide-images/image323.png)
 
 **Figure 264. Clicking on the BrainBox Extension**
 
@@ -6487,7 +6487,7 @@ From Windows File Explorer, right-click on any file and select **BrainBox** from
 
 
 
-![](TheBrain14-User-Guide-v01/image324.png)
+![](../thebrain14-user-guide-images/image324.png)
 
 **Figure 265. Sending a File to BrainBox**
 
@@ -6497,13 +6497,13 @@ Launch TheBrain application if it is not running already. From any Finder window
 
 **Producing Reports Producing Reports**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 Reports are an excellent way to manage large groups of thoughts in your Brain.
 
 To open a brain's Report area, click the **View** menu then click the **Report** command. You may also click on the **Right Panel** button next to the search box. The report pane is resizable.
 
-![](TheBrain14-User-Guide-v01/image325.png)
+![](../thebrain14-user-guide-images/image325.png)
 
 **Figure 266. Viewing the Report Area**
 
@@ -6511,7 +6511,7 @@ To open a brain's Report area, click the **View** menu then click the **Report**
 
 The **Thoughts** drop-down list includes the following options and each selection provides additional criteria choices for fine-tuning your reports.
 
-![](TheBrain14-User-Guide-v01/image326.png)
+![](../thebrain14-user-guide-images/image326.png)
 
 **Figure 267. Thought Options for Reports** You can run reports based on the criteria discussed below.
 
@@ -6523,13 +6523,13 @@ The **By Types/Tags** option in the **Thoughts** drop-down helps you filter thou
 
 ▪ Click the field to the right of **Types** (which will display “Any” if no Types have been selected yet), then select the check box for each thought Type to be included. Click outside of the list to close it.
 
-![](TheBrain14-User-Guide-v01/image327.png)
+![](../thebrain14-user-guide-images/image327.png)
 
 **Figure 268. Selecting Thoughts by Types**
 
 Use the **Tags** field to filter thoughts based on your assigned Tags.
 
-![](TheBrain14-User-Guide-v01/image328.png)
+![](../thebrain14-user-guide-images/image328.png)
 
 **Figure 269. Filtering a Report by Tags**
 
@@ -6539,7 +6539,7 @@ This indicates that you do not want thoughts with that Tag listed. Clicking the 
 
 
 
-![](TheBrain14-User-Guide-v01/image329.png)
+![](../thebrain14-user-guide-images/image329.png)
 
 **Figure 270. Filtering With and Without Tags**
 
@@ -6551,7 +6551,7 @@ immediately navigate to the thought.
 
 The Forgotten thoughts selection allows you to quickly view and access any thoughts you have forgotten in a brain.
 
-![](TheBrain14-User-Guide-v01/image330.png)
+![](../thebrain14-user-guide-images/image330.png)
 
 **Figure 271. Forgotten Thoughts Report**
 
@@ -6559,13 +6559,13 @@ The Forgotten thoughts selection allows you to quickly view and access any thoug
 
 With **Forgotten** selected in the **Thoughts** drop-down, you can use the menu button to add all forgotten thoughts in your report to your Selection, remove all forgotten thoughts in your report from your Selection, permanently delete all forgotten thoughts in your report, or remember all forgotten thoughts in your report.
 
-![](TheBrain14-User-Guide-v01/image331.png)
+![](../thebrain14-user-guide-images/image331.png)
 
 **Figure 272. Choices for Forgotten Thoughts**
 
 As soon as you click any forgotten thought in the list, a “Showing Forgotten thoughts” message will display above the plex. Click any forgotten thought in the report to display that thought in the plex.
 
-![](TheBrain14-User-Guide-v01/image332.png)
+![](../thebrain14-user-guide-images/image332.png)
 
 **Figure 273. Showing Forgotten Thoughts**
 
@@ -6575,7 +6575,7 @@ Select **Parentless** in the **Thoughts** drop-down to quickly view and access a
 
 
 
-![](TheBrain14-User-Guide-v01/image333.png)
+![](../thebrain14-user-guide-images/image333.png)
 
 **Figure 274. Parentless Thought Report**
 
@@ -6583,7 +6583,7 @@ Viewing a Parentless Thought Report is great for tying up any loose connections 
 
 Orphan thoughts will also appear in a Parentless Thought Report. Jump
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 thoughts (when they have no Parent) will frequently appear in this report as well.
 
@@ -6591,7 +6591,7 @@ thoughts (when they have no Parent) will frequently appear in this report as wel
 
 Select **Orphan** in the **Thoughts** drop-down to quickly view and access any thoughts that do not have any other connections.
 
-![](TheBrain14-User-Guide-v01/image334.png)
+![](../thebrain14-user-guide-images/image334.png)
 
 **Figure 275. Orphan Thought Report**
 
@@ -6603,7 +6603,7 @@ Viewing an Orphan Thought Report is an excellent way to find lost thoughts or th
 
 Select **Duplicate Names** in the **Thoughts** drop-down to quickly view and access multiple thoughts with the same name.
 
-![](TheBrain14-User-Guide-v01/image335.png)
+![](../thebrain14-user-guide-images/image335.png)
 
 **Figure 276. Duplicate Names Report**
 
@@ -6613,7 +6613,7 @@ Viewing the Duplicate Thoughts Report can help you organize and manage your brai
 
 Select **By Attachments** in the **Thoughts** drop-down to quickly view and access all thoughts that have an attachment. By default, only internal attachments will be included and you can use the Type drop-down list to fine-tune as needed.
 
-![](TheBrain14-User-Guide-v01/image336.png)
+![](../thebrain14-user-guide-images/image336.png)
 
 **Figure 277. By Attachments Report**
 
@@ -6627,7 +6627,7 @@ the **Time** drop-down selections. This is incredibly useful for finding informa
 
 modified within a specific date range and allows for even more in-depth reporting.
 
-![](TheBrain14-User-Guide-v01/image337.png)
+![](../thebrain14-user-guide-images/image337.png)
 
 **Figure 278. Filtering Thoughts in a Report by Modified Date**
 
@@ -6673,7 +6673,7 @@ Use the **Sort** drop-down to switch the list order of your report results betwe
 
 attachment sizes highest in the list
 
-![](TheBrain14-User-Guide-v01/image338.png)
+![](../thebrain14-user-guide-images/image338.png)
 
 **Figure 279. Sorting Thoughts in a Report**
 
@@ -6683,7 +6683,7 @@ attachment sizes highest in the list
 
 criteria.
 
-![](TheBrain14-User-Guide-v01/image339.png)
+![](../thebrain14-user-guide-images/image339.png)
 
 **Figure 280. The Refresh Button**
 
@@ -6693,7 +6693,7 @@ criteria.
 
 and the **Sort** field selections.
 
-![](TheBrain14-User-Guide-v01/image340.png)
+![](../thebrain14-user-guide-images/image340.png)
 
 **Figure 281. The Reset Button**
 
@@ -6705,7 +6705,7 @@ be added to the Selection panel where you can apply actions to the thoughts
 
 all at one time. Right-click in the Selection area to see your choices.
 
-![](TheBrain14-User-Guide-v01/image341.png)
+![](../thebrain14-user-guide-images/image341.png)
 
 **Figure 282. Adding Report Results to the Selection Panel**
 
@@ -6713,7 +6713,7 @@ all at one time. Right-click in the Selection area to see your choices.
 
 **Saving and Accessing Reports**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 Reports can be saved and used again at any time.
 
@@ -6723,7 +6723,7 @@ Reports can be saved and used again at any time.
 
 2. Type a name for your report, then click the **OK** button.
 
-![](TheBrain14-User-Guide-v01/image342.png)
+![](../thebrain14-user-guide-images/image342.png)
 
 **Figure 283. Saving a Report To open a saved report:**
 
@@ -6733,7 +6733,7 @@ Reports can be saved and used again at any time.
 
 
 
-![](TheBrain14-User-Guide-v01/image343.png)
+![](../thebrain14-user-guide-images/image343.png)
 
 **Figure 284. Saving a Report**
 
@@ -6759,7 +6759,7 @@ To view your recently modified thoughts, simply click on the clock icon to the r
 
 
 
-![](TheBrain14-User-Guide-v01/image344.png)
+![](../thebrain14-user-guide-images/image344.png)
 
 **Figure 285. Recently Modified Thoughts and Links**
 
@@ -6799,7 +6799,7 @@ pattern matching capabilities).
 
 you’re ready.
 
-![](TheBrain14-User-Guide-v01/image345.png)
+![](../thebrain14-user-guide-images/image345.png)
 
 **Figure 286. Find and Replace**
 
@@ -6829,7 +6829,7 @@ Curious about the content of your brain? Click the **File** menu and select
 
 **Managing Events**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 Your brain has its own built-in Calendar. You can access it from the content area or the Timeline View to add and modify events and integrate them with your thoughts. You can view your Calendar a day, week, month, or year at a time.
 
@@ -6845,11 +6845,11 @@ You can create a new event from the content area or from the Timeline. Both meth
 
 2. Click the **Attachment** button in the content area toolbar, then click **Create** **Event**.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Events created from the content area are automatically associated with the active thought, but you can easily detach them.
 
-![](TheBrain14-User-Guide-v01/image346.png)
+![](../thebrain14-user-guide-images/image346.png)
 
 **Figure 287. Creating a New Event in the Content Area**
 
@@ -6861,7 +6861,7 @@ As shown below, you can specify start and stop times and dates and add a label, 
 
 associated thoughts.
 
-![](TheBrain14-User-Guide-v01/image347.png)
+![](../thebrain14-user-guide-images/image347.png)
 
 **Figure 288. The Event Editor**
 
@@ -6871,19 +6871,19 @@ associated thoughts.
 
 
 
-![](TheBrain14-User-Guide-v01/image348.png)
+![](../thebrain14-user-guide-images/image348.png)
 
 **Figure 289. Launching TheBrain Timeline**
 
 2. Drag on the time ruler at the bottom to select the start and stop times of the event. After you finish dragging, the event editor will be displayed. By default, this will be a standalone event, not associated with the current active thought. You can easily attach it to the active thought by clicking **Attach to** “*active thought*” in the event editor menu.
 
-![](TheBrain14-User-Guide-v01/image349.png)
+![](../thebrain14-user-guide-images/image349.png)
 
 **Figure 290. Click and Drag to Create a New Event**
 
 Please see the Navigating in Timeline View section on page 235 for
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 information about using the Timeline and 1-click fine-tuning based on your preferences.
 
@@ -6893,7 +6893,7 @@ Reminders appear when the brain containing the event is open.
 
 
 
-![](TheBrain14-User-Guide-v01/image350.png)
+![](../thebrain14-user-guide-images/image350.png)
 
 **Figure 291. TheBrain’s Event Reminder Pop-Up**
 
@@ -6913,7 +6913,7 @@ event you want to work with, then choose a command from the context menu.
 
 Choose **Properties** to edit the details of the event.
 
-![](TheBrain14-User-Guide-v01/image351.png)
+![](../thebrain14-user-guide-images/image351.png)
 
 **Figure 292. Editing and Deleting Events in the Content Area**
 
@@ -6925,7 +6925,7 @@ Choose **Properties** to edit the details of the event.
 
 ▪ To delete, right-click the event on the Timeline, then click **Delete Event**. You can also delete the event by selecting **Delete Event** in the event editor pop- up.
 
-![](TheBrain14-User-Guide-v01/image352.png)
+![](../thebrain14-user-guide-images/image352.png)
 
 **Figure 293. Editing and Deleting an Event in the Timeline**
 
@@ -6933,7 +6933,7 @@ Choose **Properties** to edit the details of the event.
 
 ▪ Drag in the background of the timeline up and down to zoom in and out.
 
-![](TheBrain14-User-Guide-v01/image353.png)
+![](../thebrain14-user-guide-images/image353.png)
 
 **Figure 294. Click and Drag Up and Down to Zoom** ▪ Drag left and right to scroll through time.
 
@@ -6941,13 +6941,13 @@ Choose **Properties** to edit the details of the event.
 
 ▪ Buttons allow you to switch between day, week, month and year view. Or, navigate to a specific day in the mini calendar.
 
-![](TheBrain14-User-Guide-v01/image354.png)
+![](../thebrain14-user-guide-images/image354.png)
 
 **Figure 295. TheBrain Timeline Buttons**
 
 Events associated with **Forgotten Thoughts** will only appear in the timeline if
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Forgotten Thoughts are being viewed in the plex. Like the faded display in the plex, the thought’s event will also appear as faded text.
 
@@ -6957,13 +6957,13 @@ TheBrain includes nearly 2000 built-in icons for your thoughts, Types, and Tags.
 
 
 
-![](TheBrain14-User-Guide-v01/image355.png)
+![](../thebrain14-user-guide-images/image355.png)
 
 **To select a Brain icon to be added to a thought:**
 
 1. Right-click the thought, then click **Select Stock Icon** or open the **Thought Properties** dialog box, click the thought icon box, then click the **Select Stock Icon** command.
 
-![](TheBrain14-User-Guide-v01/image356.png)
+![](../thebrain14-user-guide-images/image356.png)
 
 **Figure 296. Two Ways to Access Select Stock Icon**
 
@@ -6975,7 +6975,7 @@ below. The name of the icon will appear when you hover over it. Click
 
 on an icon to add it to the active thought.
 
-![](TheBrain14-User-Guide-v01/image357.png)
+![](../thebrain14-user-guide-images/image357.png)
 
 **Figure 297. The Food Category**
 
@@ -7001,7 +7001,7 @@ The **Online** menu in TheBrain toolbar provides access to your Cloud Services s
 
 quickly.
 
-![](TheBrain14-User-Guide-v01/image358.png)
+![](../thebrain14-user-guide-images/image358.png)
 
 **Figure 298. Online Menu Options**
 
@@ -7019,7 +7019,7 @@ brain is already synchronized to your Cloud account.
 
 in order to acquire its URL.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 **Copy Web Thought URL**
 
@@ -7043,7 +7043,7 @@ Access your ideas and information on all your devices—including iOS and Androi
 
 The iOS and Android apps include the ability to sync your brain so you can access it without an Internet connection. Once you download your brain locally to your mobile device, just click the **Sync** button after making edits or if edits have been made to TheBrain Cloud.
 
-![](TheBrain14-User-Guide-v01/image359.png)
+![](../thebrain14-user-guide-images/image359.png)
 
 **Figure 299. Syncing TheBrain on iPhone**
 
@@ -7055,7 +7055,7 @@ e at
 
 **Share, Synchronize, and Back Up Your Brains**
 
-![](TheBrain14-User-Guide-v01/image53.png)
+![](../thebrain14-user-guide-images/image53.png)
 
 You can use TheBrain Cloud to publish and share your brain. People can view your published brains whether or not TheBrain is installed on their machines.
 
@@ -7063,19 +7063,19 @@ You can use TheBrain Cloud to publish and share your brain. People can view your
 
 1. Go to then click the **Log In** button in the top-right area
 
-![](TheBrain14-User-Guide-v01/image360.png)
+![](../thebrain14-user-guide-images/image360.png)
 
 **Figure 300. Sign Up Button**
 
 2. Click the **Sign up** button.
 
-![](TheBrain14-User-Guide-v01/image361.png)
+![](../thebrain14-user-guide-images/image361.png)
 
 **Figure 301. Login Button**
 
 3. Complete all fields in the **Sign Up** form, then click the **Sign Up** button. You will see a message explaining that a confirmation notice has been sent to the email address you provided. When you receive the message, follow its instructions to click the link and activate your account.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Allow a few minutes for the email to be delivered. Check your spam folder if the message doesn’t arrive within a reasonable amount of time.
 
@@ -7089,11 +7089,11 @@ With TheBrain and TheBrain Cloud Services you can use your brain on multiple com
 
 Cloud synchronization is protected using 128-bit AES Encryption. (This is the same encryption used by the US government to protect classified information.)
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Port 443 is used for encrypted syncs. If your IT staff is using a firewall, you can ask them to add WebBrain.com and api.thebrain.com to the white list of your company's firewall. If your IT staff is using a proxy, you will need to try setting up a Proxy connection via TheBrain by using the options found in TheBrain’s Preferences > System tab.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Make sure you have created an account on TheBrain.com before you begin synchronizing. Some Cloud services require a subscription fee.
 
@@ -7101,19 +7101,19 @@ Make sure you have created an account on TheBrain.com before you begin synchroni
 
 1. Open the brain you wish to sync. Click the cloud icon in the menu bar, or click the **Online** menu, then click the **Sync Brain** command.
 
-![](TheBrain14-User-Guide-v01/image362.png)
+![](../thebrain14-user-guide-images/image362.png)
 
 **Figure 302. The Cloud Icon in the TheBrain Toolbar**
 
 
 
-![](TheBrain14-User-Guide-v01/image363.png)
+![](../thebrain14-user-guide-images/image363.png)
 
 **Figure 303. Sync Brain Command**
 
 2. Click the **Upload** button to upload this local brain.
 
-![](TheBrain14-User-Guide-v01/image364.png)
+![](../thebrain14-user-guide-images/image364.png)
 
 **Figure 304. Confirming Upload**
 
@@ -7121,7 +7121,7 @@ Make sure you have created an account on TheBrain.com before you begin synchroni
 
 You can keep working while the synchronization process is continuing in the
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 background. If there is an interruption during an initial upload of your brain, TheBrain will offer to resume from where it was stopped the next time you synchronize.
 
@@ -7129,7 +7129,7 @@ background. If there is an interruption during an initial upload of your brain, 
 
 **Download** button when it appears.
 
-![](TheBrain14-User-Guide-v01/image365.png)
+![](../thebrain14-user-guide-images/image365.png)
 
 **Figure 305. Download for Local Use**
 
@@ -7143,7 +7143,7 @@ sync. To turn this feature off, click the **Sync Status** button next to the Clo
 
 in the tool bar.
 
-![](TheBrain14-User-Guide-v01/image366.png)
+![](../thebrain14-user-guide-images/image366.png)
 
 **Figure 306. The Sync Status Button**
 
@@ -7155,7 +7155,7 @@ Brain thumbnails in your list of available brains will indicate if a brain is lo
 
 local and online (synced) or online only.
 
-![](TheBrain14-User-Guide-v01/image367.png)
+![](../thebrain14-user-guide-images/image367.png)
 
 **Figure 307. Brain Location Indicators**
 
@@ -7181,7 +7181,7 @@ activities:
 
 ▪ Add Attachments
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 You can only edit brains that YOU own.
 
@@ -7237,13 +7237,13 @@ is viewed. It will be the first thought your viewers see.
 
 command
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 The current wallpaper and color theme will be included in your published brain.
 
 
 
-![](TheBrain14-User-Guide-v01/image368.png)
+![](../thebrain14-user-guide-images/image368.png)
 
 **Figure 308. Brain Access and Public URL**
 
@@ -7259,19 +7259,19 @@ You can send your brain as an email attachment. To make the attachment as small 
 
 
 
-![](TheBrain14-User-Guide-v01/image369.png)
+![](../thebrain14-user-guide-images/image369.png)
 
 **Figure 309. Create Brain Archive Options**
 
 3. If necessary, click the **Change** button to change the file name or the folder where the archive file will be saved. Do not change the filename extension, which is .BRZ. Click the **Backup** button to create the archive file.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Make a note of where you are saving your archive file so that you can locate it easily when needed.
 
 A brief message will display in the toolbar area as the archive is created.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 Brain Archive files are NOT .zip files. You should not use zip file utilities to modify or access your archive files as doing so may corrupt them.
 
@@ -7287,7 +7287,7 @@ You can copy thoughts from the Selection panel into other programs such as Micro
 
 
 
-![](TheBrain14-User-Guide-v01/image370.png)
+![](../thebrain14-user-guide-images/image370.png)
 
 **Figure 310. Copying Thoughts as an Outline**
 
@@ -7295,7 +7295,7 @@ You can copy thoughts from the Selection panel into other programs such as Micro
 
 4. Right-click and then click the **Paste** command on the context menu (or click the **Edit** menu and then click the **Paste** command).
 
-![](TheBrain14-User-Guide-v01/image371.png)
+![](../thebrain14-user-guide-images/image371.png)
 
 **Figure 311. Samples of Outlines Created by Pasting Thoughts from TheBrain**
 
@@ -7343,7 +7343,7 @@ Steve Jobs | Founder of Apple
 
 
 
-![](TheBrain14-User-Guide-v01/image372.png)
+![](../thebrain14-user-guide-images/image372.png)
 
 **Figure 312. Example Thought from Text with a Pipe, Link, and Note**
 
@@ -7351,7 +7351,7 @@ Steve Jobs | Founder of Apple
 
 **Importing Folders and Mind Maps**
 
-![](TheBrain14-User-Guide-v01/image373.png)
+![](../thebrain14-user-guide-images/image373.png)
 
 **Figure 313. Importing Folders and Mind Maps**
 
@@ -7403,7 +7403,7 @@ You can merge two brains together by importing a Brain Archive file (.BRZ):
 
 
 
-![](TheBrain14-User-Guide-v01/image374.png)
+![](../thebrain14-user-guide-images/image374.png)
 
 **Figure 314. Merging Brains**
 
@@ -7411,7 +7411,7 @@ You can merge two brains together by importing a Brain Archive file (.BRZ):
 
 to confirm that you want to continue, since importing a .BRZ file can’t be undone.
 
-![](TheBrain14-User-Guide-v01/image19.png)
+![](../thebrain14-user-guide-images/image19.png)
 
 The only brain that is changed is the one that is open when you begin the merge procedure. The brain you select during step 1 is not changed at all.
 
@@ -7429,13 +7429,13 @@ Encrypted files cannot be searched and can only be decrypted via Windows and mac
 
 1. Right-click the attachment, then click **Encrypt** in the context menu.
 
-![](TheBrain14-User-Guide-v01/image375.png)
+![](../thebrain14-user-guide-images/image375.png)
 
 **Figure 315. After Clicking on the Attachment’s Context Menu**
 
 2. Type in the prompt you want the user to see when they attempt to open the file, type a password, click the check box confirming that the file cannot be opened if the password is lost, then click the **Encrypt** button.
 
-![](TheBrain14-User-Guide-v01/image376.png)
+![](../thebrain14-user-guide-images/image376.png)
 
 **Figure 316. Example Encryption Details**
 
@@ -7443,7 +7443,7 @@ Encrypted files cannot be searched and can only be decrypted via Windows and mac
 
 
 
-![](TheBrain14-User-Guide-v01/image377.png)
+![](../thebrain14-user-guide-images/image377.png)
 
 **Figure 317. Decrypting and Opening the File**
 
@@ -7489,7 +7489,7 @@ o This gives you access to 100% of your data in an open and easily parsed modern
 
 ▪ To export just a portion of your brain, add thoughts first into TheBrain’s Selection panel and then check the option to **Only export the selection** in the **Export** window.
 
-![](TheBrain14-User-Guide-v01/image378.png)
+![](../thebrain14-user-guide-images/image378.png)
 
 **Figure 318. Exporting a Brain to Folders**
 
@@ -7499,7 +7499,7 @@ o This gives you access to 100% of your data in an open and easily parsed modern
 
 TheBrain can now be controlled by a full-featured REST API. Designed for experienced programmers, the API opens up a world of possibilities. Access to a rich set of functions for querying, creating and modifying all types of data is included. Create thoughts automatically in response to events in the real world. Automate processes for moving thoughts through a workflow. Implement custom import/export logic. Control your brain from your watch or with your voice. These are just a few of the applications that are now open to pursue. Get started now at **https://api.bra.in**.
 
-![](TheBrain14-User-Guide-v01/image379.png)
+![](../thebrain14-user-guide-images/image379.png)
 
 **Figure 319. TheBrain API**
 
