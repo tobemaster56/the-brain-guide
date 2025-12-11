@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "TheBarin Manual & Knowledgebase"
-  text: "连接每一个灵感瞬间。TheBarin 用户专属的智慧导航。"
+  text: "Connecting every moment of inspiration. theBarin user-specific smart navigation."
 #  tagline: My great project tagline
   actions:
     - theme: brand
