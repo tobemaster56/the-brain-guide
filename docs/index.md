@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: User Guide
-      link: /zh/user-guide
+      link: /en/user-guide
 #    - theme: alt
 #      text: API Examples
 #      link: /api-examples

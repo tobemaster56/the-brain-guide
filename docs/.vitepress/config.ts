@@ -8,35 +8,35 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'User Guide', link: '/en/user-guide' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'User Guide',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Copy right', link: '/en/user-guide' },
+          { text: 'Introduction', link: '/en/Introduction' },
+          { text: 'Understanding Thought Relationships', link: '/en/Understanding-Thought-Relationships' },
+          { text: 'Navigating Your Brain', link: '/en/Navigating-Your-Brain' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/tobemaster56/the-brain-guide' }
     ]
   },
   locales: {
     root: {
+      label: 'English',
+      lang: 'en',
+      link: '/en/user-guide'
+    },
+    zh: {
       label: '中文',
       lang: 'zh',
       link: '/zh/user-guide'
-    },
-    fr: {
-      label: 'English',
-      lang: 'en', // 可选，将作为 `lang` 属性添加到 `html` 标签中
-      link: '/en/user-guide' // 默认 /fr/ -- 显示在导航栏翻译菜单上，可以是外部的
-
-      // 其余 locale 特定属性...
     }
   }
 })
