@@ -54,9 +54,14 @@ export default defineConfig({
       link: '/en/user-guide'
     },
     zh: {
-      label: '中文',
+      label: '简体中文',
       lang: 'zh',
       link: '/zh/user-guide'
+    },
+    'zh-TW': {
+      label: '繁體中文',
+      lang: 'zh-TW',
+      link: '/zh-TW/user-guide'
     }
   }
 })
