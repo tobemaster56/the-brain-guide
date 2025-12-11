@@ -1,90 +1,86 @@
-# TheBrain Manual & Knowledgebase
+# TheBrain Knowledgebase
 
-> 连接每一个灵感瞬间。TheBrain 用户专属的智慧导航。
+> Connecting every moment of inspiration. TheBrain user-specific smart navigation.
 
-一个基于 [VitePress](https://vitepress.dev/) 构建的 TheBrain 14 用户指南文档站点，帮助用户更好地了解和使用 TheBrain 软件。
+A TheBrain 14 knowledgebase documentation site built on [VitePress](https://vitepress.dev/) to help users better understand and use TheBrain software.
 
-## 功能特性
+English | **[简体中文](./README_zh.md)**
 
-- 📖 **完整用户指南** - 包含 TheBrain 14 Windows 和 macOS 版本的详细使用说明
-- 🔍 **全文搜索** - 快速查找所需内容
-- 📱 **响应式设计** - 支持桌面端和移动端浏览
-- 🌙 **深色模式** - 自动适配系统主题
+## Features
 
-## 快速开始
+- 📖 **Complete User Guide** - Includes detailed instructions for using TheBrain 14 on Windows and macOS
+- 🔍 **Full-Text Search** - Quickly find the content you need
+- 📱 **Responsive Design** - Supports both desktop and mobile browsing
+- 🌙 **Dark Mode** - Automatically adapts to system theme
 
-### 环境要求
+## Quick Start
+
+### Requirements
 
 - Node.js 18+
-- 包管理器：[pnpm](https://pnpm.io/)
+- Package manager: [pnpm](https://pnpm.io/)
 
-### 安装依赖
+### Install Dependencies
 
 ```bash
-# 使用 pnpm
+# Using pnpm
 pnpm install
 ```
 
-### 本地开发
+### Local Development
 
 ```bash
-# 启动开发服务器
+# Start development server
 pnpm dev
 ```
 
-启动后访问 `http://localhost:5173` 查看文档。
+After starting, visit `http://localhost:5173` to view the documentation.
 
-### 构建生产版本
+### Build for Production
 
 ```bash
-# 构建静态站点
+# Build static site
 pnpm build
 
-# 预览构建结果
-bun run serve
-# 或
+# Preview build result
+pnpm serve
+# or
 pnpm preview
 ```
 
-## 项目结构
+## Project Structure
 
 ```
 vitepress-project/
-├── docs/                          # 文档目录
-│   ├── .vitepress/               # VitePress 配置
-│   │   ├── config.ts             # 站点配置
-│   │   └── theme/                # 主题定制
-│   │       ├── index.ts          # 主题入口
-│   │       └── style.css         # 自定义样式
-│   ├── en/                       # 英文文档
-│   │   └── user-guide.md         # 英文用户指南
-│   ├── zh/                       # 中文文档
-│   │   └── user-guide.md         # 中文用户指南
-│   ├── index.md                  # 首页
-│   └── thebrain14-user-guide-images/ # 指南图片资源
-├── .gitignore                    # Git 忽略配置
-├── .markdownlint.json            # Markdown 代码检查配置
-├── package.json                  # 项目依赖配置
-├── pnpm-lock.yaml                # pnpm 锁定文件
-└── README.md                     # 项目说明文档
+├── docs/                          # Documentation directory
+│   ├── .vitepress/               # VitePress configuration
+│   │   ├── config.ts             # Site configuration
+│   │   └── theme/                # Theme customization
+│   │       ├── index.ts          # Theme entry
+│   │       └── style.css         # Custom styles
+│   ├── en/                       # English documentation
+│   │   └── user-guide.md         # English user guide
+│   ├── zh/                       # Chinese documentation
+│   │   └── user-guide.md         # Chinese user guide
+│   ├── index.md                  # Homepage
+│   └── thebrain14-user-guide-images/ # Guide image assets
+├── .gitignore                    # Git ignore configuration
+├── .markdownlint.json            # Markdown linting configuration
+├── package.json                  # Project dependencies
+├── pnpm-lock.yaml                # pnpm lock file
+└── README.md                     # Project documentation
 ```
 
-## 文档内容
+## Roadmap
 
-本站点包含 TheBrain 14 的完整用户指南，涵盖：
+- [x] Documentation site setup complete
+- [ ] Split large English documents into smaller ones
+- [ ] English documentation proofreading
+- [ ] Complete Simplified Chinese and Traditional Chinese translations with AI assistance
+- [ ] Collect and showcase interesting user cases
 
-- TheBrain 简介与核心概念
-- Thought（思想）关系理解
-- Brain 导航与搜索
-- 环境自定义与主题设置
-- Thought 创建与管理
-- 附件、链接与事件
-- AI 功能使用
-- 同步与协作
-- 更多高级功能...
+## Copyright
 
-## 版权信息
+TheBrain User Guide content ©2024 TheBrain Technologies LP. All rights reserved.
 
-TheBrain 用户指南内容 ©2024 TheBrain Technologies LP. 保留所有权利。
-
-TheBrain、PersonalBrain、Brain、Thought 等为 TheBrain Technologies LP 的商标或注册商标。
+TheBrain, PersonalBrain, Brain, Thought, etc. are trademarks or registered trademarks of TheBrain Technologies LP.
