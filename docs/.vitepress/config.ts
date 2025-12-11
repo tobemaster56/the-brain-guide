@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TheBarin Manual & Knowledgebase",
-  description: "连接每一个灵感瞬间。TheBarin 用户专属的智慧导航。",
+  title: "TheBarin Knowledgebase",
+  description: "Connecting every moment of inspiration. theBarin user-specific smart navigation.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "TheBarin Manual & Knowledgebase"
+  name: "TheBarin Knowledgebase"
   text: "Connecting every moment of inspiration. theBarin user-specific smart navigation."
 #  tagline: My great project tagline
   actions:
