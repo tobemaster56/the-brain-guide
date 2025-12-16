@@ -1,4 +1,4 @@
-## **Introduction**
+**Introduction**
 
 Welcome to TheBrain™, your ultimate digital memory and no limits mind mapping software. Intelligence comes from the mind’s ability to think associatively—that is, to leap from thought to thought, building webs of greater and greater complexity, until new ideas are built. Associations are our inspirations. TheBrain allows you to organize your information in the same way, without limiting you to a pre-
 
@@ -12,67 +12,67 @@ Thoughts contain relevant notes, web pages, and files. Brains can be synced for 
 
 **Figure 1. TheBrain Interface**
 
-**Thoughts are Information**
+## **Thoughts are Information**
 
-TheBrain thoughts can represent just about any type of information, including concepts, people, documents, spreadsheets, images, videos, shortcuts, and web
-
-
-pages. By letting you create links and associations between thoughts, TheBrain expands to become a visual interface that reflects the way you think.
+TheBrain thoughts can represent just about any type of information, including concepts, people, documents, spreadsheets, images, videos, shortcuts, and web pages. By letting you create links and associations between thoughts, TheBrain expands to become a visual interface that reflects the way you think.
 
 Using simple click-and-drag techniques, you’ll be able to create and navigate through networks of thoughts in a conceptual space unique to your work habits. When you begin using TheBrain, you will find that your computer becomes easier to use—faster, more enjoyable, and less frustrating—helping you use your time more efficiently.
 
-**TheBrain’s Dynamic Graphical Interface**
+## **TheBrain’s Dynamic Graphical Interface**
 
 TheBrain lets you create a simple, dynamic graphical map in which to input and navigate all your information. Your brain starts with a single thought, to which several other thoughts can be visually linked. These thoughts have their own links to other thoughts and, possibly, to each other. TheBrain’s flexible structure allows any thought to be linked to any other thought, so you are never more than a few steps away from the information you are seeking. It’s simple to make connections between thoughts so that they reflect the connections you make in your mind.
 
-**Cross Platform Accessibility**
+## **Cross Platform Accessibility**
 
-Brain data is accessible from virtually any device with rich full-featured clients on Windows and macOS plus mobile clients for iOS and Andou can access your brain via a web browser by logging in at
-
-TheBrain’s sync service keeps all your data backed up and synchronized over
-
+Brain data is accessible from virtually any device with rich full-featured clients on Windows and macOS plus mobile clients for iOS and Android. Additionally, you 
+can access your brain via a web browser by logging in at [www.thebrain.com](https://www.thebrain.com). TheBrain’s sync service keeps all your data backed up and synchronized over
 the cloud for seamless access.
 
-ocused on the Windows and macOS software. Please visit for information about the mobile clients.
+This user guide is focused on the Windows and macOS software. Please visit [www.thebrain.com](https://www.thebrain.com) for information about the mobile clients.
 
-**About this Guide**
+
+## **About this Guide**
 
 The following icons are used throughout this guide to flag categories of information:
 
-![](../thebrain14-user-guide-images/image3.png)
+[//]: # (![]&#40;../thebrain14-user-guide-images/image3.png&#41;  This icon is used to identify notes.)
 
-This icon is used to identify notes.
+<IconLabel icon="../thebrain14-user-guide-images/image3.png">
+	This icon is used to identify notes.
+</IconLabel>
 
-![](../thebrain14-user-guide-images/image4.png)
+[//]: # (![]&#40;../thebrain14-user-guide-images/image4.png&#41; This icon is used to flag tips and suggestions.)
 
-This icon is used to flag tips and suggestions.
+<IconLabel icon="../thebrain14-user-guide-images/image4.png">
+	This icon is used to flag tips and suggestions.
+</IconLabel>
 
 TheBrain is offered in two editions—Free and Pro. Icons are used throughout the guide to flag features that are specific to the Pro edition. Features that are available in **both** editions are not designated with a special icon.
 
 
-![](../thebrain14-user-guide-images/image5.png)
+[//]: # (![]&#40;../thebrain14-user-guide-images/image5.png&#41; This icon is used to indicate that the feature is available in the Pro edition only.)
 
-This icon is used to indicate that the feature is available in the Pro edition only.
+<IconLabel icon="../thebrain14-user-guide-images/image5.png">
+	This icon is used to indicate that the feature is available in the Pro edition only.
+</IconLabel>
 
 Because TheBrain works on Windows and macOS, OS-specific features are flagged with icons throughout the guide. Features that are available for **both** Operating Systems are not designated with a special icon.
 
-This icon is used to indicate that the information applies only to computers
+<IconLabel icon="../thebrain14-user-guide-images/image6.png">
+	This icon is used to indicate that the information applies only to computers running macOS.
+</IconLabel>
 
-![](../thebrain14-user-guide-images/image6.png)
 
-running macOS.
+<IconLabel icon="../thebrain14-user-guide-images/image7.png">
+	This icon is used to indicate that the information applies only to computers running Windows.
+</IconLabel>
 
-This icon is used to indicate that the information applies only to computers
-
-![](../thebrain14-user-guide-images/image7.png)
-
-running Windows.
 
 In addition:
 
-**Labels**Names of buttons, menus, commands, keys, and icons appear in **this font** throughout the guide in order to stand out.
+**Labels** Names of buttons, menus, commands, keys, and icons appear in **this font** throughout the guide in order to stand out.
 
-**Note to macOS Users**
+## **Note to macOS Users**
 
 **Right-clicking:** Most features in TheBrain can be accessed with just a single
 
@@ -92,7 +92,7 @@ key while you click. Note that many mice can be set up to interpret clicks on ea
 
 TheBrain supports Native Apple Silicon.
 
-**Brain Terminologies**
+## **Brain Terminologies**
 
 ![](../thebrain14-user-guide-images/image8.png)
 
@@ -208,7 +208,7 @@ When you point at a gate, a highlighting circle appears around it.
 **Figure 7. Thought Gates**
 
 
-**Installing TheBrain and Creating a Brain Account**
+## **Installing TheBrain and Creating a Brain Account**
 
 The first time you download and install TheBrain, you’ll be prompted to log in or create an account if you don’t already have one. The log-in window provides the ability to create a new account or log in to an existing account.
 
@@ -257,7 +257,7 @@ command on TheBrain
 
 menu.
 
-**Opening Older Brains**
+## **Opening Older Brains**
 
 When you’re looking at old and new brain files, note that brains created in
 
@@ -311,7 +311,7 @@ keys.
 
 **Figure 14. Open the Imported Brain in a New Tab**
 
-**Suggestions for Transitioning to Your New Brain**
+## **Suggestions for Transitioning to Your New Brain**
 
 Here are some tips for establishing a happy relationship with your brain:
 

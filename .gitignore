@@ -23,4 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-docs/.vitepress/cache
+docs/.vitepress
+!docs/.vitepress/theme
+!docs/.vitepress/config.ts
