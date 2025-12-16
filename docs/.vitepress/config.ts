@@ -39,6 +39,7 @@ export default defineConfig({
           { text: 'Exporting', link: '/en/Exporting' },
           { text: 'TheBrain API', link: '/en/TheBrain-API' },
           { text: 'Glossary', link: '/en/Glossary' },
+          { text: 'Download', link: '/en/download' },
         ]
       }
     ],
