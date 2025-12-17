@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "TheBarin Knowledgebase"
-  text: "Connecting every moment of inspiration. theBarin user-specific smart navigation."
+  tagline: "Connecting every moment of inspiration. TheBarin user-specific smart navigation."
 #  tagline: My great project tagline
   actions:
     - theme: brand
       text: User Guide
       link: /en/user-guide
-#    - theme: alt
-#      text: API Examples
-#      link: /api-examples
+    - theme: alt
+      text: TheBrain Official Site
+      link: https://www.thebrain.com
 
 #features:
 #  - title: Feature A
