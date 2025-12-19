@@ -1,6 +1,6 @@
 ## **Share, Synchronize, and Back Up Your Brains**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 You can use TheBrain Cloud to publish and share your brain. People can view your published brains whether or not TheBrain is installed on their machines.
 
@@ -8,19 +8,19 @@ You can use TheBrain Cloud to publish and share your brain. People can view your
 
 1. Go to then click the **Log In** button in the top-right area
 
-![](../thebrain14-user-guide-images/image360.png)
+![](../public/thebrain14-user-guide-images/image360.png)
 
 **Figure 300. Sign Up Button**
 
 2. Click the **Sign up** button.
 
-![](../thebrain14-user-guide-images/image361.png)
+![](../public/thebrain14-user-guide-images/image361.png)
 
 **Figure 301. Login Button**
 
 3. Complete all fields in the **Sign Up** form, then click the **Sign Up** button. You will see a message explaining that a confirmation notice has been sent to the email address you provided. When you receive the message, follow its instructions to click the link and activate your account.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Allow a few minutes for the email to be delivered. Check your spam folder if the message doesn’t arrive within a reasonable amount of time.
 
@@ -33,11 +33,11 @@ With TheBrain and TheBrain Cloud Services you can use your brain on multiple com
 
 Cloud synchronization is protected using 128-bit AES Encryption. (This is the same encryption used by the US government to protect classified information.)
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Port 443 is used for encrypted syncs. If your IT staff is using a firewall, you can ask them to add WebBrain.com and api.thebrain.com to the white list of your company's firewall. If your IT staff is using a proxy, you will need to try setting up a Proxy connection via TheBrain by using the options found in TheBrain’s Preferences > System tab.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Make sure you have created an account on TheBrain.com before you begin synchronizing. Some Cloud services require a subscription fee.
 
@@ -45,18 +45,18 @@ Make sure you have created an account on TheBrain.com before you begin synchroni
 
 1. Open the brain you wish to sync. Click the cloud icon in the menu bar, or click the **Online** menu, then click the **Sync Brain** command.
 
-![](../thebrain14-user-guide-images/image362.png)
+![](../public/thebrain14-user-guide-images/image362.png)
 
 **Figure 302. The Cloud Icon in the TheBrain Toolbar**
 
 
-![](../thebrain14-user-guide-images/image363.png)
+![](../public/thebrain14-user-guide-images/image363.png)
 
 **Figure 303. Sync Brain Command**
 
 2. Click the **Upload** button to upload this local brain.
 
-![](../thebrain14-user-guide-images/image364.png)
+![](../public/thebrain14-user-guide-images/image364.png)
 
 **Figure 304. Confirming Upload**
 
@@ -64,7 +64,7 @@ Make sure you have created an account on TheBrain.com before you begin synchroni
 
 You can keep working while the synchronization process is continuing in the
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 background. If there is an interruption during an initial upload of your brain, TheBrain will offer to resume from where it was stopped the next time you synchronize.
 
@@ -72,7 +72,7 @@ background. If there is an interruption during an initial upload of your brain, 
 
 **Download** button when it appears.
 
-![](../thebrain14-user-guide-images/image365.png)
+![](../public/thebrain14-user-guide-images/image365.png)
 
 **Figure 305. Download for Local Use**
 
@@ -85,7 +85,7 @@ sync. To turn this feature off, click the **Sync Status** button next to the Clo
 
 in the tool bar.
 
-![](../thebrain14-user-guide-images/image366.png)
+![](../public/thebrain14-user-guide-images/image366.png)
 
 **Figure 306. The Sync Status Button**
 
@@ -97,7 +97,7 @@ Brain thumbnails in your list of available brains will indicate if a brain is lo
 
 local and online (synced) or online only.
 
-![](../thebrain14-user-guide-images/image367.png)
+![](../public/thebrain14-user-guide-images/image367.png)
 
 **Figure 307. Brain Location Indicators**
 
@@ -122,7 +122,7 @@ activities:
 
 - Add Attachments
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 You can only edit brains that YOU own.
 
@@ -178,12 +178,12 @@ is viewed. It will be the first thought your viewers see.
 
 command
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 The current wallpaper and color theme will be included in your published brain.
 
 
-![](../thebrain14-user-guide-images/image368.png)
+![](../public/thebrain14-user-guide-images/image368.png)
 
 **Figure 308. Brain Access and Public URL**
 
@@ -198,19 +198,19 @@ You can send your brain as an email attachment. To make the attachment as small 
 2. In the **Backup to Brain Archive** dialog box, select either of the Access Control options.
 
 
-![](../thebrain14-user-guide-images/image369.png)
+![](../public/thebrain14-user-guide-images/image369.png)
 
 **Figure 309. Create Brain Archive Options**
 
 3. If necessary, click the **Change** button to change the file name or the folder where the archive file will be saved. Do not change the filename extension, which is .BRZ. Click the **Backup** button to create the archive file.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Make a note of where you are saving your archive file so that you can locate it easily when needed.
 
 A brief message will display in the toolbar area as the archive is created.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Brain Archive files are NOT .zip files. You should not use zip file utilities to modify or access your archive files as doing so may corrupt them.
 
@@ -225,7 +225,7 @@ You can copy thoughts from the Selection panel into other programs such as Micro
 2. Right click in the Selection panel and then click the **Copy as Text Outline** command.
 
 
-![](../thebrain14-user-guide-images/image370.png)
+![](../public/thebrain14-user-guide-images/image370.png)
 
 **Figure 310. Copying Thoughts as an Outline**
 
@@ -233,7 +233,7 @@ You can copy thoughts from the Selection panel into other programs such as Micro
 
 4. Right-click and then click the **Paste** command on the context menu (or click the **Edit** menu and then click the **Paste** command).
 
-![](../thebrain14-user-guide-images/image371.png)
+![](../public/thebrain14-user-guide-images/image371.png)
 
 **Figure 311. Samples of Outlines Created by Pasting Thoughts from TheBrain**
 
@@ -279,6 +279,6 @@ Steve Jobs | Founder of Apple
 ---
 
 
-![](../thebrain14-user-guide-images/image372.png)
+![](../public/thebrain14-user-guide-images/image372.png)
 
 **Figure 312. Example Thought from Text with a Pipe, Link, and Note**

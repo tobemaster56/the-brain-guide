@@ -1,6 +1,6 @@
 ## **Customizing Thought and Link Properties**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 You can change the colors of thoughts and links globally using the **Brain Theme** dialog box (see the Customizing a Brain’s Appearance section on page
 
@@ -22,7 +22,7 @@ and selected thoughts and links. Changed settings override the global defaults.
 
 - Click the thought to select it, click the **Thought** menu in the menu bar, then click the **Show Thought Properties** command
 
-![](../thebrain14-user-guide-images/image144.png)
+![](../public/thebrain14-user-guide-images/image144.png)
 
 **Figure 122. Thought Properties Dialog Box**
 
@@ -71,7 +71,7 @@ these settings for individual thoughts. To begin, activate the thought, then cli
 
 on it or **Alt-**click on any inactive thought.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Note that the individual changes you may make to thoughts, such as their color
 
@@ -83,7 +83,7 @@ and background, override the settings in the **Brain Theme** box.
 
 your choice, then click outside of the box of colors.
 
-![](../thebrain14-user-guide-images/image145.png)
+![](../public/thebrain14-user-guide-images/image145.png)
 
 **Figure 123. Text Color in the Thought Properties Dialog Box**
 
@@ -92,7 +92,7 @@ your choice, then click outside of the box of colors.
 
 - Click the lower color square, click the color of your choice, then click outside of the box of colors.
 
-![](../thebrain14-user-guide-images/image146.png)
+![](../public/thebrain14-user-guide-images/image146.png)
 
 **Figure 124. Background Color in the Thought Properties Dialog Box**
 
@@ -100,13 +100,13 @@ your choice, then click outside of the box of colors.
 
 - Click the double-headed arrow next to the two color sample squares in the top-right area of the **Thought Properties** dialog box.
 
-![](../thebrain14-user-guide-images/image147.png)
+![](../public/thebrain14-user-guide-images/image147.png)
 
 **Figure 125. Swapping Text and Background Colors**
 
 You can use the same techniques to fine-tune new colors for thought text and
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 background as you can use to define colors globally in the
 
@@ -119,7 +119,7 @@ box. Please see the Defining and Selecting Additional Colors section on page 45 
 Labels are hints that appear below thoughts when you point the mouse at the thought.
 
 
-![](../thebrain14-user-guide-images/image148.png)
+![](../public/thebrain14-user-guide-images/image148.png)
 
 **Figure 126. A Thought Label**
 
@@ -127,7 +127,7 @@ Labels are hints that appear below thoughts when you point the mouse at the thou
 
 1. While typing a new thought name, add a pipe symbol (|) and anything after will become the thought’s label.
 
-![](../thebrain14-user-guide-images/image149.png)
+![](../public/thebrain14-user-guide-images/image149.png)
 
 **Figure 127. Adding a Pipe Symbol During Thought Naming**
 
@@ -137,7 +137,7 @@ Labels are hints that appear below thoughts when you point the mouse at the thou
 
 2. Type the text for the label in the **Label** field, then press the **Enter** key. When you point at the thought, the label text will appear in a box below the thought.
 
-![](../thebrain14-user-guide-images/image150.png)
+![](../public/thebrain14-user-guide-images/image150.png)
 
 **Figure 128. Label Field in Thought Properties Dialog Box**
 
@@ -146,7 +146,7 @@ Labels are hints that appear below thoughts when you point the mouse at the thou
 You can swap a thought’s name with its label by clicking the **Switch** button (double sided arrow) in the **ThoughtProperties** dialog box. This can be very useful when the default label and name are assigned based on a URL and the automatic naming isn’t optimal for your purposes.
 
 
-![](../thebrain14-user-guide-images/image151.png)
+![](../public/thebrain14-user-guide-images/image151.png)
 
 **Figure 129. Swapping Label and Thought Names**
 
@@ -154,7 +154,7 @@ You can swap a thought’s name with its label by clicking the **Switch** button
 
 In any thought, you can attach an icon from TheBrain’s built-in selection, an image from a file of your own, an image from notes or attachments in the active thought, or a screen capture. These pictures provide a visual boost to your brain. When you point to the icon next to the thought, the picture zooms to a larger size automatically.
 
-![](../thebrain14-user-guide-images/image152.png)
+![](../public/thebrain14-user-guide-images/image152.png)
 
 **Figure 130. A Thought Icon**
 
@@ -162,14 +162,14 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 1. Click the thought icon box in the upper left of the **Thought Properties** box, then click the **Select Stock Icon** command.
 
-![](../thebrain14-user-guide-images/image153.png)
+![](../public/thebrain14-user-guide-images/image153.png)
 
 **Figure 131. Select an Icon from the Built-in Library**
 
 2. With the Browse radio button selected, click any of the categories in the left panel. (See the TheBrain Icons section on page 236 for more about icon choices.) Click an icon of your choice to add it to the thought. The **Thought Properties** dialog box will close automatically when an icon is selected.
 
 
-![](../thebrain14-user-guide-images/image154.png)
+![](../public/thebrain14-user-guide-images/image154.png)
 
 **Figure 132. Icon Choices**
 
@@ -177,7 +177,7 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 1. Click the thought icon box, then click the **Choose File** command.
 
-![](../thebrain14-user-guide-images/image155.png)
+![](../public/thebrain14-user-guide-images/image155.png)
 
 **Figure 133. Choose a File to Use as an Icon**
 
@@ -186,7 +186,7 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 **To create a thought icon from an image in the Content Area:** - Click the image to select it, right-click it, then click the **Copy to Icon** command in the context menu.
 
 
-![](../thebrain14-user-guide-images/image156.png)
+![](../public/thebrain14-user-guide-images/image156.png)
 
 **Figure 134. Copy to Icon Command in the Image’s Context Menu**
 
@@ -194,14 +194,14 @@ In any thought, you can attach an icon from TheBrain’s built-in selection, an 
 
 - Right-click the attachment, then click the **Copy to Icon** command in the context menu.
 
-![](../thebrain14-user-guide-images/image157.png)
+![](../public/thebrain14-user-guide-images/image157.png)
 
 **Figure 135. Copy to Icon Command in the Attachment’s Context Menu**
 
 The new icon will appear to the left of the thought name at the top of the content area and on the active thought in the plex.
 
 
-![](../thebrain14-user-guide-images/image158.png)
+![](../public/thebrain14-user-guide-images/image158.png)
 
 **Figure 136. Thought with its New Icon**
 
@@ -211,20 +211,20 @@ The new icon will appear to the left of the thought name at the top of the conte
 
 2. Click the thought icon box, then click the **Capture Image** command.
 
-![](../thebrain14-user-guide-images/image159.png)
+![](../public/thebrain14-user-guide-images/image159.png)
 
 **Figure 137. Capture Something on the Screen to Use as an Icon**
 
 3. Your brain will be hidden temporarily and red cross hairs will appear on the screen. Drag a rectangle around the area to be captured by dragging the mouse in a diagonal line from one corner of the rectangle to the opposite corner, then releasing the mouse button.
 
 
-![](../thebrain14-user-guide-images/image160.png)
+![](../public/thebrain14-user-guide-images/image160.png)
 
 **Figure 138. Using the Crosshair to Capture an Image**
 
 4. When you release the mouse, the image will be in the Icon area of the **Thought Properties** dialog box.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -234,7 +234,7 @@ To capture from the Brain window itself, press the
 
 key to toggle its visibility. You will see the crosshairs and you can drag to select the area of your choice.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 While the captured item will become a picture, the source can be anything―a company logo, a photo, or part of an Excel worksheet or PDF file.
 
@@ -245,19 +245,19 @@ While the captured item will become a picture, the source can be anything―a co
 2. After the image is copied, from the **Thought Properties** dialog box, click the thought icon box or right-click on a thought in the plex and select the **Paste Icon** command.
 
 
-![](../thebrain14-user-guide-images/image161.png)
+![](../public/thebrain14-user-guide-images/image161.png)
 
 **Figure 139. Capture Something You’ve Copied to Use as an Icon**
 
 **To copy an image from the thought to someplace else:**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Images you capture can be copied and pasted as attachments, pasted into notes or the plex, or used as icons.
 
 1. Click the thought icon box, then click the **Copy Icon** command.
 
-![](../thebrain14-user-guide-images/image162.png)
+![](../public/thebrain14-user-guide-images/image162.png)
 
 **Figure 140. Copy the Icon to Use Elsewhere**
 
@@ -272,7 +272,7 @@ To change a thought’s icon, repeat the steps above. The icon will be replaced.
 - Click the thought icon box, then click the **Delete Icon** command.
 
 
-![](../thebrain14-user-guide-images/image163.png)
+![](../public/thebrain14-user-guide-images/image163.png)
 
 **Figure 141. Removing a Thought Icon**
 
@@ -282,7 +282,7 @@ All inherited properties, such as from a thought type’s icon, label or colors,
 
 Thought types or tags are also clearly indicated.
 
-![](../thebrain14-user-guide-images/image164.png)
+![](../public/thebrain14-user-guide-images/image164.png)
 
 **Figure 142. Properties Dialog Improvements**
 
@@ -291,7 +291,7 @@ Thought types or tags are also clearly indicated.
 Thoughts may be marked “Private.” Private thoughts will appear with a small lock icon shown below and to the right of the thought. The lock appears whether the Private thought is active or not. If you make your brain publicly viewable on the web, private thoughts remain hidden from view by read only visitors. To mark a thought as “Private,” click the lock icon in the **Thought Properties** dialog box.
 
 
-![](../thebrain14-user-guide-images/image165.png)
+![](../public/thebrain14-user-guide-images/image165.png)
 
 **Figure 143. A Private Thought**
 
@@ -299,7 +299,7 @@ Thoughts may be marked “Private.” Private thoughts will appear with a small 
 
 Each thought in TheBrain is available via a unique URL. A thought URL can be used to create links to thoughts from external third-party applications or from other brains. Thought URLs can also be used within TheBrain as another way to connect thoughts via links within notes or as attachments to thoughts.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Thought URLs can be added as hyperlinks in many third-party applications so that when the link is activated, TheBrain will go to the referenced thought.
 
@@ -307,7 +307,7 @@ Thought URLs can be added as hyperlinks in many third-party applications so that
 
 - Right-click the thought (or click the **Edit** menu), then click the **Copy Local** **Thought URL** command.
 
-![](../thebrain14-user-guide-images/image166.png)
+![](../public/thebrain14-user-guide-images/image166.png)
 
 **Figure 144. Copying a Thought URL**
 
@@ -318,7 +318,7 @@ Thought URLs can be added as hyperlinks in many third-party applications so that
 
 2. Click **Add Attachment** and select the **Paste Web Link** command. The URL will be added to the thought as an attachment.
 
-![](../thebrain14-user-guide-images/image167.png)
+![](../public/thebrain14-user-guide-images/image167.png)
 
 **Figure 145. Pasting a Thought URL**
 
@@ -337,11 +337,11 @@ Thought URLs can be added as hyperlinks in many third-party applications so that
 When you click the link, the thought will open and you can click its attachment(s) to view them in the content area.
 
 
-![](../thebrain14-user-guide-images/image168.png)
+![](../public/thebrain14-user-guide-images/image168.png)
 
 **Figure 146. Inserting a Hyperlink in a Note**
 
-![](../thebrain14-user-guide-images/image5.png)
+![](../public/thebrain14-user-guide-images/image5.png)
 
 **Thought Types and Tags**
 
@@ -353,13 +353,13 @@ represent people in your brain. This type might have a label— “Person”—a
 
 Type thoughts can be edited by activating them and using the **Thought**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 **Properties**
 
 dialog box, just as you would for any other thought. You can assign attributes, such as icons, notes, and attachments, to type thoughts.
 
-![](../thebrain14-user-guide-images/image169.png)
+![](../public/thebrain14-user-guide-images/image169.png)
 
 **Figure 147. Three “Person” Type Thoughts**
 
@@ -376,7 +376,7 @@ Thought Types can be created from the **Activate Type** button in the main toolb
 
 2. Select New Type
 
-![](../thebrain14-user-guide-images/image170.png)
+![](../public/thebrain14-user-guide-images/image170.png)
 
 **Figure 148. Creating a New Thought Type**
 
@@ -391,7 +391,7 @@ To create a thought type from within the plex:
 4. If you used the context menu to create the new type, the type will appear as a thought in the plex. Type thoughts are special and have an oval border when active and inactive to distinguish them from other thoughts.
 
 
-![](../thebrain14-user-guide-images/image171.png)
+![](../public/thebrain14-user-guide-images/image171.png)
 
 **Figure 149. An Active Type Thought (“Person”)**
 
@@ -412,19 +412,19 @@ Enter the Type’s name in the Search box as you would to search for any other k
 
 matching result in the drop-down list.
 
-![](../thebrain14-user-guide-images/image172.png)
+![](../public/thebrain14-user-guide-images/image172.png)
 
 OR
 
 Activate any thought associated with that type, and click on the Parent thought Type if it is visible.
 
-![](../thebrain14-user-guide-images/image173.png)
+![](../public/thebrain14-user-guide-images/image173.png)
 
 OR
 
 Click the **Activate Type** button in the menu bar, then click the type of your choice or begin typing the name of the type to locate it quickly if the list is long.
 
-![](../thebrain14-user-guide-images/image174.png)
+![](../public/thebrain14-user-guide-images/image174.png)
 
 Click the active Type thought to open its **Thought**
 
@@ -526,7 +526,7 @@ Copy and paste type thoughts from one brain to another
 the same way you copy and paste other thoughts.
 
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -544,7 +544,7 @@ Attributes that are assigned to a thought type are inherited by all instances of
 
 “Person,” you can assign an icon of a smiley face to the Person type and it will
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 appear next the Jane thought and all other instances of the Person type. But, if you then assign a picture of Jane as the icon for that thought, the picture will appear on that thought (only) instead of the smiley face. Likewise, a label assigned to a specific thought would override the label of any thought type assigned to that thought.
 
@@ -554,7 +554,7 @@ TheBrain supports multiple levels of types for advanced modeling. Just like a th
 
 Super types can be used when there is a category of thoughts which is a subset of a larger category. For example, the thought type “Person” could be the super type of the type “Executive.”
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 To see how to find groups of thoughts that share one or more of the same Type, please see the Producing Reports section beginning on page 218.
 
@@ -571,11 +571,11 @@ To set up a dynamic wallpaper:
 3. Navigate through your machine to locate the desired wallpaper image and click Open.
 
 
-![](../thebrain14-user-guide-images/image175.png)
+![](../public/thebrain14-user-guide-images/image175.png)
 
 **Figure 150. Setting Up Dynamic Wallpaper on a Thought Type**
 
-![](../thebrain14-user-guide-images/image176.png)
+![](../public/thebrain14-user-guide-images/image176.png)
 
 **Figure 151. Navigating to a Thought with a Dynamic Wallpaper assigned to its Type**
 
@@ -587,7 +587,7 @@ If there are multiple attributes you would like to add to your thoughts, you can
 
 Tag thoughts can be edited by activating them and using the **Thought**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 **Properties**
 
@@ -596,7 +596,7 @@ dialog box, just as you would for any other thought. You can assign attributes, 
 
 Thoughts can have one or many Tags at the same time. Tag thoughts are global for a brain and displaying Tag text and icons can be toggled on and off in the **Look & Feel** tab of the **Preferences** window.
 
-![](../thebrain14-user-guide-images/image177.png)
+![](../public/thebrain14-user-guide-images/image177.png)
 
 **Figure 152. A Thought with a Tag**
 
@@ -610,13 +610,13 @@ Alternatively, you can right-click the thought, click the **Set Tags** command, 
 
 3. Press the **Enter** key. Click outside of the Tags list to close it, then click outside of the **Thought Properties** dialog box to close it. The new Tag will be attached to the active thought.
 
-![](../thebrain14-user-guide-images/image178.png)
+![](../public/thebrain14-user-guide-images/image178.png)
 
 **Figure 153. Creating a New Tag**
 
 Alternatively, you can right-click the thought or click the **Thought** menu, click
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 the
 
@@ -633,7 +633,7 @@ command and start typing a name for your new Tag. Press the
 key when you’ve finished.
 
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 You can also assign one or more Tags to a thought (regular or Type thoughts) while you’re creating the thought by clicking the
 
@@ -655,7 +655,7 @@ You can assign and remove Tags using the same general technique as for creating 
 
 As shown below, currently assigned Tags are preceded with a check mark. Click an assigned Tag to remove it and click any Tag in the list to assign it to the active thought. This makes it easy to assign and remove multiple Tags at a time.
 
-![](../thebrain14-user-guide-images/image179.png)
+![](../public/thebrain14-user-guide-images/image179.png)
 
 **Figure 154. Assigning and Removing Tags**
 
@@ -668,7 +668,7 @@ If you want to assign Tags to multiple thoughts at once, first select them, then
 1. Click the **Tags** button on the toolbar, then click the Tag of your choice to activate it.
 
 
-![](../thebrain14-user-guide-images/image180.png)
+![](../public/thebrain14-user-guide-images/image180.png)
 
 **Figure 155. Opening the Tags List**
 
@@ -683,13 +683,13 @@ If you want to assign Tags to multiple thoughts at once, first select them, then
 2. **Ctrl**-click each Tag you want to delete. The Tag is added to the **Selection** tab to the left of the list.
 
 
-![](../thebrain14-user-guide-images/image181.png)
+![](../public/thebrain14-user-guide-images/image181.png)
 
 **Figure 156. Deleting Multiple Tags List**
 
 3. When all the Tags you want to delete are selected, right-click in the Selection tab, then click the **Delete (#) Thoughts** command. (Remember that Tags are also thoughts themselves.)
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Unlike normal thoughts, Tags cannot be forgotten and remembered. Deleting a Tag removes it from your entire brain permanently.
 
@@ -701,7 +701,7 @@ You can change the properties of Tags, just as you change the properties of regu
 
 2. You can make the same customizations as you can to any thought while you’re in the Tag’s **Thought Properties** dialog box. When you’re finished making revisions, press the **Enter** key.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Renaming a Tag changes the Tag throughout your entire brain.
 
@@ -718,16 +718,16 @@ Along with adding icons to Tags and customizing their names with color, you can 
 
 In the **Look & Feel** tab of the **Preferences** window, you can change the Tags
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 text setting to “Show always” if you want the abbreviations to show. Hovering over a thought with Abbreviated Tags or Tag icons will then display the full Tag name.
 
-![](../thebrain14-user-guide-images/image182.png)
+![](../public/thebrain14-user-guide-images/image182.png)
 
 **Figure 157. Tag Icons and Abbreviations**
 
 
-![](../thebrain14-user-guide-images/image183.png)
+![](../public/thebrain14-user-guide-images/image183.png)
 
 **Figure 158. Pointing at a Thought Hides the Abbreviation and Shows the Full Name**
 
@@ -735,7 +735,7 @@ text setting to “Show always” if you want the abbreviations to show. Hoverin
 
 - In the Tag’s **Thought Properties** dialog box, type the abbreviation in the field below the Tag’s name, then press the **Enter** key.
 
-![](../thebrain14-user-guide-images/image184.png)
+![](../public/thebrain14-user-guide-images/image184.png)
 
 **Figure 159. Creating a Tag Abbreviation**
 
@@ -745,7 +745,7 @@ text setting to “Show always” if you want the abbreviations to show. Hoverin
 
 Types and tags can be visible in the plex. Want to see a type or tag as a child thought? Just link any existing type or tag thought as a child, or as a jump. Optionally, types are visible as parent thoughts as well.
 
-![](../thebrain14-user-guide-images/image185.png)
+![](../public/thebrain14-user-guide-images/image185.png)
 
 **Figure 160. Visible Parent Type and Child Tag**
 
@@ -766,7 +766,7 @@ thought type and uncheck the option for **Visible when Parent of Active**
 
 **Thought**
 
-![](../thebrain14-user-guide-images/image186.png)
+![](../public/thebrain14-user-guide-images/image186.png)
 
 **Figure 161. Toggling the Visibility of a Thought Type**
 
@@ -780,7 +780,7 @@ You easily change a normal thought into a type or tag at any time:
 
 - Right-click on a thought and select **Convert to Type or Tag**
 
-![](../thebrain14-user-guide-images/image187.png)
+![](../public/thebrain14-user-guide-images/image187.png)
 
 **Figure 162. Convert to Type or Tag**
 
@@ -799,7 +799,7 @@ You can easily move a thought through a project cycle or simply re-classify its 
 
 - Select the option **Replace Tag with** and select another tag.
 
-![](../thebrain14-user-guide-images/image188.png)
+![](../public/thebrain14-user-guide-images/image188.png)
 
 **Figure 163. Replacing a Tag**
 
@@ -816,7 +816,7 @@ another tag
 - Nesting can include multiple tags and multiple layers
 
 
-![](../thebrain14-user-guide-images/image189.png)
+![](../public/thebrain14-user-guide-images/image189.png)
 
 **Figure 164. Nested Tags**
 
@@ -839,7 +839,7 @@ Just as each thought has its own **Thought Properties** dialog box, each link ha
 - Click the link to select it, click the **Link** menu in the menu bar, then click the **Properties** command
 
 
-![](../thebrain14-user-guide-images/image190.png)
+![](../public/thebrain14-user-guide-images/image190.png)
 
 **Figure 165. Link Properties Dialog Box**
 
@@ -847,7 +847,7 @@ Just as each thought has its own **Thought Properties** dialog box, each link ha
 
 1. Open the **Link Properties** dialog box for the link, then type a label name in the **Label** field.
 
-![](../thebrain14-user-guide-images/image191.png)
+![](../public/thebrain14-user-guide-images/image191.png)
 
 **Figure 166. Adding a Label to a Link**
 
@@ -858,11 +858,11 @@ Just as each thought has its own **Thought Properties** dialog box, each link ha
 1. Open the **Link Properties** dialog box for the link, then click the color box. 2. Click the color of your choice in the color palette, click outside of the palette to close it, then press the **Enter** key, or click outside of the **Link Properties** dialog box to close it.
 
 
-![](../thebrain14-user-guide-images/image192.png)
+![](../public/thebrain14-user-guide-images/image192.png)
 
 **Figure 167. Changing the Color of a Link**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 the
 
@@ -876,18 +876,18 @@ This changes the color for the individual link. You can set link colors globally
 
 - Open the **Link Properties** dialog box for the link, click the **Default** button, click the width of your choice, then click outside of the **Link Properties** dialog box to close it.
 
-![](../thebrain14-user-guide-images/image193.png)
+![](../public/thebrain14-user-guide-images/image193.png)
 
 **Figure 168. Changing the Width of a Link**
 
 
-![](../thebrain14-user-guide-images/image194.png)
+![](../public/thebrain14-user-guide-images/image194.png)
 
 **Tip:**
 
 You might want to widen links to illustrate the strength of particular relationships between thoughts.
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 **Link Types**
 
@@ -897,7 +897,7 @@ In addition to setting their color, you can add labels to link types and you can
 
 1. Open the **Link Properties** dialog box for the link, then click the **Type** button.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 This button will display “Untyped” if there is currently no Type assigned to the
 
@@ -906,23 +906,23 @@ link and it will display the type name if there is already a Type assigned.
 2. If there’s an existing Type in the list that you want to use, click on it to select it. Otherwise, click on **New Type**, then type the name for the new link in the field that will be displayed.
 
 
-![](../thebrain14-user-guide-images/image195.png)
+![](../public/thebrain14-user-guide-images/image195.png)
 
 **Figure 169. Creating a New Link Type**
 
 2. Press the **Enter** key to close the **Link Properties** dialog box.
 
-![](../thebrain14-user-guide-images/image196.png)
+![](../public/thebrain14-user-guide-images/image196.png)
 
 **Figure 170. Appearance of a Link Type in the Plex**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Type won’t be displayed in the plex in this case, it can still be used to find all thoughts connected to links of that Type.
 
 If a Link has both a Type and a label, the *label* will show in the plex. While the
 
-![](../thebrain14-user-guide-images/image194.png)
+![](../public/thebrain14-user-guide-images/image194.png)
 
 **Tip:**
 
@@ -935,11 +935,11 @@ Point the mouse at a Link Type or label to magnify it in the plex.
 2. Click the menu button then click the **Delete** command.
 
 
-![](../thebrain14-user-guide-images/image197.png)
+![](../public/thebrain14-user-guide-images/image197.png)
 
 **Figure 171. Deleting a Link Type**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 To see how to find thoughts that share one or more of the same link Type, please see the Producing Reports section beginning on page 218.
 
@@ -947,7 +947,7 @@ To see how to find thoughts that share one or more of the same link Type, please
 
 By default, links do not show a directional arrow. You can add directional arrows that will appear on the link that points to or from the source thought.
 
-![](../thebrain14-user-guide-images/image198.png)
+![](../public/thebrain14-user-guide-images/image198.png)
 
 **Figure 172. Directed Links**
 
@@ -960,7 +960,7 @@ particularly useful when there’s a link label. For example, for the link label
 Williams” was a source of inspiration for Elvis. This is also very useful when you want to represent flows between items like financial relationships.
 
 
-![](../thebrain14-user-guide-images/image199.png)
+![](../public/thebrain14-user-guide-images/image199.png)
 
 **Figure 173. Hank Williams Inspired Elvis**
 
@@ -970,7 +970,7 @@ Williams” was a source of inspiration for Elvis. This is also very useful when
 
 - Click the icon to the left of the **One-way** check box to switch between non-directed, directed, and directed in the reverse.
 
-![](../thebrain14-user-guide-images/image200.png)
+![](../public/thebrain14-user-guide-images/image200.png)
 
 **Figure 174. Setting the Direction of a Link**
 
@@ -981,7 +981,7 @@ Williams” was a source of inspiration for Elvis. This is also very useful when
 
 - One-way links are indicated by an arrow with a rectangle at its base.
 
-![](../thebrain14-user-guide-images/image201.png)
+![](../public/thebrain14-user-guide-images/image201.png)
 
 **Figure 175. One-Way Link**
 
@@ -995,7 +995,7 @@ For example, you may want to see what company a person worked for when the perso
 
 - Select the **One-way** check box to make the selected link one-way. Note that one-way links cannot be non-directed.
 
-![](../thebrain14-user-guide-images/image202.png)
+![](../public/thebrain14-user-guide-images/image202.png)
 
 **Figure 176. Selecting Link Direction**
 
@@ -1004,6 +1004,6 @@ For example, you may want to see what company a person worked for when the perso
 You can also set link direction for link types. The direction of a link type is inherited by instances of the type and can be overridden by the instance.
 
 
-![](../thebrain14-user-guide-images/image203.png)
+![](../public/thebrain14-user-guide-images/image203.png)
 
 **Figure 177. Selecting a Link Type Direction**

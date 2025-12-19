@@ -1,6 +1,6 @@
 ## **Managing Events**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 Your brain has its own built-in Calendar. You can access it from the content area or the Timeline View to add and modify events and integrate them with your thoughts. You can view your Calendar a day, week, month, or year at a time.
 
@@ -16,11 +16,11 @@ You can create a new event from the content area or from the Timeline. Both meth
 
 2. Click the **Attachment** button in the content area toolbar, then click **Create** **Event**.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Events created from the content area are automatically associated with the active thought, but you can easily detach them.
 
-![](../thebrain14-user-guide-images/image346.png)
+![](../public/thebrain14-user-guide-images/image346.png)
 
 **Figure 287. Creating a New Event in the Content Area**
 
@@ -31,7 +31,7 @@ As shown below, you can specify start and stop times and dates and add a label, 
 
 associated thoughts.
 
-![](../thebrain14-user-guide-images/image347.png)
+![](../public/thebrain14-user-guide-images/image347.png)
 
 **Figure 288. The Event Editor**
 
@@ -40,19 +40,19 @@ associated thoughts.
 1. Unless it is already open, display the Timeline by clicking the **Timeline** command in the **View** menu or the **Timeline** button to the left of the Search box.
 
 
-![](../thebrain14-user-guide-images/image348.png)
+![](../public/thebrain14-user-guide-images/image348.png)
 
 **Figure 289. Launching TheBrain Timeline**
 
 2. Drag on the time ruler at the bottom to select the start and stop times of the event. After you finish dragging, the event editor will be displayed. By default, this will be a standalone event, not associated with the current active thought. You can easily attach it to the active thought by clicking **Attach to** “*active thought*” in the event editor menu.
 
-![](../thebrain14-user-guide-images/image349.png)
+![](../public/thebrain14-user-guide-images/image349.png)
 
 **Figure 290. Click and Drag to Create a New Event**
 
 Please see the Navigating in Timeline View section on page 235 for
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 information about using the Timeline and 1-click fine-tuning based on your preferences.
 
@@ -61,7 +61,7 @@ information about using the Timeline and 1-click fine-tuning based on your prefe
 Reminders appear when the brain containing the event is open.
 
 
-![](../thebrain14-user-guide-images/image350.png)
+![](../public/thebrain14-user-guide-images/image350.png)
 
 **Figure 291. TheBrain’s Event Reminder Pop-Up**
 
@@ -81,7 +81,7 @@ event you want to work with, then choose a command from the context menu.
 
 Choose **Properties** to edit the details of the event.
 
-![](../thebrain14-user-guide-images/image351.png)
+![](../public/thebrain14-user-guide-images/image351.png)
 
 **Figure 292. Editing and Deleting Events in the Content Area**
 
@@ -92,7 +92,7 @@ Choose **Properties** to edit the details of the event.
 
 - To delete, right-click the event on the Timeline, then click **Delete Event**. You can also delete the event by selecting **Delete Event** in the event editor pop- up.
 
-![](../thebrain14-user-guide-images/image352.png)
+![](../public/thebrain14-user-guide-images/image352.png)
 
 **Figure 293. Editing and Deleting an Event in the Timeline**
 
@@ -100,19 +100,19 @@ Choose **Properties** to edit the details of the event.
 
 - Drag in the background of the timeline up and down to zoom in and out.
 
-![](../thebrain14-user-guide-images/image353.png)
+![](../public/thebrain14-user-guide-images/image353.png)
 
 **Figure 294. Click and Drag Up and Down to Zoom** - Drag left and right to scroll through time.
 
 
 - Buttons allow you to switch between day, week, month and year view. Or, navigate to a specific day in the mini calendar.
 
-![](../thebrain14-user-guide-images/image354.png)
+![](../public/thebrain14-user-guide-images/image354.png)
 
 **Figure 295. TheBrain Timeline Buttons**
 
 Events associated with **Forgotten Thoughts** will only appear in the timeline if
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Forgotten Thoughts are being viewed in the plex. Like the faded display in the plex, the thought’s event will also appear as faded text.

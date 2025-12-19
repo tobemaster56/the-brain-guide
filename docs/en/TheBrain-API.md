@@ -2,7 +2,7 @@
 
 TheBrain can now be controlled by a full-featured REST API. Designed for experienced programmers, the API opens up a world of possibilities. Access to a rich set of functions for querying, creating and modifying all types of data is included. Create thoughts automatically in response to events in the real world. Automate processes for moving thoughts through a workflow. Implement custom import/export logic. Control your brain from your watch or with your voice. These are just a few of the applications that are now open to pursue. Get started now at **https://api.bra.in**.
 
-![](../thebrain14-user-guide-images/image379.png)
+![](../public/thebrain14-user-guide-images/image379.png)
 
 **Figure 319. TheBrain API**
 

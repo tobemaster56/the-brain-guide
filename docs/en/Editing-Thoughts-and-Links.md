@@ -9,7 +9,7 @@ You can easily rename any thought in its **Thought Properties** dialog box. When
 
 non-active thought. In the **Thought Properties** dialog box, make any edits you want, then press the **Enter** key or click in the plex.
 
-![](../thebrain14-user-guide-images/image128.png)
+![](../public/thebrain14-user-guide-images/image128.png)
 
 **Figure 106. Renaming a Thought**
 
@@ -23,18 +23,18 @@ You can select multiple thoughts in three ways:
 
 - Hold down the **Ctrl** key (**Cmd** on macOS) as you click a gate to select all the thoughts connected to that gate
 
-![](../thebrain14-user-guide-images/image129.png)
+![](../public/thebrain14-user-guide-images/image129.png)
 
 **Figure 107. Selecting Multiple Thoughts by Ctrl-Dragging (Cmd-dragging on macOS)**
 
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Selected thoughts are then added to TheBrain’s Selection panel for making mass edits on large groups of thoughts at one time.
 
 After the multiple thoughts are selected, you can apply actions—link, unlink, forget, set thought type, and other actions you would apply to an individual thought—to the selected thoughts en masse. When multiple thoughts are selected, they are listed in a Selection panel on the left side of the plex and they are highlighted in the plex itself.
 
-![](../thebrain14-user-guide-images/image130.png)
+![](../public/thebrain14-user-guide-images/image130.png)
 
 **Figure 108. Selection Panel and Selected Thoughts**
 
@@ -47,7 +47,7 @@ After the multiple thoughts are selected, you can apply actions—link, unlink, 
 - Click the **Close** button (**X**) in the top-right corner of the Selection panel. The button will turn red as you point to it and after the panel is closed the thoughts will no longer be selected in the plex.
 
 
-![](../thebrain14-user-guide-images/image131.png)
+![](../public/thebrain14-user-guide-images/image131.png)
 
 **Figure 109. Closing the Selection Panel**
 
@@ -55,7 +55,7 @@ After the multiple thoughts are selected, you can apply actions—link, unlink, 
 
 - Right-click in an empty area of the Selection panel and select the action of your choice on the context menu. The entries in this menu are also displayed in the **Edit** menu.
 
-![](../thebrain14-user-guide-images/image132.png)
+![](../public/thebrain14-user-guide-images/image132.png)
 
 **Figure 110. Selection Panel Context Menu**
 
@@ -64,7 +64,7 @@ After the multiple thoughts are selected, you can apply actions—link, unlink, 
 Once you have created a selection, you can also use it for other things besides what you see in the menu. For example, you can limit searches to selected thoughts. In the example below, only “Debbie Miller” is found because it is the only thought name beginning with “D” that is currently selected.
 
 
-![](../thebrain14-user-guide-images/image133.png)
+![](../public/thebrain14-user-guide-images/image133.png)
 
 **Figure 111. Limiting Searches to Selected Thoughts**
 
@@ -79,7 +79,7 @@ When you no longer need a thought, it can be forgotten or deleted. A forgotten t
 - Click the active thought to be forgotten, click the menu button in the **Thought** **Properties** dialog box, then, click the **Forget *Thought Name*** command.
 
 
-![](../thebrain14-user-guide-images/image134.png)
+![](../public/thebrain14-user-guide-images/image134.png)
 
 **Figure 112. Forgetting a Thought in its Thought Properties Dialog Box**
 
@@ -89,14 +89,14 @@ Once a thought has been forgotten it will disappear from the display. If you wan
 
 1. Click the **Options** menu, then click the **ShowForgotten Thoughts** command. Any forgotten thoughts will appear grayed out in the plex.
 
-![](../thebrain14-user-guide-images/image135.png)
+![](../public/thebrain14-user-guide-images/image135.png)
 
 **Figure 113. Forgotten Thoughts in the Plex**
 
 
 2. Notice the “Showing Forgotten Thoughts” message above the pins. This reminds you why some thoughts are grayed. You can use forgotten thoughts just like normal thoughts as long as they are displayed. Click the **View Report** button to work directly with the forgotten thoughts.
 
-![](../thebrain14-user-guide-images/image136.png)
+![](../public/thebrain14-user-guide-images/image136.png)
 
 **Figure 114. Forgotten Thoughts in the Report Tab**
 
@@ -107,7 +107,7 @@ Once a thought has been forgotten it will disappear from the display. If you wan
 - Click the **Reports** tab menu button, then select **Forgotten** from the Thoughts drop down menu. You can then click on the context menu button and select **Delete Forgotten Thoughts.** Alternatively, you can use the **Ctrl** key (**Cmd** on macOS) to select multiple individual forgotten thoughts and then delete only those.
 
 
-![](../thebrain14-user-guide-images/image137.png)
+![](../public/thebrain14-user-guide-images/image137.png)
 
 **Figure 115. Using the Report Tab to Delete All Forgotten Thoughts**
 
@@ -115,7 +115,7 @@ Once a thought has been forgotten it will disappear from the display. If you wan
 
 Closing the **Forgotten Thoughts** dialog box hides the forgotten thoughts. You can also reinstate forgotten thoughts by clicking the **Remember All** command
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 in the
 
@@ -134,7 +134,7 @@ It is generally recommended to forget thoughts when you don’t need them so tha
 1. Hold down the **Shift** key (for Windows)/Alt key (for Mac) as you right-click the thought to be deleted. The context menu will be displayed, showing the **Delete *thought name*** command in place of the **Forget *thought name*** command.
 
 
-![](../thebrain14-user-guide-images/image138.png)
+![](../public/thebrain14-user-guide-images/image138.png)
 
 **Figure 116. Shift-Right-Click Context Menu for a Thought**
 
@@ -144,11 +144,11 @@ deleting multiple thoughts at once.
 
 When a file attachment is deleted, the file is placed into an internal trash folder
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 in case the delete needs to be undone. When undo is cleared, the trash is emptied. The files are then moved to the OS trash/recycle bin so you have further opportunity to recover the file if needed.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -164,7 +164,7 @@ command immediately.
 
 - Right-click the link, then click the **Unlink** command on the context menu
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -189,7 +189,7 @@ accessible from numerous places.
 
 A single thought may have relationships with multiple thoughts. For example, you may want a thought named “Aunt Mary” to be a child of your “Mentors”
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 thought and also a child of your “Family” thought. If your Aunt Mary is also helping you plan your next vacation, her thought may also be a child or jump thought to your “Vacation” thought. The possibilities are endless.
 
@@ -206,7 +206,7 @@ In the Normal view, the display of thoughts is limited to close relations. You m
 You can Link to a thought that is not visible in the plex if it has a pin. Simply drag from the appropriate gate to the pin. When you want to link a thought to many other thoughts, create a pin of the thought so you can quickly link to it. A pin’s gates appear when you point at the pin with the mouse.
 
 
-![](../thebrain14-user-guide-images/image139.png)
+![](../public/thebrain14-user-guide-images/image139.png)
 
 **Figure 117. Link by Dragging to a Pin**
 
@@ -216,7 +216,7 @@ The relationship you establish by linking a thought to a pin is between the thou
 
 You can link a thought in the plex to a thought in the Past Thought List. Like pins, gates for a thought in the Past Thought List appear when you point at the past thought with the mouse.
 
-![](../thebrain14-user-guide-images/image140.png)
+![](../public/thebrain14-user-guide-images/image140.png)
 
 **Figure 118. Link by Dragging to a Thought in the Past Thoughts’ List**
 
@@ -229,7 +229,7 @@ You can also link by using the **Thought Creation** dialog box:
 
 2. Type the first few letters of the name of the thought you want to link to. Double-click on the thought you want to link when you see it in the **Existing Thought List** that appears below (or click it once, then click in the thought name field and press the **Enter** key).
 
-![](../thebrain14-user-guide-images/image141.png)
+![](../public/thebrain14-user-guide-images/image141.png)
 
 **Figure 119. Create a Link by Starting to Create a Child Thought**
 
@@ -244,7 +244,7 @@ Thoughts in the Selection panel can be linked to the active thought using the Se
 3. Right-click the Selection panel, then click the link command of your choice in the context menu.
 
 
-![](../thebrain14-user-guide-images/image142.png)
+![](../public/thebrain14-user-guide-images/image142.png)
 
 **Figure 120. Linking Using the Selection Panel**
 
@@ -257,6 +257,6 @@ Press the **Esc** key while dragging a link to abort the process. (The mouse but
 Say that you decide that your “Product Promotions” thought shouldn’t really be a child of your “Customer Service” thought. Instead, it should be the child of “Business Development.” You can quickly change relationships between thoughts in a single step: Hold down the **Shift** key while linking a thought to a new parent. All of the current parents will be unlinked automatically. Note that even if a thought has more than one parent, all of the former parents will be unlinked.
 
 
-![](../thebrain14-user-guide-images/image143.png)
+![](../public/thebrain14-user-guide-images/image143.png)
 
 **Figure 121. Shift-Dragging to Change Relationships**

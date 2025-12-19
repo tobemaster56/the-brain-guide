@@ -2,7 +2,7 @@
 
 **Importing Folders and Mind Maps**
 
-![](../thebrain14-user-guide-images/image373.png)
+![](../public/thebrain14-user-guide-images/image373.png)
 
 **Figure 313. Importing Folders and Mind Maps**
 
@@ -52,7 +52,7 @@ You can merge two brains together by importing a Brain Archive file (.BRZ):
 4. Select the **Add to “*open brain name”* and link to “*active thought name”*** option, then click **Brain Archive (brz)** in the list.
 
 
-![](../thebrain14-user-guide-images/image374.png)
+![](../public/thebrain14-user-guide-images/image374.png)
 
 **Figure 314. Merging Brains**
 
@@ -60,6 +60,6 @@ You can merge two brains together by importing a Brain Archive file (.BRZ):
 
 to confirm that you want to continue, since importing a .BRZ file can’t be undone.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 The only brain that is changed is the one that is open when you begin the merge procedure. The brain you select during step 1 is not changed at all.

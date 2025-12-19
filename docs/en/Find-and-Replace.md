@@ -33,7 +33,7 @@ pattern matching capabilities).
 
 you’re ready.
 
-![](../thebrain14-user-guide-images/image345.png)
+![](../public/thebrain14-user-guide-images/image345.png)
 
 **Figure 286. Find and Replace**
 

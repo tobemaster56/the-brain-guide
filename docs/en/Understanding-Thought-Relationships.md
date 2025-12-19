@@ -15,7 +15,7 @@ Let’s move on to an example to explore these relationship types. Imagine that 
 Manufacturing, Sales, Service, and Billing. These departments are sibling thoughts of each other.
 
 
-![](../thebrain14-user-guide-images/image23.png)
+![](../public/thebrain14-user-guide-images/image23.png)
 
 **Figure 15. Sample Brain**
 
@@ -23,14 +23,14 @@ Now you go to each department and create more child thoughts, one for each emplo
 
 departments, you can make him a child thought of both departments—he’ll appear in both and you won’t have to duplicate his thought. In this example, Bob is a child thought of both Manufacturing and Sales (see Figure 16). This is one of the most powerful features of TheBrain—having one thought under more than one heading.
 
-![](../thebrain14-user-guide-images/image24.png)
+![](../public/thebrain14-user-guide-images/image24.png)
 
 **Figure 16. Child Thought with Two Parents**
 
 If you own more than one company, but have one accountant for all of them, you might want to create a thought called Accountant and link it as a jump thought to each company, as shown below.
 
 
-![](../thebrain14-user-guide-images/image25.png)
+![](../public/thebrain14-user-guide-images/image25.png)
 
 **Figure 17. Jump Thoughts to the Active Thought**
 
@@ -38,7 +38,7 @@ Imagine that Joe’s company has just purchased one of your companies. Since Joe
 
 below).
 
-![](../thebrain14-user-guide-images/image26.png)
+![](../public/thebrain14-user-guide-images/image26.png)
 
 **Figure 18. New Parent Thought**
 
@@ -65,7 +65,7 @@ child of Philosophy, but of Plato, so that when you’re working with Aristotle,
 
 is only a thought away.
 
-![](../thebrain14-user-guide-images/image27.png)
+![](../public/thebrain14-user-guide-images/image27.png)
 
 **Figure 19. Example of Parent/Child Relationships**
 

@@ -4,19 +4,19 @@ All thoughts can be connected—directly or indirectly—even thoughts that may 
 
 Let’s look at an example, say, the Queen of England and asparagus. You have a thought called Queen of England. One of its child thoughts is Prince of Wales, which has a parent thought—Famous Princes—that is also linked to the story of the Frog Prince.
 
-![](../thebrain14-user-guide-images/image28.png)
+![](../public/thebrain14-user-guide-images/image28.png)
 
 The story has another parent thought called Fairy Tales. A sibling of Frog Prince is Jack and the Beanstalk.
 
-![](../thebrain14-user-guide-images/image29.png)
+![](../public/thebrain14-user-guide-images/image29.png)
 
 Jack and the Beanstalk has child thoughts called Giant and Jack. Giant has another parent thought called Famous Giants.
 
-![](../thebrain14-user-guide-images/image30.png)
+![](../public/thebrain14-user-guide-images/image30.png)
 
 Famous Giants has a child thought called Jolly Green Giant. Jolly Green Giant has child thoughts named after canned vegetable products, one of which is Asparagus. Thus, the Queen of England is connected to asparagus!
 
-![](../thebrain14-user-guide-images/image31.png)
+![](../public/thebrain14-user-guide-images/image31.png)
 
 Depending on the relationship you create between them, thoughts may be closely or distantly related. Thoughts are considered to be closely related when
 
@@ -27,24 +27,24 @@ they are linked directly or are siblings. In the default view of the plex, only 
 
 When you log into TheBrain, and no brain is open, all local, synced or online brains will be displayed as thumbnails in the **Brains** tab, as shown below. This is assuming that you have already created one or more brains. Clicking on a brain thumbnail opens that brain. Or, hold down the **Ctrl** key as you click to open a brain in a new tab, leaving the Brains tab open.
 
-![](../thebrain14-user-guide-images/image32.png)
+![](../public/thebrain14-user-guide-images/image32.png)
 
 **Figure 20. Example of Four Available Brains on the Brains Tab**
 
 By default, brains are listed according to how recently they have been accessed. You can also see the list of brains sorted alphabetically using the **Brains** tab toolbar, shown below. All brains that are locally available are shown first, followed by brains that are available online.
 
 
-![](../thebrain14-user-guide-images/image33.png)
+![](../public/thebrain14-user-guide-images/image33.png)
 
 **Figure 21. The Brains Tab Toolbar**
 
 The status of whether each brain is available locally, online, or both is also displayed. Each brain in the **Brains** tab will have an icon appearing in the lower-right corner of the thumbnail. Right-click on a brain or click on the status icon to display a menu of options for that brain, as shown below. The appearance of the icon(s) help you identify whether the brain is Local, Synced (local and online) or Cloud (Online only).
 
-![](../thebrain14-user-guide-images/image34.png)
+![](../public/thebrain14-user-guide-images/image34.png)
 
 **Figure 22. Icons Indicating Local, Synced, or Cloud**
 
-![](../thebrain14-user-guide-images/image35.png)
+![](../public/thebrain14-user-guide-images/image35.png)
 
 **Figure 23. Status Indicator Icons**
 
@@ -63,13 +63,13 @@ keep the same brain open in multiple **Brain** tabs or windows.
 
 To re-open the **Brains** tab to display the Brain thumbnails, click the **+** icon to the right of the last tab.
 
-![](../thebrain14-user-guide-images/image36.png)
+![](../public/thebrain14-user-guide-images/image36.png)
 
 **Figure 24. Click the + Icon to Open the Brains Tab**
 
 There is no limit to the number of brains you can open at once. Each time you
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 open a brain it will appear in a separate tab. Switch from brain to brain instantaneously by clicking its tab. All tabs and their states are automatically saved and restored when you quit and restart.
 
@@ -98,14 +98,14 @@ To permanently set a tab color for a specific brain, right click on a brain thum
 
 color indicator on the brain’s thumbnail and the brain tab will be highlighted when this brain is open. If the brain tab is open, but not currently the selected tab, the color highlight will be visible, but minimized.
 
-![](../thebrain14-user-guide-images/image37.png)
+![](../public/thebrain14-user-guide-images/image37.png)
 
 **Figure 25. Selecting a Brain Color**
 
 Brain tabs can display either the brain name and the active thought name, or just the active thought name in a more compact tab. This setting can be found in **Preferences** on the **Look & Feel tab**.
 
 
-![](../thebrain14-user-guide-images/image38.png)
+![](../public/thebrain14-user-guide-images/image38.png)
 
 **Figure 26. Brain Tabs displaying selected colors, brain name and active thought name**
 
@@ -119,12 +119,12 @@ Additionally, if you have adjusted the layout of a brain with the Smart Splitter
 
 You can right-click any brain in the **Brains** tab to display the available options.
 
-![](../thebrain14-user-guide-images/image39.png)
+![](../public/thebrain14-user-guide-images/image39.png)
 
 **Figure 27. The Context Menu in the Brains Tab**
 
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -136,7 +136,7 @@ If you have more than one brain and would like to keep commonly accessed
 
 brains at the top of your brain list, you can set a brain to be a favorite.
 
-![](../thebrain14-user-guide-images/image40.png)
+![](../public/thebrain14-user-guide-images/image40.png)
 
 **Figure 28. Favorite Brains at the top of your Brain List**
 
@@ -145,7 +145,7 @@ There is no limit to the number of favorite brains. To set a favorite brain, rig
 click on a brain in the brains list. Select **Favorite Brain**.
 
 
-![](../thebrain14-user-guide-images/image41.png)
+![](../public/thebrain14-user-guide-images/image41.png)
 
 **Figure 29. Setting a Favorite Brain**
 
@@ -168,7 +168,7 @@ By default, the content for the active thought displays in the content area. If 
 Certain types of file attachments are automatically previewed inside of TheBrain. These include web pages, images, text, markdown files, JSON, .html files and PDFs. Simply click on an attachment’s tab and its preview will be shown. In the example below, Tropical Getaways is the active thought and there are two attachments in the content area—an image and a PDF.
 
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 You can view multi-page PDFs, web pages, and images as a slide show within
 
@@ -186,7 +186,7 @@ content area).
 
 - Click the **Open** button to open the file outside of TheBrain.
 
-![](../thebrain14-user-guide-images/image42.png)
+![](../public/thebrain14-user-guide-images/image42.png)
 
 **Figure 30. Content Area for the Active Thought**
 
@@ -209,7 +209,7 @@ Adding additional attachments to a thought, such as .md and .txt files will enab
 
 Pins are shortcuts to thoughts to which you want quick access. They appear at the top of the plex, just below TheBrain toolbar. No matter where you are in your brain, the pins remain visible.
 
-![](../thebrain14-user-guide-images/image43.png)
+![](../public/thebrain14-user-guide-images/image43.png)
 
 **Figure 31. Pins**
 
@@ -217,7 +217,7 @@ Pins are shortcuts to thoughts to which you want quick access. They appear at th
 
 - Use the **Toggle Pin** button in the main toolbar to create a pin for the Active Thought or right-click the thought for which you want to create a pin, then click **Create Pin** on the context menu
 
-![](../thebrain14-user-guide-images/image44.png)
+![](../public/thebrain14-user-guide-images/image44.png)
 
 **Figure 32. Toggle Pin Button**
 
@@ -226,7 +226,7 @@ Pins are shortcuts to thoughts to which you want quick access. They appear at th
 
 - Use the **Toggle Pin** button in the main toolbar to remove the pin for the Active Thought or right-click the pin or on a thought that has a pin, then click **Remove Pin** on the context menu
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Removing a pin does not remove or delete the associated thought; it deletes only the reference to it at the top of the plex.
 
@@ -242,7 +242,7 @@ TheBrain keeps a running breadcrumb trail of your thoughts based on activation a
 
 Clicking on any thought in the Past Thought List activates that thought. Also, when a new thought is created it appears in the Past Thought List immediately.
 
-![](../thebrain14-user-guide-images/image45.png)
+![](../public/thebrain14-user-guide-images/image45.png)
 
 **Figure 33. Past Thought List**
 
@@ -263,7 +263,7 @@ Rewards; the mouse is being dragged from the child gate of Tropical Vacations
 
 to Airline Rewards in the Past Thought List.
 
-![](../thebrain14-user-guide-images/image46.png)
+![](../public/thebrain14-user-guide-images/image46.png)
 
 **Figure 34. Creating a Link using the Past Thought List**
 
@@ -275,7 +275,7 @@ buttons, located near the top of the Window, to quickly retrace your steps;
 
 these buttons work just like they do in a web browser
 
-![](../thebrain14-user-guide-images/image47.png)
+![](../public/thebrain14-user-guide-images/image47.png)
 
 **Figure 35. The Back and Forward Buttons**
 
@@ -286,7 +286,7 @@ these buttons work just like they do in a web browser
 re-activate the thought you came from
 
 
-![](../thebrain14-user-guide-images/image7.png)
+![](../public/thebrain14-user-guide-images/image7.png)
 
 **Back and Forward Mouse Buttons:**
 
@@ -308,7 +308,7 @@ TheBrain includes powerful search capabilities. Indexing is performed by the app
 
 TheBrain includes powerful search capabilities. The Search box is in the top-right area of the application.
 
-![](../thebrain14-user-guide-images/image48.png)
+![](../public/thebrain14-user-guide-images/image48.png)
 
 **Figure 36. The Search Box**
 
@@ -325,7 +325,7 @@ To activate one of these results, click it with your mouse or use the **up-arrow
 **Enter** key.
 
 
-![](../thebrain14-user-guide-images/image49.png)
+![](../public/thebrain14-user-guide-images/image49.png)
 
 **Figure 37. Instant Activate Finds Matches Based on Thought**
 
@@ -333,7 +333,7 @@ To activate one of these results, click it with your mouse or use the **up-arrow
 
 Accents are ignored when matching thought names. Also, when two or more
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 matches with the same name are found, the names of their parent or jump
 
@@ -345,14 +345,14 @@ letters can be in any sequence; for example, to find the “Family and Friends�
 
 thought you could type “fa fr,” or “fr fa,” or “fa and fri.”
 
-![](../thebrain14-user-guide-images/image50.png)
+![](../public/thebrain14-user-guide-images/image50.png)
 
 **Figure 38. Use First Letters of Separate Words for Instant Activate**
 
 
 Attachments and note search matches are identified with a yellow piece of paper icon for notes and a paper clip icon for Attachments.
 
-![](../thebrain14-user-guide-images/image51.png)
+![](../public/thebrain14-user-guide-images/image51.png)
 
 **Figure 39. Search Results**
 
@@ -375,7 +375,7 @@ Search results will be displayed first by results in the currently open brain,
 however, you’ll also see results of your search query in Thoughts and Links from other Brains and Notes, Attachments and Events from other Brains. To keep the search process efficient, search results will be displayed progressively - first from your current, open brain and then from other brains.
 
 
-![](../thebrain14-user-guide-images/image52.png)
+![](../public/thebrain14-user-guide-images/image52.png)
 
 **Figure 40. Search Results from other Brains**
 
@@ -383,7 +383,7 @@ Clicking on any of these results will launch the specified brain/thought in a ne
 
 **Searching within Attachments**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 Your searches automatically include matches based on the contents of
 
@@ -396,7 +396,7 @@ Say you’re searching for something and come up with no hits. For example,
 you’re on a neighborhood committee and you’ve volunteered to look into an issue with squirrels. You type “squirrels” in the Search box. No results? Press the **F4** key to search the web.
 
 
-![](../thebrain14-user-guide-images/image54.png)
+![](../public/thebrain14-user-guide-images/image54.png)
 
 **Figure 41. Search-Engine Choices**
 
@@ -417,7 +417,7 @@ button.
 - Click the **Edit** button in the **Web Search** box.
 
 
-![](../thebrain14-user-guide-images/image55.png)
+![](../public/thebrain14-user-guide-images/image55.png)
 
 **Figure 42. Editing Search-Engine URLs**
 
@@ -448,7 +448,7 @@ will be fine-tuned to match what you type. This option can also be accessed
 from the **Search Commands and Preferences** option under the **Help** menu.
 
 
-![](../thebrain14-user-guide-images/image56.png)
+![](../public/thebrain14-user-guide-images/image56.png)
 
 **Figure 43. Executing a Command from the Search Box**
 
@@ -458,6 +458,6 @@ from the **Search Commands and Preferences** option under the **Help** menu.
 
 - Search for thoughts starting with punctuation. You may use this as a shortcut to provide fast access to thoughts that you always start with a certain type of punctuation. For example, you could use this for people (@Mike, @Sally, @Debbie, etc.) or projects (#Ridgeline, #Palmdale, #Westly, etc.)
 
-![](../thebrain14-user-guide-images/image57.png)
+![](../public/thebrain14-user-guide-images/image57.png)
 
 **Figure 44. Search Results for Both Internal and External Attachments** - Below the search box is an option for searching Childward only. Selecting this option will limit the search results to 3 generations below the current active thought.

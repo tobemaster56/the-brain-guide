@@ -4,7 +4,7 @@ The **Online** menu in TheBrain toolbar provides access to your Cloud Services s
 
 quickly.
 
-![](../thebrain14-user-guide-images/image358.png)
+![](../public/thebrain14-user-guide-images/image358.png)
 
 **Figure 298. Online Menu Options**
 
@@ -22,7 +22,7 @@ brain is already synchronized to your Cloud account.
 
 in order to acquire its URL.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 **Copy Web Thought URL**
 

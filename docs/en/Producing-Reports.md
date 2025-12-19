@@ -1,12 +1,12 @@
 ## **Producing Reports**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 Reports are an excellent way to manage large groups of thoughts in your Brain.
 
 To open a brain's Report area, click the **View** menu then click the **Report** command. You may also click on the **Right Panel** button next to the search box. The report pane is resizable.
 
-![](../thebrain14-user-guide-images/image325.png)
+![](../public/thebrain14-user-guide-images/image325.png)
 
 **Figure 266. Viewing the Report Area**
 
@@ -14,7 +14,7 @@ To open a brain's Report area, click the **View** menu then click the **Report**
 
 The **Thoughts** drop-down list includes the following options and each selection provides additional criteria choices for fine-tuning your reports.
 
-![](../thebrain14-user-guide-images/image326.png)
+![](../public/thebrain14-user-guide-images/image326.png)
 
 **Figure 267. Thought Options for Reports** You can run reports based on the criteria discussed below.
 
@@ -25,13 +25,13 @@ The **By Types/Tags** option in the **Thoughts** drop-down helps you filter thou
 
 - Click the field to the right of **Types** (which will display “Any” if no Types have been selected yet), then select the check box for each thought Type to be included. Click outside of the list to close it.
 
-![](../thebrain14-user-guide-images/image327.png)
+![](../public/thebrain14-user-guide-images/image327.png)
 
 **Figure 268. Selecting Thoughts by Types**
 
 Use the **Tags** field to filter thoughts based on your assigned Tags.
 
-![](../thebrain14-user-guide-images/image328.png)
+![](../public/thebrain14-user-guide-images/image328.png)
 
 **Figure 269. Filtering a Report by Tags**
 
@@ -40,7 +40,7 @@ Clicking on a Tag in the list will add a “**+**” next to it, indicating that
 This indicates that you do not want thoughts with that Tag listed. Clicking the same Tag once more will remove it from your list of filtered Tags.
 
 
-![](../thebrain14-user-guide-images/image329.png)
+![](../public/thebrain14-user-guide-images/image329.png)
 
 **Figure 270. Filtering With and Without Tags**
 
@@ -52,20 +52,20 @@ immediately navigate to the thought.
 
 The Forgotten thoughts selection allows you to quickly view and access any thoughts you have forgotten in a brain.
 
-![](../thebrain14-user-guide-images/image330.png)
+![](../public/thebrain14-user-guide-images/image330.png)
 
 **Figure 271. Forgotten Thoughts Report**
 
 
 With **Forgotten** selected in the **Thoughts** drop-down, you can use the menu button to add all forgotten thoughts in your report to your Selection, remove all forgotten thoughts in your report from your Selection, permanently delete all forgotten thoughts in your report, or remember all forgotten thoughts in your report.
 
-![](../thebrain14-user-guide-images/image331.png)
+![](../public/thebrain14-user-guide-images/image331.png)
 
 **Figure 272. Choices for Forgotten Thoughts**
 
 As soon as you click any forgotten thought in the list, a “Showing Forgotten thoughts” message will display above the plex. Click any forgotten thought in the report to display that thought in the plex.
 
-![](../thebrain14-user-guide-images/image332.png)
+![](../public/thebrain14-user-guide-images/image332.png)
 
 **Figure 273. Showing Forgotten Thoughts**
 
@@ -74,7 +74,7 @@ As soon as you click any forgotten thought in the list, a “Showing Forgotten t
 Select **Parentless** in the **Thoughts** drop-down to quickly view and access any thoughts that do not have a parent.
 
 
-![](../thebrain14-user-guide-images/image333.png)
+![](../public/thebrain14-user-guide-images/image333.png)
 
 **Figure 274. Parentless Thought Report**
 
@@ -82,7 +82,7 @@ Viewing a Parentless Thought Report is great for tying up any loose connections 
 
 Orphan thoughts will also appear in a Parentless Thought Report. Jump
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 thoughts (when they have no Parent) will frequently appear in this report as well.
 
@@ -90,7 +90,7 @@ thoughts (when they have no Parent) will frequently appear in this report as wel
 
 Select **Orphan** in the **Thoughts** drop-down to quickly view and access any thoughts that do not have any other connections.
 
-![](../thebrain14-user-guide-images/image334.png)
+![](../public/thebrain14-user-guide-images/image334.png)
 
 **Figure 275. Orphan Thought Report**
 
@@ -101,7 +101,7 @@ Viewing an Orphan Thought Report is an excellent way to find lost thoughts or th
 
 Select **Duplicate Names** in the **Thoughts** drop-down to quickly view and access multiple thoughts with the same name.
 
-![](../thebrain14-user-guide-images/image335.png)
+![](../public/thebrain14-user-guide-images/image335.png)
 
 **Figure 276. Duplicate Names Report**
 
@@ -111,7 +111,7 @@ Viewing the Duplicate Thoughts Report can help you organize and manage your brai
 
 Select **By Attachments** in the **Thoughts** drop-down to quickly view and access all thoughts that have an attachment. By default, only internal attachments will be included and you can use the Type drop-down list to fine-tune as needed.
 
-![](../thebrain14-user-guide-images/image336.png)
+![](../public/thebrain14-user-guide-images/image336.png)
 
 **Figure 277. By Attachments Report**
 
@@ -124,7 +124,7 @@ the **Time** drop-down selections. This is incredibly useful for finding informa
 
 modified within a specific date range and allows for even more in-depth reporting.
 
-![](../thebrain14-user-guide-images/image337.png)
+![](../public/thebrain14-user-guide-images/image337.png)
 
 **Figure 278. Filtering Thoughts in a Report by Modified Date**
 
@@ -169,7 +169,7 @@ Use the **Sort** drop-down to switch the list order of your report results betwe
 
 attachment sizes highest in the list
 
-![](../thebrain14-user-guide-images/image338.png)
+![](../public/thebrain14-user-guide-images/image338.png)
 
 **Figure 279. Sorting Thoughts in a Report**
 
@@ -179,7 +179,7 @@ attachment sizes highest in the list
 
 criteria.
 
-![](../thebrain14-user-guide-images/image339.png)
+![](../public/thebrain14-user-guide-images/image339.png)
 
 **Figure 280. The Refresh Button**
 
@@ -188,7 +188,7 @@ criteria.
 
 and the **Sort** field selections.
 
-![](../thebrain14-user-guide-images/image340.png)
+![](../public/thebrain14-user-guide-images/image340.png)
 
 **Figure 281. The Reset Button**
 
@@ -200,14 +200,14 @@ be added to the Selection panel where you can apply actions to the thoughts
 
 all at one time. Right-click in the Selection area to see your choices.
 
-![](../thebrain14-user-guide-images/image341.png)
+![](../public/thebrain14-user-guide-images/image341.png)
 
 **Figure 282. Adding Report Results to the Selection Panel**
 
 
 **Saving and Accessing Reports**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 Reports can be saved and used again at any time.
 
@@ -217,7 +217,7 @@ Reports can be saved and used again at any time.
 
 2. Type a name for your report, then click the **OK** button.
 
-![](../thebrain14-user-guide-images/image342.png)
+![](../public/thebrain14-user-guide-images/image342.png)
 
 **Figure 283. Saving a Report To open a saved report:**
 
@@ -226,7 +226,7 @@ Reports can be saved and used again at any time.
 2. Click the name of the report you want to open.
 
 
-![](../thebrain14-user-guide-images/image343.png)
+![](../public/thebrain14-user-guide-images/image343.png)
 
 **Figure 284. Saving a Report**
 
@@ -251,6 +251,6 @@ Modifications can include:
 To view your recently modified thoughts, simply click on the clock icon to the right of the Search box. Modified thoughts will be displayed starting with the current date. When you hover over a thought, a comprehensive, time-stamped report of the exact modification(s) appear in a pop-up next to the name.
 
 
-![](../thebrain14-user-guide-images/image344.png)
+![](../public/thebrain14-user-guide-images/image344.png)
 
 **Figure 285. Recently Modified Thoughts and Links**

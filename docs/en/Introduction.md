@@ -8,7 +8,7 @@ Now you don't have to force any idea or project into a single folder. TheBrain o
 
 Thoughts contain relevant notes, web pages, and files. Brains can be synced for easy access from your desktop to TheBrain Cloud or your mobile devices.
 
-![](../thebrain14-user-guide-images/image2.png)
+![](../public/thebrain14-user-guide-images/image2.png)
 
 **Figure 1. TheBrain Interface**
 
@@ -37,13 +37,13 @@ The following icons are used throughout this guide to flag categories of informa
 
 [//]: # (![]&#40;../thebrain14-user-guide-images/image3.png&#41;  This icon is used to identify notes.)
 
-<IconLabel icon="../thebrain14-user-guide-images/image3.png">
+<IconLabel icon="/thebrain14-user-guide-images/image3.png">
 	This icon is used to identify notes.
 </IconLabel>
 
 [//]: # (![]&#40;../thebrain14-user-guide-images/image4.png&#41; This icon is used to flag tips and suggestions.)
 
-<IconLabel icon="../thebrain14-user-guide-images/image4.png">
+<IconLabel icon="/thebrain14-user-guide-images/image4.png">
 	This icon is used to flag tips and suggestions.
 </IconLabel>
 
@@ -52,18 +52,18 @@ TheBrain is offered in two editions—Free and Pro. Icons are used throughout th
 
 [//]: # (![]&#40;../thebrain14-user-guide-images/image5.png&#41; This icon is used to indicate that the feature is available in the Pro edition only.)
 
-<IconLabel icon="../thebrain14-user-guide-images/image5.png">
+<IconLabel icon="/thebrain14-user-guide-images/image5.png">
 	This icon is used to indicate that the feature is available in the Pro edition only.
 </IconLabel>
 
 Because TheBrain works on Windows and macOS, OS-specific features are flagged with icons throughout the guide. Features that are available for **both** Operating Systems are not designated with a special icon.
 
-<IconLabel icon="../thebrain14-user-guide-images/image6.png">
+<IconLabel icon="/thebrain14-user-guide-images/image6.png">
 	This icon is used to indicate that the information applies only to computers running macOS.
 </IconLabel>
 
 
-<IconLabel icon="../thebrain14-user-guide-images/image7.png">
+<IconLabel icon="/thebrain14-user-guide-images/image7.png">
 	This icon is used to indicate that the information applies only to computers running Windows.
 </IconLabel>
 
@@ -76,7 +76,7 @@ In addition:
 
 **Right-clicking:** Most features in TheBrain can be accessed with just a single
 
-![](../thebrain14-user-guide-images/image6.png)
+![](../public/thebrain14-user-guide-images/image6.png)
 
 click of your primary mouse button. However, there are several context-sensitive shortcuts available in context menus which appear when right-clicking. On a Macintosh, many systems do not have a right mouse button. For trackpad users, click or tap with two fingers. Alternatively, hold down the
 
@@ -94,7 +94,7 @@ TheBrain supports Native Apple Silicon.
 
 ## **Brain Terminologies**
 
-![](../thebrain14-user-guide-images/image8.png)
+![](../public/thebrain14-user-guide-images/image8.png)
 
 **Brain**
 
@@ -109,18 +109,18 @@ Here is a list of working definitions for the basic terms used throughout TheBra
 
 **Content Area** The portion of TheBrain window that displays content that can be associated with the active thought or link. Types of content include notes, attachments (such as worksheets, presentations, documents, videos, and images), links, URLs, and events. The content area also displays and provides quick access to related thoughts.
 
-![](../thebrain14-user-guide-images/image3.png)
+![](../public/thebrain14-user-guide-images/image3.png)
 
 Clicking any thought or link in the plex displays its associated content in the content area.
 
-![](../thebrain14-user-guide-images/image9.png)
+![](../public/thebrain14-user-guide-images/image9.png)
 
 **Figure 2. TheBrain Plex and Content Area**
 
 **Active** The active thought appears in the center of the plex and is **Thought** the current focus. Any items attached to the thought, like notes, files, links, and events appear in the content area.
 
 
-![](../thebrain14-user-guide-images/image10.png)
+![](../public/thebrain14-user-guide-images/image10.png)
 
 **Figure 3. The Different Ways a Thought Can Appear**
 
@@ -128,7 +128,7 @@ As shown below, when you click a thought, it moves to the center of the plex and
 
 it becomes the active thought.
 
-![](../thebrain14-user-guide-images/image11.png)
+![](../public/thebrain14-user-guide-images/image11.png)
 
 **Figure 4. Activating a Thought**
 
@@ -145,20 +145,20 @@ someone’s child, and someone’s sibling, and someone’s peer, advisor, or co
 
 and what hat you’re wearing at the moment.
 
-![](../thebrain14-user-guide-images/image12.png)
+![](../public/thebrain14-user-guide-images/image12.png)
 
 **Figure 5. Relationships are Relative to *You***
 
 The same applies to thoughts. The relationships between thoughts are displayed automatically, based on which thought is active at the moment.
 
-![](../thebrain14-user-guide-images/image3.png)
+![](../public/thebrain14-user-guide-images/image3.png)
 
 Whether a thought is a parent, child, or sibling depends on its
 
 current relationship to the active thought.
 
 
-![](../thebrain14-user-guide-images/image13.png)
+![](../public/thebrain14-user-guide-images/image13.png)
 
 **Figure 6. Thought Relationships are Relative to the Active Thought**
 
@@ -203,7 +203,7 @@ When you point at a gate, a highlighting circle appears around it.
 
 **Link** A link is the line that connects two thoughts. When used as a verb, to “link” is the act of connecting thoughts to establish close relationships. Links can also show direction to help you visualize relationships.
 
-![](../thebrain14-user-guide-images/image14.png)
+![](../public/thebrain14-user-guide-images/image14.png)
 
 **Figure 7. Thought Gates**
 
@@ -212,40 +212,40 @@ When you point at a gate, a highlighting circle appears around it.
 
 The first time you download and install TheBrain, you’ll be prompted to log in or create an account if you don’t already have one. The log-in window provides the ability to create a new account or log in to an existing account.
 
-![](../thebrain14-user-guide-images/image15.png)
+![](../public/thebrain14-user-guide-images/image15.png)
 
 **Figure 8. TheBrain Log-in Window**
 
 Here are the fields to complete if you’re creating a new account:
 
 
-![](../thebrain14-user-guide-images/image16.png)
+![](../public/thebrain14-user-guide-images/image16.png)
 
 **Figure 9. Creating a New Account**
 
 After you click the **Create Account** button, TheBrain will send an email to the address you specified.
 
-![](../thebrain14-user-guide-images/image3.png)
+![](../public/thebrain14-user-guide-images/image3.png)
 
 Check for a message from no-reply@thebrain.com. Make sure to check your spam folder if you don’t receive the message promptly.
 
 When you open the message, you will see a green **Activate Brain Account** link. After you click the link, you’ll see a notice confirming your success.
 
 
-![](../thebrain14-user-guide-images/image17.png)
+![](../public/thebrain14-user-guide-images/image17.png)
 
 **Figure 10. Activating a New Account**
 
 Now you can return to TheBrain and log in.
 
-![](../thebrain14-user-guide-images/image18.png)
+![](../public/thebrain14-user-guide-images/image18.png)
 
 **Figure 11. Welcome to TheBrain**
 
 
 Click “Create a Quick-Start Brain” and follow the directions on the screen to enter a personalized name for this brain. The Quick-Start brain is actually a dynamic resource for learning more about using your brains and you’ll find a wealth of useful information in it. Click any of the links to see what is displayed.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 You can always create a new Quick-Start brain by selecting the
 
@@ -265,13 +265,13 @@ TheBrain 7 or 8 have filename extensions of **.brain**. Brains created in some e
 
 To open a **.brn** file that you created in a version **older** than TheBrain 8, first
 
-![](../thebrain14-user-guide-images/image3.png)
+![](../public/thebrain14-user-guide-images/image3.png)
 
 open it using TheBrain 8 and then import the resulting brain in TheBrain 13, as described in the steps below.
 
 Any older Brain must be opened in TheBrain version 8.0.2.2 before it can be
 
-![](../thebrain14-user-guide-images/image3.png)
+![](../public/thebrain14-user-guide-images/image3.png)
 
 imported into TheBrain 1till be downloaded and installed. Please contact for a v8.0.2.2 download link.
 
@@ -281,7 +281,7 @@ To open a brain that you created in TheBrain 8:
 
 2. Click the **File** menu, then click the **Import** command.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 All dialog boxes can also be navigated via the
 
@@ -294,7 +294,7 @@ and
 keys.
 
 
-![](../thebrain14-user-guide-images/image20.png)
+![](../public/thebrain14-user-guide-images/image20.png)
 
 **Figure 12. Import Box for Opening an Older Brain**
 
@@ -307,7 +307,7 @@ keys.
 5. When TheBrain has finished importing, you will see the following dialog box. Click the **Open** button to open the brain you just imported in a new tab of TheBrain window.
 
 
-![](../thebrain14-user-guide-images/image22.png)
+![](../public/thebrain14-user-guide-images/image22.png)
 
 **Figure 14. Open the Imported Brain in a New Tab**
 
@@ -315,25 +315,25 @@ keys.
 
 Here are some tips for establishing a happy relationship with your brain:
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 You may want to attend one of TheBrain’s free online seminars on getting started―TheBrain 101. To learn more about TheBrain 101, go to
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 Avoid “converting” to a Brain-only environment all at once. Make the transition on a file-by-file basis so that every piece of information your brain contains will be useful.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 Build your brain as you go—associating thoughts as they occur naturally.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 Avoid the temptation to move large folders into your brain. TheBrain can handle this, but your brain will be cluttered with thoughts you may not need.
 
 Remember that your first brain doesn’t need to be your *only* brain or your *last* brain. Experiment! Create a brain just for fun, to try out the possibilities—give yourself room to stretch and explore. Your brain is waiting!
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Questions? Contact TheBrain Support Team right from within TheBrain app by choosing
 

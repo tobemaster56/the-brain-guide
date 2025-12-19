@@ -1,6 +1,6 @@
 # TheBrain14-User-Guide-v01
 
-![](../thebrain14-user-guide-images/image1.png)
+![](../public/thebrain14-user-guide-images/image1.png)
 
 Companion for using Version 14 of TheBrain for Windows and macOS.
 

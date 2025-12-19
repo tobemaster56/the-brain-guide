@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TheBarin Knowledgebase",
+  title: "TheBrain Knowledgebase",
   description: "Connecting every moment of inspiration. theBarin user-specific smart navigation.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -54,15 +54,15 @@ export default defineConfig({
       lang: 'en',
       link: '/en/user-guide'
     },
-    zh: {
-      label: '简体中文',
-      lang: 'zh',
-      link: '/zh/user-guide'
-    },
-    'zh-TW': {
-      label: '繁體中文',
-      lang: 'zh-TW',
-      link: '/zh-TW/user-guide'
-    }
+    // zh: {
+    //   label: '简体中文',
+    //   lang: 'zh',
+    //   link: '/zh/user-guide'
+    // },
+    // 'zh-TW': {
+    //   label: '繁體中文',
+    //   lang: 'zh-TW',
+    //   link: '/zh-TW/user-guide'
+    // }
   }
 })

@@ -4,7 +4,7 @@ You can think of the parts of TheBrain’s content area as personal assistants w
 
 The content area keeps all of your thought-specific notes and attachments. Attachments can be files, web pages, pictures, and more.
 
-![](../thebrain14-user-guide-images/image218.png)
+![](../public/thebrain14-user-guide-images/image218.png)
 
 **Figure 192. TheBrain’s Content Area**
 
@@ -21,13 +21,13 @@ mouse, select the “Update displayed content on hover” option in the **Behavi
 - A red border highlights the content area when the content belongs to a moused-over thought.
 
 
-![](../thebrain14-user-guide-images/image219.png)
+![](../public/thebrain14-user-guide-images/image219.png)
 
 **Figure 193. Content of an Inactive Thought after Behavior Preference is Changed**
 
 Preferences are global; whatever options are selected when one brain is active
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 will also be selected in your other brains. Of course, you can change your
 
@@ -42,17 +42,17 @@ Window section on page 38 for details. While you’re working on content you
 might find it convenient to maximize the content area.
 
 
-![](../thebrain14-user-guide-images/image220.png)
+![](../public/thebrain14-user-guide-images/image220.png)
 
 **Figure 194. Maximizing the Content Area**
 
 - The size of the content area depends on the size of TheBrain window, but when the plex and the content area are side-by-side, you’re in control of how much of the available space each area occupies. Just point the mouse at the line between the two areas and when the double-headed arrow appears, drag left or right to change the proportions.
 
-![](../thebrain14-user-guide-images/image221.png)
+![](../public/thebrain14-user-guide-images/image221.png)
 
 **Figure 195. Making the Content Area More Wide or Narrow**
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -73,7 +73,7 @@ TheBrain formats its notes using markdown. Users have the option of either viewi
 
 Additionally, you can switch this setting with a button in the content area toolbar with the Show Markdown button.
 
-![](../thebrain14-user-guide-images/image222.png)
+![](../public/thebrain14-user-guide-images/image222.png)
 
 **Figure 196. The Show Markdown Button**
 
@@ -83,7 +83,7 @@ Even when Markdown is hidden, some keyboard shortcuts will still be operational 
 
 Take a note, capture your ideas, or create your next literary masterpiece!
 
-![](../thebrain14-user-guide-images/image223.png)
+![](../public/thebrain14-user-guide-images/image223.png)
 
 **Figure 197. A Note-Worthy Note**
 
@@ -98,7 +98,7 @@ you’ll have an excellent array of options at your fingertips.
 
 Depending on how wide you’ve made your content area, you may see the fully expanded toolbar or the compact version. Either way, you’ll have access to all tools via buttons providing access to the additional commands. By default, unless the content area is stretched wide, the compact version of the toolbar will be displayed.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -116,24 +116,24 @@ window. (Please see the
 
 section on page 64 for more information about setting global user interface preferences.)
 
-![](../thebrain14-user-guide-images/image224.png)
+![](../public/thebrain14-user-guide-images/image224.png)
 
 **Figure 198. Compact and Expanded Versions of the Content Area Toolbar**
 
 Unlike earlier versions of TheBrain software, the content area toolbar is always on display when the content area is open, but does not have your cursor focus.
 
-![](../thebrain14-user-guide-images/image225.png)
+![](../public/thebrain14-user-guide-images/image225.png)
 
 **Figure 199. The Compact Content Area toolbar**
 
 
 Here are the buttons that show when the expanded content area toolbar is displayed. The annotations point out special buttons you may not see in other text editors.
 
-![](../thebrain14-user-guide-images/image226.png)
+![](../public/thebrain14-user-guide-images/image226.png)
 
 **Figure 200. Buttons on the Expanded Content Area toolbar**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 All Notes features are always available no matter which content area toolbar—compact or expanded—is displayed.
 
@@ -217,7 +217,7 @@ Use the question mark icon link in the content area toolbar to TheBrain
 Markdown Reference Guide for more clarity on how you can utilize markdown by typing directly into the notes.
 
 
-![](../thebrain14-user-guide-images/image227.png)
+![](../public/thebrain14-user-guide-images/image227.png)
 
 **Figure 201. Link to TheBrain’s Markdown Reference Guide**
 
@@ -235,7 +235,7 @@ The markdown formatting commands for underscoring now utilizes an underscore and
 
 This word is _{underlined}_ in TheBrain 13.
 
-![](../thebrain14-user-guide-images/image228.png)
+![](../public/thebrain14-user-guide-images/image228.png)
 
 **Figure 202. Render Underscore Tags as Italics**
 
@@ -244,17 +244,17 @@ This word is _{underlined}_ in TheBrain 13.
 By default, your notes will display as a single page. Long notes will utilize a scroll bar to navigate in a linear direction. This is called the Simple View. If desired, multi-column notes can be displayed. In **Preferences**, under the **Notes Editor** tab, the **Layout** setting can be toggled between **Simple** and **Multi-column**.
 
 
-![](../thebrain14-user-guide-images/image229.png)
+![](../public/thebrain14-user-guide-images/image229.png)
 
 **Figure 203. Switching to Multi-Column Layout**
 
-![](../thebrain14-user-guide-images/image230.png)
+![](../public/thebrain14-user-guide-images/image230.png)
 
 **Figure 204. A Multi-Column Note**
 
 If you are still seeing just a single column in Multi-column Layout, try giving the
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 content area more screen real estate. Use the smart splitter to make the plex smaller. Multi-column notes are best suited for high resolution monitors.
 
@@ -263,7 +263,7 @@ content area more screen real estate. Use the smart splitter to make the plex sm
 To enter a note, activate the thought to which the note pertains, then click in the open area of the content area and begin typing. The content area toolbar will remain displayed whenever the content area is visible.
 
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Notes are saved automatically when another thought is activated and will be saved when closing a brain and prior to an unlikely crash in the application.
 
@@ -287,17 +287,17 @@ o Double-click to select an entire word, triple-click to select an entire line
 
 - To toggle a check box on or off, follow a link, or open an attachment in the content area, press the **Ctrl+L** keyboard shortcut.
 
-![](../thebrain14-user-guide-images/image6.png)
+![](../public/thebrain14-user-guide-images/image6.png)
 
 Double space to create a period in notes on macOS.
 
 One special feature for TheBrain notes is that if **no** text is selected and you
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 select a formatting command such as bold, highlighting, or change in typeface or font size, the formatting will apply to the entire word in which the cursor is currently blinking.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -326,7 +326,7 @@ Additionally, AI can be used to improve, modify, edit and summarize an existing 
 
 To create a new note from scratch, navigate to your desired thought and click on the AI button in the content area toolbar. Select Generate Note.
 
-![](../thebrain14-user-guide-images/image231.png)
+![](../public/thebrain14-user-guide-images/image231.png)
 
 **Figure 205. Generate a Note with AI**
 
@@ -343,7 +343,7 @@ you’re looking for? Try bumping up the creativity level and let AI start think
 
 - **Word Count** – Specify between 50 – 1000 words for your new note with the Word Count Slider.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -352,7 +352,7 @@ Although the maximum word count is 1000, you can always add more text manually l
 
 - **Language** – Regardless of your default language settings, your AI query results can be generated in one of 78 different languages.
 
-![](../thebrain14-user-guide-images/image232.png)
+![](../public/thebrain14-user-guide-images/image232.png)
 
 **Figure 206. Modifying the AI options**
 
@@ -395,14 +395,14 @@ Modern Slang •
 
 Corrects all spelling and grammar mistakes and/or suggests new options.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
 After a Correct Spelling & Grammer in Note modification, it may be a good time to review changes in the merged view before accepting AI’s alterations.
 
 
-![](../thebrain14-user-guide-images/image233.png)
+![](../public/thebrain14-user-guide-images/image233.png)
 
 **Figure 207. Viewing Merged Changes**
 
@@ -444,7 +444,7 @@ When you’re typing in the Notes editor, the **Tab** key performs different fun
 
 - Whether text is selected
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 **Tab**
 
@@ -480,7 +480,7 @@ As in most text processing software, holding the **Shift** key while pressing th
 
 - Pressing the **Tab** key moves the cursor to the next cell.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Tab characters can’t be inserted into the middle of a line of text. If you want to align text into columns, it’s most efficient to format using a table.
 
@@ -499,7 +499,7 @@ Or
 
 Choices on the context menu include: **Collapse All Except Here**, **Expand All**, **Collapse All**, **Expand Here**, and **Collapse Here**.
 
-![](../thebrain14-user-guide-images/image234.png)
+![](../public/thebrain14-user-guide-images/image234.png)
 
 **Figure 208. Options for Expanding or Collapsing Note Sections**
 
@@ -512,7 +512,7 @@ look of each of your brains. You can use a different style for each different br
 
 Notes style and formatting will be preserved if you copy and paste a note’s content from one thought into another. To easily copy an entire note, right click
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 anywhere inside the note to use the
 
@@ -526,7 +526,7 @@ HTML for pasting into other applications.
 
 - To select a style, click in the **Notes** tab, click the **More** button, then click the **Notes Style** command (or just click the **Notes style** button if the toolbar is expanded), then click a style of your choice from the **Edit Notes Style** box.
 
-![](../thebrain14-user-guide-images/image235.png)
+![](../public/thebrain14-user-guide-images/image235.png)
 
 **Figure 209. Setting the Notes Style**
 
@@ -534,7 +534,7 @@ Note Styles also follow a “responsive web design guidelines” approach which 
 
 You can also apply a Notes Style to a Theme, so that it will be in place when
 
-![](../thebrain14-user-guide-images/image3.png)
+![](../public/thebrain14-user-guide-images/image3.png)
 
 you use that theme with another brain. The techniques for fine-tuning the various Style attributes are the same, whether you start in the content area or the
 
@@ -543,7 +543,7 @@ you use that theme with another brain. The techniques for fine-tuning the variou
 dialog box. For details about viewing and changing the appearance of notes in the content area, please see Changing the Content Area’s Default Attributes beginning on page 49.
 
 
-![](../thebrain14-user-guide-images/image236.png)
+![](../public/thebrain14-user-guide-images/image236.png)
 
 **Figure 210. Appearance of Some Notes Styles**
 
@@ -551,13 +551,13 @@ Each Note Style has a set of paragraph styles that help you format your notes
 
 consistently. If you don’t choose a paragraph style, the text is automatically attached to a paragraph style named “Normal.”
 
-![](../thebrain14-user-guide-images/image237.png)
+![](../public/thebrain14-user-guide-images/image237.png)
 
 **Figure 211. Paragraph Styles**
 
 Paragraph styles apply to entire paragraphs. To select one, just click anyplace
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 with the paragraph, then click the paragraph style of your choice. If you change to a different Notes Style, the text will change accordingly, based on the paragraph styles you’ve selected.
 
@@ -566,7 +566,7 @@ with the paragraph, then click the paragraph style of your choice. If you change
 
 In addition to changing the size of text by choosing different notes and paragraph styles, you can quickly adjust text to a size that is most comfortable for you. It’s as easy as clicking the **AAText Size** button, then dragging the slider up or down!
 
-![](../thebrain14-user-guide-images/image238.png)
+![](../public/thebrain14-user-guide-images/image238.png)
 
 **Figure 212. Slider for Making Note Text Larger or Smaller**
 
@@ -574,7 +574,7 @@ In addition to changing the size of text by choosing different notes and paragra
 
 Quickly adjust paragraph alignment to left, center or right. Place your cursor anywhere in a paragraph and click on the desired justification.
 
-![](../thebrain14-user-guide-images/image239.png)
+![](../public/thebrain14-user-guide-images/image239.png)
 
 **Figure 213. Paragraph Alignment**
 
@@ -583,7 +583,7 @@ Quickly adjust paragraph alignment to left, center or right. Place your cursor a
 Place your cursor anywhere in a paragraph, then click the **Font** button to select from of over 900 font families. Fonts are consistent across platforms, so your notes will look the same on Windows, macOS and mobile devices.
 
 
-![](../thebrain14-user-guide-images/image240.png)
+![](../public/thebrain14-user-guide-images/image240.png)
 
 **Figure 214. Fonts**
 
@@ -594,7 +594,7 @@ Move through large sections of the font list using the **Next** and **Previous**
 Create tables inside of the content area by clicking on **Insert** and selecting **Insert Table**. Tables can also be created by copying and pasting from Excel, Word or tables in other notes. When Show Markdown is active, to start a new table, type a word or sentence surrounded by pipe symbols, such as: “|this is a new table|.” Tables can include formatting and images, and cells can be right, center or left justified, using the content area toolbar buttons or with markdown formatting.
 
 
-![](../thebrain14-user-guide-images/image241.png)
+![](../public/thebrain14-user-guide-images/image241.png)
 
 **Figure 215. A Table Inserted in the Content Area**
 
@@ -602,12 +602,12 @@ When adding a table, you may select the number of columns and rows. More
 
 can be added at a later date if necessary.
 
-![](../thebrain14-user-guide-images/image242.png)
+![](../public/thebrain14-user-guide-images/image242.png)
 
 **Figure 216. Inserting a New 7x6 Table**
 
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 pipe characters and optional justification tags). The header will not be visible
 
@@ -664,13 +664,13 @@ location in the table.
 
 Click anywhere in an existing table and then click on the table icon on the upper left-hand corner of the table to activate a **Table Controls Bar** below the content area toolbar.
 
-![](../thebrain14-user-guide-images/image243.png)
+![](../public/thebrain14-user-guide-images/image243.png)
 
 **Figure 217. Table Control Bar**
 
 From here, you can move selected rows and columns left, right, up, down or duplicate the selected cells. Buttons will only appear for options that are possible depending on which cells are selected. From the Table Controls Bar, the Table Theme Editor can also be opened.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Additional commands are available by right clicking in a table, such as Move, Justify, Select All in Table, Split Table and Toggle Table Toolbar.
 
@@ -686,7 +686,7 @@ Selecting Table Theme Editor from the Table Controls bar will open a pop-up wind
 - First Column Text, Background and Lines
 
 
-![](../thebrain14-user-guide-images/image244.png)
+![](../public/thebrain14-user-guide-images/image244.png)
 
 **Figure 218. Table Theme Window**
 
@@ -700,12 +700,12 @@ You can easily add a Table of Contents into any existing note. The Table of Cont
 
 - Click in the note where you want the Table of Contents to begin, then click the **Insert** button and select **InsertTable of Contents** option in the content area toolbar. When **Show Markdown** is activated, type **[/toc/]**.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 The Table of Contents that is created will only include the content that appears below it.
 
 
-![](../thebrain14-user-guide-images/image245.png)
+![](../public/thebrain14-user-guide-images/image245.png)
 
 **Figure 219. Table of Contents**
 
@@ -717,20 +717,20 @@ The Table of Contents that is created will only include the content that appears
 
 - For a quick pop-up window that contains the note’s Table of Contents, right- click in the note or press **Ctrl+T**.
 
-![](../thebrain14-user-guide-images/image246.png)
+![](../public/thebrain14-user-guide-images/image246.png)
 
 **Figure 220. Pop Up Table of Contents**
 
 **Spell Checking**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 A spell checker is automatically at work for your notes. Possible misspellings are automatically highlighted and you can right-click to view suggestions. Click the
 
 
 suggestion of your choice to replace the misspelled word. You can customize the dictionary by adding words to it.
 
-![](../thebrain14-user-guide-images/image247.png)
+![](../public/thebrain14-user-guide-images/image247.png)
 
 **Figure 221. Spell Checker in a Note**
 
@@ -738,13 +738,13 @@ If you prefer not to see misspellings flagged as you type:
 
 - Click in the **Notes** tab, click the **More** button, then click the **Check Spelling** **as You Type** command (or just click the **Check Spelling as You Type** button if the toolbar is expanded).
 
-![](../thebrain14-user-guide-images/image248.png)
+![](../public/thebrain14-user-guide-images/image248.png)
 
 **Figure 222. Disabling Spell Checking**
 
 This is a toggle command. When you want to turn the feature on again, follow
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 the same procedure.
 
@@ -759,11 +759,11 @@ You can insert horizontal rules (lines) for organizing notes into sections visua
 
 - Horizontal Rules can also be added manually by typing 3 hyphens, even when Markdown is hidden.
 
-![](../thebrain14-user-guide-images/image249.png)
+![](../public/thebrain14-user-guide-images/image249.png)
 
 **Figure 223. Inserting a Horizontal Rule**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Typing 10 hyphens will create a Page Break in the note; however, this option is only enabled when Show Markdown is activated.
 
@@ -784,7 +784,7 @@ incomplete. You can either create the list as you type or turn any existing text
 
 3. When a task is complete, click the check box to display a check mark or click it again to remove the check mark if you decide the task isn’t complete after all.
 
-![](../thebrain14-user-guide-images/image250.png)
+![](../public/thebrain14-user-guide-images/image250.png)
 
 **Figure 224. Formatting Text as a Check Box List**
 
@@ -792,18 +792,18 @@ incomplete. You can either create the list as you type or turn any existing text
 
 - Click the **Right Panel** button in the upper-right area next to the Search box or click the **To Do List** command on the **View** menu.
 
-![](../thebrain14-user-guide-images/image251.png)
+![](../public/thebrain14-user-guide-images/image251.png)
 
 **Figure 225. Two Ways to Open the To Do List for All Thoughts**
 
 
 The To Do List panel is displayed:
 
-![](../thebrain14-user-guide-images/image252.png)
+![](../public/thebrain14-user-guide-images/image252.png)
 
 **Figure 226. A To Do List for All Thoughts**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 When you click a check box in one location, such as the To Do List panel, it is automatically checked off in the other location (the thought) and vice versa.
 
@@ -830,15 +830,15 @@ option for Clicking Links in Notes can be set to Follows Link (automatically lau
 
 without activating the URL).
 
-![](../thebrain14-user-guide-images/image253.png)
+![](../public/thebrain14-user-guide-images/image253.png)
 
 **Figure 227. A Target Link Pop-Up on Hyperlinked Text**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Videos from YouTube are embedded into notes in a playable form automatically. Just drag and drop from your browser into your notes.
 
-![](../thebrain14-user-guide-images/image254.png)
+![](../public/thebrain14-user-guide-images/image254.png)
 
 **Figure 228. Dragging a Web Link into a Note**
 
@@ -847,11 +847,11 @@ Videos from YouTube are embedded into notes in a playable form automatically. Ju
 
 the URL will be broken—just use the **Undo** command on the **Edit** menu or press **Ctrl-Z** if you delete a bracket by accident.
 
-![](../thebrain14-user-guide-images/image255.png)
+![](../public/thebrain14-user-guide-images/image255.png)
 
 **Figure 229. Revising Link Text in a Note**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Copying an image pasted in a note will put the image on the clipboard.
 
@@ -876,7 +876,7 @@ Pressing **Ctrl/Cmd+K** is a shortcut to:
 For example, double-clicking “Volunteer Opportunities” in the example below creates a link to that thought in the notes for “Goals.”
 
 
-![](../thebrain14-user-guide-images/image256.png)
+![](../public/thebrain14-user-guide-images/image256.png)
 
 **Figure 230. The Ctrl/Cmd+K Shortcut**
 
@@ -886,7 +886,7 @@ For example, double-clicking “Volunteer Opportunities” in the example below 
 
 The link command includes all the features of **Quick Thought Creation** so you can insert all types of relationships easily.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Alternatively, you can type
 
@@ -905,7 +905,7 @@ You can take a screen capture of virtually anything you can see on the screen an
 - Click and drag a rectangle around the area to be captured as an image in your note.
 
 
-![](../thebrain14-user-guide-images/image257.png)
+![](../public/thebrain14-user-guide-images/image257.png)
 
 **Figure 231. Capture Image from the Content Area Toolbar**
 
@@ -921,7 +921,7 @@ $$mr\left(\frac{2\pi}{T}\right)2 = G\frac{mM}{r2} \rightarrow T2 = \left(\frac{4
 
 **Result:**
 
-![](../thebrain14-user-guide-images/image258.png)
+![](../public/thebrain14-user-guide-images/image258.png)
 
 mbols can be found at or
 
@@ -932,7 +932,7 @@ rtcut of $$ can still be used to insert mathematical expressions.
 Select an image in a note to see its size as a percentage. The size display will update as the image is being resized.
 
 
-![](../thebrain14-user-guide-images/image259.png)
+![](../public/thebrain14-user-guide-images/image259.png)
 
 **Figure 232. Image Size Displayed as a Percentage When Selected**
 
@@ -942,7 +942,7 @@ Click the **Find & Replace** button in the content area toolbar to open the **Fi
 
 Your cursor will remain on the current selected highlight when you close the Find/Replace fields.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 The
 
@@ -956,7 +956,7 @@ field if you are just looking for specific text to be highlighted within a long 
 
 **Printing Notes**
 
-![](../thebrain14-user-guide-images/image7.png)
+![](../public/thebrain14-user-guide-images/image7.png)
 
 To print the active note, press
 
@@ -981,7 +981,7 @@ button if the toolbar is expanded). The
 dialog box will open and you can fine-tune your print request.
 
 
-![](../thebrain14-user-guide-images/image260.png)
+![](../public/thebrain14-user-guide-images/image260.png)
 
 **Figure 233. Printing a Note**
 
@@ -1036,7 +1036,7 @@ o**Markdown Options**
 
 - **Open in Browser** – Note will open as HTML in your default web browser.
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 **Additional Note Features**
 
@@ -1106,13 +1106,13 @@ In addition to notes, each thought in your brain can have content associated wit
 provided by the **Attach** button in the content area toolbar. To access your attachments, just click their links in the content area.
 
 
-![](../thebrain14-user-guide-images/image261.png)
+![](../public/thebrain14-user-guide-images/image261.png)
 
 **Figure 234. The Attach Button in the Content Area**
 
 **Attaching Files**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 You can use standard “drag and drop” techniques to add file attachments into your brain from other programs to a thought or to create new thoughts.
 
@@ -1125,7 +1125,7 @@ You can use standard “drag and drop” techniques to add file attachments into
 the thought name shows you that you’re about to attach the file to that thought. You can select multiple items and drag them all at the same time.
 
 
-![](../thebrain14-user-guide-images/image262.png)
+![](../public/thebrain14-user-guide-images/image262.png)
 
 **Figure 235. Dragging and Dropping a File into the Content Area**
 
@@ -1133,7 +1133,7 @@ the thought name shows you that you’re about to attach the file to that though
 
 By default, all files that you drag and drop into your brain will create a copy of the original file. You can easily change the default to suit your environment. Please see the Behavior Preferences section on page 64 for information about viewing and changing the “On drag and drop of files” setting.
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -1143,11 +1143,11 @@ You can also override the current drag and drop setting in the
 
 window by holding down the following keys as you drag and drop:
 
-![](../thebrain14-user-guide-images/image7.png)
+![](../public/thebrain14-user-guide-images/image7.png)
 
 **In Windows**
 
-![](../thebrain14-user-guide-images/image104.png)
+![](../public/thebrain14-user-guide-images/image104.png)
 
 **InmacOS**
 
@@ -1159,7 +1159,7 @@ window by holding down the following keys as you drag and drop:
 
 **Attaching Links to Files and Folders without Dragging**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 You can also add a file attachment to the active thought without dragging and dropping.
 
@@ -1170,13 +1170,13 @@ You can also add a file attachment to the active thought without dragging and dr
 
 2. Click **Link to File** or **Link to Folder**, navigate to the item, then click the **Open** button.
 
-![](../thebrain14-user-guide-images/image263.png)
+![](../public/thebrain14-user-guide-images/image263.png)
 
 **Figure 236. Using Link to File to Add a File Attachment**
 
 4. The content area will display the details of the new attachment.
 
-![](../thebrain14-user-guide-images/image264.png)
+![](../public/thebrain14-user-guide-images/image264.png)
 
 **Figure 237. Content Area after a Link to a File is Attached**
 
@@ -1209,7 +1209,7 @@ From here you can click the **X** button to return to the notes, click the up-ar
 
 **Attaching Web Pages**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 Adding URL attachments to your brain is a simple process. TheBrain’s built-in browser will display each web page in the content area.
 
@@ -1224,7 +1224,7 @@ The easiest method for linking a web page into your brain is to simply drag and 
 - Drag and drop into the body of an existing note for a hyperlink.
 
 
-![](../thebrain14-user-guide-images/image265.png)
+![](../public/thebrain14-user-guide-images/image265.png)
 
 **Figure 238. TheBrain’s Built-In Web Browser**
 
@@ -1234,7 +1234,7 @@ You can also add a web page attachment to the active thought by clicking the **A
 
 - Click **Link to URL**, paste or type the URL address into the empty field, then press the **Enter** key.
 
-![](../thebrain14-user-guide-images/image266.png)
+![](../public/thebrain14-user-guide-images/image266.png)
 
 **Figure 239. Adding a Web Page Attachment using the Attach Button**
 
@@ -1243,13 +1243,13 @@ If the URL you are attaching to your thought already exists as an attachment on 
 
 The name of the duplicate URL will be displayed in the warning message.
 
-![](../thebrain14-user-guide-images/image267.png)
+![](../public/thebrain14-user-guide-images/image267.png)
 
 **Figure 240. URL Exists**
 
 TheBrain’s built in browser allows you to open archived web pages for
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 attached URLs. In the context menu for any URL attachment, select
 
@@ -1259,7 +1259,7 @@ attached URLs. In the context menu for any URL attachment, select
 
 **Attaching Video and Sound Files**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 TheBrain 13 includes a built-in media player that can enables playback of several common video and audio files.
 
@@ -1272,7 +1272,7 @@ As the window is resized, the video player and its controls scale to fit within 
 A fading animation is utilized to hide and display the controls as necessary when video is playing. For audio files, the controls are displayed in the center of the available space and do not fade out at any time.
 
 
-![](../thebrain14-user-guide-images/image268.png)
+![](../public/thebrain14-user-guide-images/image268.png)
 
 **Figure 241. TheBrain’s Built-In Media Player**
 
@@ -1283,7 +1283,7 @@ A fading animation is utilized to hide and display the controls as necessary whe
 | Video | mov, mp4, h264, h263, mpeg, mpg, avi, mkv, wmv | mkv | 3gp |
 | Audio | mp3, wav, aac, ts, flac | pcm, wma | aiff, ac3 |
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -1294,7 +1294,7 @@ Attachments can be moved between thoughts by using drag and drop directly from t
 An attachment that is a web page has a slightly different menu—and it’s also slightly different based on whether it’s showing in the note or with the attachment “in place,” meaning in TheBrain’s built-in browser. Access the menu by either right-clicking attachment in the note or by the **Actions** menu button in the content area where the web page is displayed.
 
 
-![](../thebrain14-user-guide-images/image269.png)
+![](../public/thebrain14-user-guide-images/image269.png)
 
 **Figure 242. URL Attach Menu in Notes and in Place**
 
@@ -1320,7 +1320,7 @@ The rest of the commands work as they do for file attachments.
 
 When a thought’s attachments are modified, the modification date of the
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 thought is also automatically updated, improving the accuracy of your searches
 
@@ -1331,7 +1331,7 @@ and filters.
 
 Use the **Next** and **Previous** navigational arrows in the top-right corner of the content area toolbar to browse through attachments.
 
-![](../thebrain14-user-guide-images/image270.png)
+![](../public/thebrain14-user-guide-images/image270.png)
 
 **Figure 243. Next and Previous Arrows**
 
@@ -1350,13 +1350,13 @@ toolbar (or keep clicking the **Previous** button until the notes appear).
 - Double-click the image you want to see first to maximize it, then click the **Next** button to display the next picture.
 
 
-![](../thebrain14-user-guide-images/image271.png)
+![](../public/thebrain14-user-guide-images/image271.png)
 
 **Figure 244. A Picture from Notes in Slideshow Mode**
 
 **Working with Multiple Attachments**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 You can add multiple attachments to thoughts and you can have many types of attachments for a single thought. For example, if you have a thought for a person, you might attach their blog as a web page, and their resume in a file—all in the same thought.
 
@@ -1364,7 +1364,7 @@ Multiple attachments can be brought into TheBrain at a single time using drag an
 
 When there is more than one attachment, the number of attachments is displayed on the thought icon. For example, the thought shown below has two attachments:
 
-![](../thebrain14-user-guide-images/image272.png)
+![](../public/thebrain14-user-guide-images/image272.png)
 
 **Figure 245. Number of Attachments Indicator**
 
@@ -1388,7 +1388,7 @@ Existing attachments within a brain can be cut or copied onto your clipboard. Yo
 
 **Creating an Event as an Attachment**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 You can use the
 
@@ -1409,13 +1409,13 @@ There may be types of files that you create frequently that share a common look 
 1. Click the **Attach** button in the content area, then click the **Add File from** **Template** command.
 
 
-![](../thebrain14-user-guide-images/image273.png)
+![](../public/thebrain14-user-guide-images/image273.png)
 
 **Figure 246. Adding a File from a Template**
 
 2. In the **Create File from Template** tab, any previously created templates will appear under the “User Templates” heading and the built-in templates will appear under “System Templates.” Click the file type of your choice.
 
-![](../thebrain14-user-guide-images/image274.png)
+![](../public/thebrain14-user-guide-images/image274.png)
 
 **Figure 247. Selecting a Template**
 
@@ -1426,7 +1426,7 @@ TheBrain—as usual, as you’re working. By default, the new file will have the
 Remember to click on **Template Help** under the **Attach** button if you want to add new and/or custom file types to your existing template list.
 
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -1438,13 +1438,13 @@ If you have copied an image, you can click the **Attach** button in the content 
 
 Additionally, multiple image files can be copy/pasted or drag/dropped into TheBrain as attachments at a single time.
 
-![](../thebrain14-user-guide-images/image275.png)
+![](../public/thebrain14-user-guide-images/image275.png)
 
 **Figure 248. Pasting In an Image**
 
 **Using the “Save As” Command**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 You can use any application’s “Save as” command to create a new file inside your brain. For example, if you have opened a Word file that is an internal attachment to a thought, you would click the
 
@@ -1465,7 +1465,7 @@ referenced in another note—but you figured it might be too complicated to go s
 
 related thoughts.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Related thoughts do not have to be visible in the plex in order to display in the content area.
 
@@ -1473,13 +1473,13 @@ Related thoughts do not have to be visible in the plex in order to display in th
 
 When a thought name appears within notes, your brain recognizes it automatically as a “mention.” Both plural and singular forms of the text are recognized, so exact matches are not required.
 
-![](../thebrain14-user-guide-images/image276.png)
+![](../public/thebrain14-user-guide-images/image276.png)
 
 **Figure 249. A Thought Mention Underlined in a Note**
 
 Right-click on a Mention in a note to either link to or activate this thought.
 
-![](../thebrain14-user-guide-images/image277.png)
+![](../public/thebrain14-user-guide-images/image277.png)
 
 **Figure 250. Context Menu When Right-Clicking on a Mention**
 
@@ -1503,7 +1503,7 @@ Click on any thought name in this display to navigate to that thought. Right cli
 
 While mapped links refer to thought names, backlinks and mentions display both the names of the related thoughts and the context of the notes in which they appear.
 
-![](../thebrain14-user-guide-images/image278.png)
+![](../public/thebrain14-user-guide-images/image278.png)
 
 **Figure 251. Content Area with Related Thoughts in the Footer**
 
@@ -1512,7 +1512,7 @@ While mapped links refer to thought names, backlinks and mentions display both t
 You can activate any related thought by clicking its link in the content area footer. This enables you to add content to one note from another via links or mentions.
 
 
-![](../thebrain14-user-guide-images/image279.png)
+![](../public/thebrain14-user-guide-images/image279.png)
 
 **Figure 252. Two Kinds of Links for Related Thoughts**
 
@@ -1525,13 +1525,13 @@ from the **Unlinked Mention** section to the **Backlinks**section in the
 
 content area.
 
-![](../thebrain14-user-guide-images/image280.png)
+![](../public/thebrain14-user-guide-images/image280.png)
 
 **Figure 253. After an Unlinked Mention is Linked**
 
 Note that while links appear in **blue** by default, you can easily change their
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 color. To do so, select
 
@@ -1564,13 +1564,13 @@ To restore the thought names and/or links and mentions:
 
 Note that hiding or showing related thoughts is global and applies to your entire brain.
 
-![](../thebrain14-user-guide-images/image281.png)
+![](../public/thebrain14-user-guide-images/image281.png)
 
 **Figure 254. Context Menu Below Notes**
 
 You can also use the **Notes Editor** tab in **Preferences** to hide or display links and mentions in the content area.
 
-![](../thebrain14-user-guide-images/image282.png)
+![](../public/thebrain14-user-guide-images/image282.png)
 
 **Figure 255. Links and Mentions Section in Notes Editor Preferences**
 
@@ -1582,7 +1582,7 @@ When you hover over the area to the left of the related thoughts, you’ll see d
 - Click the down-arrow to the left of the current thought name to collapse the entire list. This symbol will become a right-arrow which you can click to expand the entire list.
 - Click any other down- or right-arrow to expand or collapse that section or item.
 
-![](../thebrain14-user-guide-images/image283.png)
+![](../public/thebrain14-user-guide-images/image283.png)
 
 **Figure 256. Collapsing or Expanding Sections**
 
@@ -1599,7 +1599,7 @@ In the example below, the four backlinks comprise every note that begins with a
 that contains one or more “George” headings.
 
 
-![](../thebrain14-user-guide-images/image284.png)
+![](../public/thebrain14-user-guide-images/image284.png)
 
 **Figure 257. Aggregated Data for “George”**
 
@@ -1607,14 +1607,14 @@ that contains one or more “George” headings.
 
 1. Create a thought whose name represents the information you want to see aggregated. In the Figure 257 example, that thought name is “George.” 2. In any thought that has information about “George” (following this example), precede the information with a standalone paragraph. This paragraph should simply have the text that matches the name of the thought for which you want aggregated data—“George” in our example. The text should be attached to a Heading stye.
 
-![](../thebrain14-user-guide-images/image285.png)
+![](../public/thebrain14-user-guide-images/image285.png)
 
 **Figure 258. “George” is Formatted as a Heading 3**
 
 3. Link the Heading by right-clicking it, then selecting **Link (*thought name*)**.
 
 
-![](../thebrain14-user-guide-images/image286.png)
+![](../public/thebrain14-user-guide-images/image286.png)
 
 **Figure 259. Linking the Heading to the Thought of the Same Name**
 
@@ -1624,7 +1624,7 @@ Any time you activate the “George” thought, you’ll see the information
 
 aggregated, as in Figure 257.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 When selecting text in a note, you will have the option to
 

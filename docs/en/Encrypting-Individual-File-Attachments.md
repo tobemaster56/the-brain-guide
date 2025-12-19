@@ -11,20 +11,20 @@ Encrypted files cannot be searched and can only be decrypted via Windows and mac
 
 1. Right-click the attachment, then click **Encrypt** in the context menu.
 
-![](../thebrain14-user-guide-images/image375.png)
+![](../public/thebrain14-user-guide-images/image375.png)
 
 **Figure 315. After Clicking on the Attachment’s Context Menu**
 
 2. Type in the prompt you want the user to see when they attempt to open the file, type a password, click the check box confirming that the file cannot be opened if the password is lost, then click the **Encrypt** button.
 
-![](../thebrain14-user-guide-images/image376.png)
+![](../public/thebrain14-user-guide-images/image376.png)
 
 **Figure 316. Example Encryption Details**
 
 3. Whenever someone attempts to open the file, they’ll see the prompt you entered. They will have to enter the correct password, then click the **Decrypt** button. After that the file can be opened by clicking on it.
 
 
-![](../thebrain14-user-guide-images/image377.png)
+![](../public/thebrain14-user-guide-images/image377.png)
 
 **Figure 317. Decrypting and Opening the File**
 

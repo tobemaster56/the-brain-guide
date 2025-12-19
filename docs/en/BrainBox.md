@@ -4,7 +4,7 @@ BrainBox lets you send information to your brain quickly and easily. Just click 
 
 To add content from the web tnsion in
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 your preferred browser. Go to and follow the instructions there.
 
@@ -19,7 +19,7 @@ At any time, when you have a brain open, use the **BrainBox** button in the uppe
 
 4. Hover over or click any item to display the choices for the item.
 
-![](../thebrain14-user-guide-images/image287.png)
+![](../public/thebrain14-user-guide-images/image287.png)
 
 **Figure 260. The BrainBox Button**
 
@@ -35,73 +35,73 @@ At any time, when you have a brain open, use the **BrainBox** button in the uppe
 
 - The context menu will also allow you to either **Move** from BrainBox to the active thought or **Copy** from BrainBox
 
-![](../thebrain14-user-guide-images/image288.png)
+![](../public/thebrain14-user-guide-images/image288.png)
 
-![](../thebrain14-user-guide-images/image289.png)
+![](../public/thebrain14-user-guide-images/image289.png)
 
-![](../thebrain14-user-guide-images/image290.png)
+![](../public/thebrain14-user-guide-images/image290.png)
 
-![](../thebrain14-user-guide-images/image291.png)
+![](../public/thebrain14-user-guide-images/image291.png)
 
-![](../thebrain14-user-guide-images/image292.png)
+![](../public/thebrain14-user-guide-images/image292.png)
 
-![](../thebrain14-user-guide-images/image293.png)
+![](../public/thebrain14-user-guide-images/image293.png)
 
-![](../thebrain14-user-guide-images/image294.png)
+![](../public/thebrain14-user-guide-images/image294.png)
 
-![](../thebrain14-user-guide-images/image295.png)
+![](../public/thebrain14-user-guide-images/image295.png)
 
-![](../thebrain14-user-guide-images/image296.png)
+![](../public/thebrain14-user-guide-images/image296.png)
 
-![](../thebrain14-user-guide-images/image297.png)
+![](../public/thebrain14-user-guide-images/image297.png)
 
-![](../thebrain14-user-guide-images/image298.png)
+![](../public/thebrain14-user-guide-images/image298.png)
 
-![](../thebrain14-user-guide-images/image299.png)
+![](../public/thebrain14-user-guide-images/image299.png)
 
-![](../thebrain14-user-guide-images/image300.png)
+![](../public/thebrain14-user-guide-images/image300.png)
 
-![](../thebrain14-user-guide-images/image301.png)
+![](../public/thebrain14-user-guide-images/image301.png)
 
-![](../thebrain14-user-guide-images/image302.png)
+![](../public/thebrain14-user-guide-images/image302.png)
 
-![](../thebrain14-user-guide-images/image303.png)
+![](../public/thebrain14-user-guide-images/image303.png)
 
-![](../thebrain14-user-guide-images/image304.png)
+![](../public/thebrain14-user-guide-images/image304.png)
 
-![](../thebrain14-user-guide-images/image305.png)
+![](../public/thebrain14-user-guide-images/image305.png)
 
-![](../thebrain14-user-guide-images/image306.png)
+![](../public/thebrain14-user-guide-images/image306.png)
 
-![](../thebrain14-user-guide-images/image307.png)
+![](../public/thebrain14-user-guide-images/image307.png)
 
-![](../thebrain14-user-guide-images/image308.png)
+![](../public/thebrain14-user-guide-images/image308.png)
 
-![](../thebrain14-user-guide-images/image309.png)
+![](../public/thebrain14-user-guide-images/image309.png)
 
-![](../thebrain14-user-guide-images/image310.png)
+![](../public/thebrain14-user-guide-images/image310.png)
 
-![](../thebrain14-user-guide-images/image311.png)
+![](../public/thebrain14-user-guide-images/image311.png)
 
-![](../thebrain14-user-guide-images/image312.png)
+![](../public/thebrain14-user-guide-images/image312.png)
 
-![](../thebrain14-user-guide-images/image313.png)
+![](../public/thebrain14-user-guide-images/image313.png)
 
-![](../thebrain14-user-guide-images/image314.png)
+![](../public/thebrain14-user-guide-images/image314.png)
 
-![](../thebrain14-user-guide-images/image315.png)
+![](../public/thebrain14-user-guide-images/image315.png)
 
-![](../thebrain14-user-guide-images/image316.png)
+![](../public/thebrain14-user-guide-images/image316.png)
 
-![](../thebrain14-user-guide-images/image317.png)
+![](../public/thebrain14-user-guide-images/image317.png)
 
-![](../thebrain14-user-guide-images/image318.png)
+![](../public/thebrain14-user-guide-images/image318.png)
 
-![](../thebrain14-user-guide-images/image319.png)
+![](../public/thebrain14-user-guide-images/image319.png)
 
-![](../thebrain14-user-guide-images/image320.png)
+![](../public/thebrain14-user-guide-images/image320.png)
 
-![](../thebrain14-user-guide-images/image321.png)
+![](../public/thebrain14-user-guide-images/image321.png)
 
 **The BrainBox Tab**
 
@@ -136,7 +136,7 @@ Use the **BrainBox** tab to review, edit or delete existing content in your Brai
 
 Multiple items can be selected in BrainBox allowing you to move, copy or delete multiple items at one time
 
-![](../thebrain14-user-guide-images/image322.png)
+![](../public/thebrain14-user-guide-images/image322.png)
 
 .
 
@@ -151,7 +151,7 @@ You must be logged into your brain account at in the browser you are using in or
 
 You can use the browser extension or bookmarklet from any computer, even if TheBrain application is not installed on that device.
 
-![](../thebrain14-user-guide-images/image323.png)
+![](../public/thebrain14-user-guide-images/image323.png)
 
 **Figure 264. Clicking on the BrainBox Extension**
 
@@ -164,7 +164,7 @@ Send copies of individual files into your BrainBox to be organized and associate
 From Windows File Explorer, right-click on any file and select **BrainBox** from the **Send to** submenu. TheBrain will be started if it is not already running and the file will be added to BrainBox. To set up the Windows File Explorer integration, install and run TheBrain 13.
 
 
-![](../thebrain14-user-guide-images/image324.png)
+![](../public/thebrain14-user-guide-images/image324.png)
 
 **Figure 265. Sending a File to BrainBox**
 

@@ -2,7 +2,7 @@
 
 **Changing Your View of Thoughts**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 There are three views for displaying your thoughts:
 
@@ -12,7 +12,7 @@ pertaining to its parent thoughts above, child thoughts below, and jump
 
 thoughts to the left.
 
-![](../thebrain14-user-guide-images/image204.png)
+![](../public/thebrain14-user-guide-images/image204.png)
 
 **Figure 178. A Brain in Normal View**
 
@@ -20,18 +20,18 @@ thoughts to the left.
 
 thoughts.
 
-![](../thebrain14-user-guide-images/image205.png)
+![](../public/thebrain14-user-guide-images/image205.png)
 
 **Figure 179. A Brain in Outline View**
 
 - **Mind Map view:** For a horizontally expanding symmetrical layout.
 
 
-![](../thebrain14-user-guide-images/image206.png)
+![](../public/thebrain14-user-guide-images/image206.png)
 
 **Figure 180. A Brain in Mind Map View and Expanded**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 In addition to selecting a view, you can expand and collapse the display of thoughts in all views to show more or fewer generations.
 
@@ -48,11 +48,11 @@ choice, or
 - Click the **View** menu in the menu bar, then click the view of your choice
 
 
-![](../thebrain14-user-guide-images/image207.png)
+![](../public/thebrain14-user-guide-images/image207.png)
 
 **Figure 181. Three Ways to Select a View**
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -60,7 +60,7 @@ The check mark in the menu identifies the current view.
 
 A rule of thumb for when you might use each view is to use Normal view when
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 you’re creating thoughts and navigating the plex, use Outline view when you
 
@@ -71,7 +71,7 @@ and analyzing the “big picture.”
 
 **Using Outline View**
 
-![](../thebrain14-user-guide-images/image208.png)
+![](../public/thebrain14-user-guide-images/image208.png)
 
 **Figure 182. Plex in Outline View**
 
@@ -84,13 +84,13 @@ When the plex is in Outline view, you can show or hide generations of children f
 - On mouseover, a minus sign (**-**) icon will appear below the bottom edge of the thoughts’ outline if child thoughts can be collapsed or hidden. Click the **-** icon to hide that thought’s children.
 
 
-![](../thebrain14-user-guide-images/image209.png)
+![](../public/thebrain14-user-guide-images/image209.png)
 
 **Figure 183. Showing/Hiding Additional Generations of Individual Thoughts**
 
 **Using Mind Map View**
 
-![](../thebrain14-user-guide-images/image210.png)
+![](../public/thebrain14-user-guide-images/image210.png)
 
 **Figure 184. Mind Map View**
 
@@ -99,34 +99,34 @@ The Mind Map view allows switching the focused thought without changing the layo
 To navigate to another thought in your plex while in Mind Map view, right-click the desired thought and select **Activate Thought**.
 
 
-![](../thebrain14-user-guide-images/image211.png)
+![](../public/thebrain14-user-guide-images/image211.png)
 
 **Figure 185. Changing the Active Thought without Changing the Layout**
 
 As with Outline view, when the plex is in Mind Map view, you can show or hide
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 generations of children for individual thoughts by pointing the mouse at a thought, then clicking the plus sign (+) or minus sign (-) icon to show or hide the thought’s children.
 
 **Expanding and Collapsing Generations**
 
-![](../thebrain14-user-guide-images/image53.png)
+![](../public/thebrain14-user-guide-images/image53.png)
 
 Besides expanding and collapsing individual thoughts in Outline view or Mind Map view, as explained in the previous section, you can also expand and collapse generations of all thoughts in all views.
 
-![](../thebrain14-user-guide-images/image212.png)
+![](../public/thebrain14-user-guide-images/image212.png)
 
 **Figure 186. Expanding or Collapsing from the View Menu**
 
 In Outline and Mind Map view, you can also use the buttons on the toolbar to expand or collapse all visible thoughts by one generation.
 
 
-![](../thebrain14-user-guide-images/image213.png)
+![](../public/thebrain14-user-guide-images/image213.png)
 
 **Figure 187. Expanding or Collapsing by One Generation**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 work the same way as the
 
@@ -142,16 +142,16 @@ commands on the
 
 In Normal view, the **Expand** and **Collapse** by one generation on the toolbar
 
-![](../thebrain14-user-guide-images/image214.png)
+![](../public/thebrain14-user-guide-images/image214.png)
 
 **Figure 188. Jane’s Brain in Normal View with All Collapsed**
 
 
-![](../thebrain14-user-guide-images/image215.png)
+![](../public/thebrain14-user-guide-images/image215.png)
 
 **Figure 189. Jane’s Brain in Normal View after Expanding All**
 
-![](../thebrain14-user-guide-images/image4.png)
+![](../public/thebrain14-user-guide-images/image4.png)
 
 **Tip:**
 
@@ -159,7 +159,7 @@ The vertical scroll bar on the right side of the plex indicates that there are
 
 more sibling thoughts in that area which are not currently visible.
 
-![](../thebrain14-user-guide-images/image216.png)
+![](../public/thebrain14-user-guide-images/image216.png)
 
 **Figure 190. 5 Generations of Thoughts**
 
@@ -174,6 +174,6 @@ Presentation Mode makes your brain full-screen, hiding the title bar, menu bar, 
 
 - Just start typing to search and the controls appear and disappear as needed
 
-![](../thebrain14-user-guide-images/image217.png)
+![](../public/thebrain14-user-guide-images/image217.png)
 
 **Figure 191. Before and after switching to Presentation Mode**

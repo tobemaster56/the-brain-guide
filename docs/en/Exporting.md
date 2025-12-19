@@ -37,6 +37,6 @@ o This gives you access to 100% of your data in an open and easily parsed modern
 
 - To export just a portion of your brain, add thoughts first into TheBrain’s Selection panel and then check the option to **Only export the selection** in the **Export** window.
 
-![](../thebrain14-user-guide-images/image378.png)
+![](../public/thebrain14-user-guide-images/image378.png)
 
 **Figure 318. Exporting a Brain to Folders**

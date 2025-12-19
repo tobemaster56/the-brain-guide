@@ -12,7 +12,7 @@ Without making any changes, here’s what your brain looks like:
 
 - Your thoughts will be displayed in “Normal” view, meaning that you will see only the direct parents, children, jumps, and siblings of the active thought.
 
-![](../thebrain14-user-guide-images/image58.png)
+![](../public/thebrain14-user-guide-images/image58.png)
 
 **Figure 45. TheBrain Window with Default Settings**
 
@@ -21,7 +21,7 @@ Without making any changes, here’s what your brain looks like:
 The smart-splitter controls let you manage where the plex and content area display relative to each other in the Brain window.
 
 
-![](../thebrain14-user-guide-images/image59.png)
+![](../public/thebrain14-user-guide-images/image59.png)
 
 **Figure 46. Smart-Splitter**
 
@@ -38,7 +38,7 @@ The smart-splitter controls let you manage where the plex and content area displ
 When the default settings are in use and the plex is in “Normal” view, you can move the thoughts in the plex up or down, vertically, by dragging (up or down) in any blank area of the plex background.
 
 
-![](../thebrain14-user-guide-images/image60.png)
+![](../public/thebrain14-user-guide-images/image60.png)
 
 **Figure 47. Dragging the Plex Vertically**
 
@@ -51,7 +51,7 @@ The plex is the heart and soul of TheBrain. You can change the size of thoughts 
 - Click the **AA** button to activate the slider, then click and slide the bar up or down to grow or shrink the size of your thoughts.
 
 
-![](../thebrain14-user-guide-images/image61.png)
+![](../public/thebrain14-user-guide-images/image61.png)
 
 **Figure 48. Resizing Thought Size with the Slider**
 
@@ -61,7 +61,7 @@ The plex is the heart and soul of TheBrain. You can change the size of thoughts 
 
 on your mouse wheel or trackpad while your mouse pointer is in the plex.
 
-![](../thebrain14-user-guide-images/image62.png)
+![](../public/thebrain14-user-guide-images/image62.png)
 
 **Figure 49. Resizing with the Mouse or Trackpad**
 
@@ -69,14 +69,14 @@ on your mouse wheel or trackpad while your mouse pointer is in the plex.
 
 thoughts smaller or **+** to make thoughts larger.
 
-![](../thebrain14-user-guide-images/image63.png)
+![](../public/thebrain14-user-guide-images/image63.png)
 
 **Figure 50. Resizing with the Keyboard**
 
 
 - Pinch to zoom on a macOS Trackpad.
 
-![](../thebrain14-user-guide-images/image64.png)
+![](../public/thebrain14-user-guide-images/image64.png)
 
 **Figure 51. Resizing on a Trackpad**
 
@@ -88,7 +88,7 @@ The Themes feature lets you choose from many built-in designs to customize the l
 
 associated with the Theme, then save the look of your brain as a new Theme. This lets you quickly switch from one saved Theme to another.
 
-![](../thebrain14-user-guide-images/image65.png)
+![](../public/thebrain14-user-guide-images/image65.png)
 
 **Figure 52. Sample Themes**
 
@@ -99,20 +99,20 @@ associated with the Theme, then save the look of your brain as a new Theme. This
 
 2. Click the **Brain Theme** command.
 
-![](../thebrain14-user-guide-images/image66.png)
+![](../public/thebrain14-user-guide-images/image66.png)
 
 **Figure 53. Accessing the Brain Theme Dialog Box**
 
 In the **Brain Theme** box, you’ll see a scrollable list of available themes in the left panel and **Colors** and **Options** tabs in the right panel. Click on any Theme to see how it looks in the plex.
 
 
-![](../thebrain14-user-guide-images/image67.png)
+![](../public/thebrain14-user-guide-images/image67.png)
 
 **Figure 54. The Brain Theme Dialog Box**
 
 **Customizing a Theme’s Colors**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Have the
 
@@ -133,13 +133,13 @@ The default colors for virtually all items in the plex vary based on the selecte
 2. Click the color of your choice, click outside of the box of colors to close it, then click Close (**X**) (or press **Esc**) to close the **Brain Theme** box.
 
 
-![](../thebrain14-user-guide-images/image68.png)
+![](../public/thebrain14-user-guide-images/image68.png)
 
 **Figure 55. New Selected Color for Links**
 
 Note that while you can change the color of the shadow for thought text using the theme’s **Color** tab settings, you can toggle whether or not text shadows
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 are displayed using the
 
@@ -160,7 +160,7 @@ You can add customized colors if you don’t see the exact shade you want.
 1. In the color selection box, click the color that’s closest to what you want, then click the box next to “Custom,” then click the **Define Custom Colors** button.
 
 
-![](../thebrain14-user-guide-images/image69.png)
+![](../public/thebrain14-user-guide-images/image69.png)
 
 **Figure 56. Define a Custom Color**
 
@@ -172,7 +172,7 @@ or HSL numbers. Click the **Add to Custom Colors** button when you’re
 
 happy with the sample color, then click the **OK** button.
 
-![](../thebrain14-user-guide-images/image70.png)
+![](../public/thebrain14-user-guide-images/image70.png)
 
 **Figure 57. Adding a Custom Color**
 
@@ -187,7 +187,7 @@ of the **Brain Theme** box, it’s very easy to do so.
 
 1. Click the **Options** tab in the **Brain Theme** box, then click the **Wallpaper** check box.
 
-![](../thebrain14-user-guide-images/image71.png)
+![](../public/thebrain14-user-guide-images/image71.png)
 
 **Figure 58. Options Tab in the Brain Theme Dialog Box**
 
@@ -204,7 +204,7 @@ of the **Brain Theme** box, it’s very easy to do so.
 - To copy a wallpaper image to your clipboard, click the **Copy Wallpaper** button
 
 
-![](../thebrain14-user-guide-images/image72.png)
+![](../public/thebrain14-user-guide-images/image72.png)
 
 **Figure 59. Replacing or Removing Wallpaper**
 
@@ -214,7 +214,7 @@ of the **Brain Theme** box, it’s very easy to do so.
 
 2. Return to your brain, right-click in any blank area of the plex, then select **Paste Wallpaper** on the context menu.
 
-![](../thebrain14-user-guide-images/image73.png)
+![](../public/thebrain14-user-guide-images/image73.png)
 
 **Figure 60. Context Menu on the Plex**
 
@@ -225,7 +225,7 @@ By default, the font for text that appears in the plex is Helvetica. You can cha
 1. Click the **Options** tab in the **Brain Theme** box, then click the drop-down button for **Font**.
 
 
-![](../thebrain14-user-guide-images/image74.png)
+![](../public/thebrain14-user-guide-images/image74.png)
 
 **Figure 61. Changing the Font for Plex Text**
 
@@ -246,11 +246,11 @@ By default, the notes in the content area of your brains appear in a style calle
 - Click the **Notes Style** button in the content area toolbar
 
 
-![](../thebrain14-user-guide-images/image75.png)
+![](../public/thebrain14-user-guide-images/image75.png)
 
 **Figure 62. Changing the Style of Notes**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 You can also access the
 
@@ -269,11 +269,11 @@ beginning on page 171.
 2. Select an attribute from the context menu. Selecting **Font**, **Weight**, **Color**, or **LetterSpacing** will take you to an additional set of choices.
 
 
-![](../thebrain14-user-guide-images/image76.png)
+![](../public/thebrain14-user-guide-images/image76.png)
 
 **Figure 63. Style Options for Content Area Text**
 
-![](../thebrain14-user-guide-images/image77.png)
+![](../public/thebrain14-user-guide-images/image77.png)
 
 **Figure 64. Before and After Changing a Heading Color Style**
 
@@ -282,7 +282,7 @@ beginning on page 171.
 
 - Click **Custom** at the bottom of the color palette, click **Define Custom Colors**, select a color you like, then click the **OK** button.
 
-![](../thebrain14-user-guide-images/image78.png)
+![](../public/thebrain14-user-guide-images/image78.png)
 
 **Figure 65. Options for Fine-Tuning Heading Text Color**
 
@@ -290,7 +290,7 @@ beginning on page 171.
 
 - Click **Small**, **Medium**, or **Large** in the **HeadingSizes** list. The sizes will adjust automatically, based on the level of each heading.
 
-![](../thebrain14-user-guide-images/image79.png)
+![](../public/thebrain14-user-guide-images/image79.png)
 
 **Figure 66. Options for Changing Heading Size**
 
@@ -301,7 +301,7 @@ beginning on page 171.
 
 3. Click outside the palette to close it, when you’re ready.
 
-![](../thebrain14-user-guide-images/image80.png)
+![](../public/thebrain14-user-guide-images/image80.png)
 
 **Figure 67. Selecting a New Color for Body Text in the Content Area To change the font or weight of non-heading text:**
 
@@ -312,13 +312,13 @@ beginning on page 171.
 3. Press **Esc** or click outside of the list to close the box if you don’t want to make a selection.
 
 
-![](../thebrain14-user-guide-images/image81.png)
+![](../public/thebrain14-user-guide-images/image81.png)
 
 **Figure 68. Changing the Font of Content Area Body Text**
 
 4. To change the weight (the width/boldness of the characters), select a choice from the list that appears.
 
-![](../thebrain14-user-guide-images/image82.png)
+![](../public/thebrain14-user-guide-images/image82.png)
 
 **Figure 69. Changing the Weight of Content Area Body Text**
 
@@ -331,7 +331,7 @@ instantly. The list of Prebuilt Styles is grouped into **Light**, **Dark**, and 
 
 As you click each Prebuilt Style, you’ll see the Example Text instantly reflect the look.
 
-![](../thebrain14-user-guide-images/image83.png)
+![](../public/thebrain14-user-guide-images/image83.png)
 
 **Figure 70. Selecting a Prebuilt Style**
 
@@ -339,7 +339,7 @@ As you click each Prebuilt Style, you’ll see the Example Text instantly reflec
 
 You can copy, paste, import, and export styles, making it easier to create new styles. Click the Actions button to display the Copy, Paste, Import, and Export options for Styles.
 
-![](../thebrain14-user-guide-images/image84.png)
+![](../public/thebrain14-user-guide-images/image84.png)
 
 **Figure 71. Selecting a Prebuilt Style**
 
@@ -360,7 +360,7 @@ When you are happy with your content area choices, click the **Apply** button, t
 
 **Reverting to the Theme’s Default Settings**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 selected in the Themes list.
 
@@ -377,17 +377,17 @@ To switch back to the original settings for any Theme, select the Theme name in 
 3. Click the **Save Theme** button, click **Save as New** (so you don’t overwrite the original Theme), then type a name for your new theme in the field.
 
 
-![](../thebrain14-user-guide-images/image85.png)
+![](../public/thebrain14-user-guide-images/image85.png)
 
 **Figure 72. Save a Theme**
 
 4. Click the **OK** button. Your new Theme will be inserted into the list of Themes, ready for use in your other brains.
 
-![](../thebrain14-user-guide-images/image86.png)
+![](../public/thebrain14-user-guide-images/image86.png)
 
 **Figure 73. Newly Saved Theme in the Themes List**
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 Your saved Theme will also include customizations you have made in the
 
@@ -402,7 +402,7 @@ window.
 
 2. Type or revise the current name, then click the **OK** button (or press the **Enter** key).
 
-![](../thebrain14-user-guide-images/image87.png)
+![](../public/thebrain14-user-guide-images/image87.png)
 
 **Figure 74. Renaming a Theme**
 
@@ -414,12 +414,12 @@ window.
 
 Clicking on a Theme that you want to rename will activate this Theme in your
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 brain. You may want to save your current Theme first (if it has been customized) before renaming another, existing Theme.
 
 
-![](../thebrain14-user-guide-images/image88.png)
+![](../public/thebrain14-user-guide-images/image88.png)
 
 **Figure 75. Deleting a Theme**
 
@@ -431,7 +431,7 @@ Theme.
 
 **Importing and Exporting Themes**
 
-![](../thebrain14-user-guide-images/image89.png)
+![](../public/thebrain14-user-guide-images/image89.png)
 
 **Figure 76. Importing or Exporting a Theme**
 
@@ -470,7 +470,7 @@ under the **User Interface** setting.
 
 - After you give permission, TheBrain will restart and apply the change.
 
-![](../thebrain14-user-guide-images/image90.png)
+![](../public/thebrain14-user-guide-images/image90.png)
 
 **Figure 77. TheBrain in Dark Mode**
 
@@ -497,7 +497,7 @@ you make your choices.
 
 the **Preferences** command is located in the **TheBrain** menu)
 
-![](../thebrain14-user-guide-images/image91.png)
+![](../public/thebrain14-user-guide-images/image91.png)
 
 **Figure 78. Accessing Preferences**
 
@@ -518,7 +518,7 @@ TheBrain **Preferences** are organized into these categories:
 
 **Look & Feel Preferences**
 
-![](../thebrain14-user-guide-images/image92.png)
+![](../public/thebrain14-user-guide-images/image92.png)
 
 **Figure 79. Look & Feel Preferences**
 
@@ -650,7 +650,7 @@ When checked, Monday will be the first day of the week. Unchecked, Sunday will b
 
 **Behavior Preferences**
 
-![](../thebrain14-user-guide-images/image93.png)
+![](../public/thebrain14-user-guide-images/image93.png)
 
 **Figure 80. Behavior Preferences**
 
@@ -789,7 +789,7 @@ the tabbed interface.
 
 **Notes Editor Preferences**
 
-![](../thebrain14-user-guide-images/image94.png)
+![](../public/thebrain14-user-guide-images/image94.png)
 
 **Figure 81. Notes Editor Preferences**
 
@@ -1019,7 +1019,7 @@ This preference is on by default.
 
 **System Preferences**
 
-![](../thebrain14-user-guide-images/image95.png)
+![](../public/thebrain14-user-guide-images/image95.png)
 
 **Figure 82. System Preferences**
 
@@ -1069,7 +1069,7 @@ synchronization process. Check with your network administrator for the appropria
 Most Brain commands can be accessed by keyboard commands, which you can customize based on your preferences. You can even export your settings to share them with others or to transfer them from one computer to another.
 
 
-![](../thebrain14-user-guide-images/image96.png)
+![](../public/thebrain14-user-guide-images/image96.png)
 
 **Figure 83. Keyboard Preferences**
 
@@ -1083,7 +1083,7 @@ Begin typing the command in the Search
 
 commands field in the bottom-left corner of the **Keyboard** tab of the **Preferences** window.
 
-![](../thebrain14-user-guide-images/image97.png)
+![](../public/thebrain14-user-guide-images/image97.png)
 
 As you type, the list will shorten to match what you’ve typed. When you see the command
 
@@ -1098,7 +1098,7 @@ you’re looking for, note its shortcut or click it to define a new shortcut.
 
 Click the **Collapse All** button.
 
-![](../thebrain14-user-guide-images/image98.png)
+![](../public/thebrain14-user-guide-images/image98.png)
 
 You can also collapse an individual heading, for example “Application,” to collapse or
 
@@ -1106,7 +1106,7 @@ expand just that section.
 
 Click the **Expand All** button.
 
-![](../thebrain14-user-guide-images/image99.png)
+![](../public/thebrain14-user-guide-images/image99.png)
 
 **To do this …** **Do this …**
 
@@ -1129,7 +1129,7 @@ The file will be named
 
 the **Restore Defaults** command.
 
-![](../thebrain14-user-guide-images/image100.png)
+![](../public/thebrain14-user-guide-images/image100.png)
 
 **To define a new shortcut:**
 
@@ -1140,13 +1140,13 @@ the **Restore Defaults** command.
 under the **Preferences** tabs.
 
 
-![](../thebrain14-user-guide-images/image101.png)
+![](../public/thebrain14-user-guide-images/image101.png)
 
 **Figure 84. Creating a New Shortcut**
 
 3. With the command of your choice highlighted, press the function key or keyboard combination of your choice. For example, you might choose to assign the “Check for Update” command to **Ctrl**+**Shift**+**U**.
 
-![](../thebrain14-user-guide-images/image19.png)
+![](../public/thebrain14-user-guide-images/image19.png)
 
 **Ctrl**
 
@@ -1164,18 +1164,18 @@ be used as a standalone modifier
 
 Your new shortcut will display in the list. You can delete the shortcut by pressing the **Delete** key while the command is highlighted.
 
-![](../thebrain14-user-guide-images/image102.png)
+![](../public/thebrain14-user-guide-images/image102.png)
 
 **Figure 85. The New Shortcut in the List**
 
 If the keyboard shortcut you selected is already in use for another action, you will have the option to “steal” the shortcut for the current selection, or cancel the request and select a different keyboard combination.
 
 
-![](../thebrain14-user-guide-images/image103.png)
+![](../public/thebrain14-user-guide-images/image103.png)
 
 **Figure 86. Replacing an Existing Shortcut**
 
-![](../thebrain14-user-guide-images/image7.png)
+![](../public/thebrain14-user-guide-images/image7.png)
 
 **Default Shortcuts for Windows**
 
@@ -1350,7 +1350,7 @@ Splitter Left or Up **Shift**+**Ctrl**+A
 Splitter Right or Down **Shift**+**Ctrl**+S
 
 
-![](../thebrain14-user-guide-images/image104.png)
+![](../public/thebrain14-user-guide-images/image104.png)
 
 **Default Shortcuts for macOS**
 
@@ -1374,7 +1374,7 @@ Search Web **Cmd**+E
 
 **Experimental Preferences**
 
-![](../thebrain14-user-guide-images/image105.png)
+![](../public/thebrain14-user-guide-images/image105.png)
 
 **Figure 87. Experimental Preferences**
 
