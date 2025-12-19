@@ -3,6 +3,10 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "TheBrain Knowledgebase",
+  // 在这里配置 head 标签
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   description: "Connecting every moment of inspiration. theBarin user-specific smart navigation.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
