@@ -13,7 +13,7 @@ description: TheBrain 14 使用者指南 - 繁體中文版
 
 ## 目錄
 
-- [簡介](/v14/zh-TW/Introduction)
+- [簡介](/v14/en/Introduction) *(英文版)*
 
 ---
 

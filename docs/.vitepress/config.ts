@@ -40,7 +40,7 @@ const v14ZhSidebar = [
     text: '用户指南',
     items: [
       { text: '版权声明', link: '/v14/zh/' },
-      { text: '简介', link: '/v14/zh/Introduction' },
+      // { text: '简介', link: '/v14/zh/Introduction' },
     ]
   }
 ]
@@ -51,7 +51,7 @@ const v14ZhTWSidebar = [
     text: '使用者指南',
     items: [
       { text: '版權聲明', link: '/v14/zh-TW/' },
-      { text: '簡介', link: '/v14/zh-TW/Introduction' },
+      // { text: '簡介', link: '/v14/zh-TW/Introduction' },
     ]
   }
 ]
