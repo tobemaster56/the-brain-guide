@@ -187,5 +187,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/tobemaster56/the-brain-guide' }
     ]
+  },
+  sitemap: {
+    hostname: 'https://thebrain.ourpkm.com'
   }
 })
