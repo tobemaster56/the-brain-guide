@@ -3,7 +3,6 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
-import IconLabel from './components/IconLabel.vue'
 import LanguageSwitcher from './components/LanguageSwitcher.vue'
 
 export default {
@@ -15,7 +14,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    app.component('IconLabel', IconLabel)
     app.component('LanguageSwitcher', LanguageSwitcher)
   }
 } satisfies Theme

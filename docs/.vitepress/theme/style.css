@@ -137,3 +137,182 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+
+/* Notion 风格 Callout */
+.notion-callout {
+  padding: 16px 16px;
+  border-radius: 6px;
+  margin: 1rem 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #37352f;
+}
+
+.notion-callout-icon {
+  flex: 0 0 auto;
+  /* margin-top: 2px; */
+}
+
+.notion-callout-icon-emoji {
+  font-size: 22px;
+  line-height: 1;
+  user-select: none;
+}
+
+.notion-callout-icon-img {
+  display: block;
+  /* width: 28px; */
+  /* height: 28px; */
+  object-fit: contain;
+}
+
+.notion-callout-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.notion-callout-content > p:first-child { margin-top: 0; }
+.notion-callout-content > p:last-child { margin-bottom: 0; }
+
+/* 浅色：多颜色 */
+/* .notion-callout.default { background: #f1f1ef; } */
+.notion-callout.default { background: transparent; }
+.notion-callout.transparent { background: transparent; }
+.notion-callout.gray    { background: #f1f1ef; }
+.notion-callout.brown   { background: #f4eeee; }
+.notion-callout.orange  { background: #fbf3db; }
+.notion-callout.yellow  { background: #fbf3db; }
+.notion-callout.green   { background: #edf3ec; }
+.notion-callout.blue    { background: #e3f2fd; }
+.notion-callout.purple  { background: #f7f3f8; }
+.notion-callout.pink    { background: #fbf2f5; }
+.notion-callout.red     { background: #fbe4e4; }
+
+/* 暗黑模式（可按需微调） */
+.dark .notion-callout { color: #d4d4d4; }
+.dark .notion-callout.default { background: #2f2f2f; }
+.dark .notion-callout.transparent { background: transparent; }
+.dark .notion-callout.gray    { background: #2f2f2f; }
+.dark .notion-callout.brown   { background: #3a3232; }
+.dark .notion-callout.orange  { background: #3f362e; }
+.dark .notion-callout.yellow  { background: #3f392e; }
+.dark .notion-callout.green   { background: #2d3832; }
+.dark .notion-callout.blue    { background: #263341; }
+.dark .notion-callout.purple  { background: #362e40; }
+.dark .notion-callout.pink    { background: #3d2e37; }
+.dark .notion-callout.red     { background: #3e2d2e; }
+
+
+/* Figure 容器：整体居中 */
+.figure-center {
+  margin: 2rem auto;    /* 上下留白，左右自动居中 */
+  display: flex;
+  flex-direction: column;
+  align-items: center;  /* 内容水平居中 */
+  text-align: center;   /* 文字居中 */
+  max-width: 80%;       /* 限制最大宽度，防止太宽 */
+}
+
+/* 图片样式 */
+.figure-center img {
+  display: block;
+  margin-bottom: 12px;  /* 图片与文字间距 */
+  border-radius: 4px;   /* 可选：圆角 */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* 可选：加点阴影更好看 */
+  border: 1px solid #ddd; /* 可选：仿截图的边框 */
+}
+
+/* Caption 样式 (匹配 Markdown 渲染出的 p 标签) */
+.figure-center p {
+  margin: 0;
+  font-size: 14px;
+  color: #666;
+  line-height: 1.5;
+}
+
+/* 针对 Caption 中的加粗文字 (Figure 13) */
+.figure-center strong {
+  color: #000;
+  font-weight: 600;
+}
+
+/* 暗黑模式适配 */
+.dark .figure-center img {
+  border-color: #444;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+.dark .figure-center p {
+  color: #bbb;
+}
+.dark .figure-center strong {
+  color: #fff;
+}
+
+/**
+ * Component: Term (术语定义)
+ * 使用方式: ::: term termTitle
+ * -------------------------------------------------------------------------- */
+.term {
+  display: flex;
+  gap: 2rem;
+  margin: 0.5rem 0;
+  padding: 0.5rem 1rem;
+}
+
+.term-title {
+  flex: 0 0 120px;
+  font-size: 1rem;
+  font-weight: 600;
+  /* color: var(--vp-c-brand-1); */
+  line-height: 1.75;
+  padding-top: 2px;
+}
+
+.term-content {
+  flex: 1;
+  min-width: 0;
+  font-size: 0.95rem;
+  line-height: 1.75;
+  color: var(--vp-c-text-1);
+}
+
+.term-content > p:first-child {
+  margin-top: 0;
+}
+
+.term-content > p:last-child {
+  margin-bottom: 0;
+}
+
+/* 响应式：小屏幕垂直布局 */
+@media (max-width: 640px) {
+  .term {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .term-title {
+    flex: none;
+    font-size: 1.1rem;
+    border-bottom: 2px solid var(--vp-c-brand-soft);
+    padding-bottom: 0.5rem;
+  }
+}
+
+/* 暗黑模式 */
+.dark .term {
+  background: linear-gradient(135deg, #1a1a1a 0%, #242424 100%);
+  border-color: #333;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.dark .term-title {
+  color: var(--vp-c-brand-2);
+}
+
+.dark .term-content {
+  color: var(--vp-c-text-1);
+}
