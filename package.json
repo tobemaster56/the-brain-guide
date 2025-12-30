@@ -1,7 +1,11 @@
 {
-    "name": "vitepress-project",
+    "name": "the-brain-guide",
     "private": true,
     "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tobemaster56/the-brain-guide.git"
+    },
     "scripts": {
         "dev": "vitepress dev docs",
         "build": "vitepress build docs",
